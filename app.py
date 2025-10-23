@@ -8,7 +8,7 @@ from datetime import datetime
 st.set_page_config(page_title="EEB Version One Hours Tracker", layout="wide", page_icon="📊")
 
 CONTRACTOR_FILE = "Contractor File.xlsx"
-PROJECT_COLS = ['CDAS 6441', 'EDS 4834', 'EEB 9372', 'UAP SPM 9442', 'UAP IV 9443', 'SAL 9402']
+PROJECT_COLS = ['CDAS-6441', 'EDS-4834', 'EEB-9372', 'UAP-SPM-9442', 'UAP-IV-9443', 'UAPSAL-9402']
 
 @st.cache_data(ttl=10)
 def load_contractor_data():
@@ -66,10 +66,18 @@ st.markdown("### Data Engineering Team - Sprint Hour Management")
 DATA_FILE = "data/task_quicklist.xlsx"
 df = None
 
+# Load from local file if available
 if os.path.exists(DATA_FILE):
     try:
         raw_df = pd.read_excel(DATA_FILE)
         df = process_uploaded_file(raw_df)
+
+        # Dynamically populate Planning Level columns with Est. Hours
+        for code in PROJECT_COLS:
+            df[code] = df.apply(
+                lambda row: row["Est. Hours"] if row["Planning Level"] == code else 0.0,
+                axis=1
+            )
     except Exception as e:
         st.error(f"Error loading data file: {str(e)}")
 else:
@@ -79,17 +87,26 @@ else:
         try:
             raw_df = pd.read_excel(uploaded_file)
             df = process_uploaded_file(raw_df)
+
+            # Dynamically populate Planning Level columns with Est. Hours
+            for code in PROJECT_COLS:
+                df[code] = df.apply(
+                    lambda row: row["Est. Hours"] if row["Planning Level"] == code else 0.0,
+                    axis=1
+                )
         except Exception as e:
             st.error(f"Error loading uploaded file: {str(e)}")
 
+# Define tabs if data is loaded
 if df is not None:
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
         "📈 Dashboard",
         "➕ Add/Edit Hours",
         "📋 Sprint Report",
         "🏢 Project Tracking",
         "👥 Contractor Accountability",
-        "📊 Analytics"
+        "📊 Analytics",
+        "📂 Backlog Tasks"
     ])
 
     with tab1:
@@ -519,6 +536,20 @@ if df is not None:
         contractor_perf = contractor_perf.sort_values('Completed Hours', ascending=False)
 
         st.dataframe(contractor_perf, use_container_width=True)
+      
+    # --- TAB 7: 📂 Backlog Tasks ---
+    with tab7:
+        st.header("📂 Backlog Tasks")
+
+        backlog_df = df[df['Backlog'].notna() & (df['Backlog'].str.strip() != '')]
+
+        if backlog_df.empty:
+            st.info("No backlog tasks found.")
+        else:
+            st.dataframe(backlog_df[['Title', 'ID', 'Owner', 'Contractor Group', 'Status', 'Sprint',
+                                     'Backlog', 'Est. Hours', 'To Do', 'Completed Hours', 'Progress %']],
+                         use_container_width=True, height=400)
+
 
 st.markdown("---")
 st.caption(f"Last refreshed: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | EEB Data Engineering Team")
