@@ -75,7 +75,7 @@ if os.path.exists(DATA_FILE):
         # Dynamically populate Planning Level columns with Est. Hours
         for code in PROJECT_COLS:
             df[code] = df.apply(
-                lambda row: row["Est. Hours"] if row["Planning Level"] == code else 0.0,
+                lambda row: row["Est. Hours"] - row["To Do"] if row["Planning Level"] == code else 0.0,
                 axis=1
             )
     except Exception as e:
@@ -91,9 +91,10 @@ else:
             # Dynamically populate Planning Level columns with Est. Hours
             for code in PROJECT_COLS:
                 df[code] = df.apply(
-                    lambda row: row["Est. Hours"] if row["Planning Level"] == code else 0.0,
+                    lambda row: row["Est. Hours"] - row["To Do"] if row["Planning Level"] == code else 0.0,
                     axis=1
                 )
+
         except Exception as e:
             st.error(f"Error loading uploaded file: {str(e)}")
 
@@ -126,6 +127,13 @@ if df is not None:
             col4.metric("Overall Progress", f"{overall_progress:.1f}%")
 
             st.markdown("---")
+            
+            # ✅ Insert here
+            st.subheader("🔍 Completed Hours Validation")
+            st.dataframe(df[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10))
+
+            # Sprint chart
+            st.subheader("Hours by Sprint")
 
             # Sprint chart
             st.subheader("Hours by Sprint")
