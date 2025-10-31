@@ -1,3 +1,93 @@
 2025-10-23 20:07:21.119248 - Task ran
 2025-10-23 20:12:07.036494 - Task ran
 2025-10-23 21:27:18.522116 - Task ran
+2025-10-23 21:34:40.549482 - Task ran
+2025-10-23 21:44:36.391483 - Task ran
+2025-10-23 21:47:44.205319 - Task ran
+2025-10-23 21:59:41.863430 - Task ran
+[INFO] Starting Playwright at 2025-10-23 22:45:00.933231
+[INFO] Starting Playwright at 2025-10-24 11:44:22.550609
+[INFO] Starting Playwright at 2025-10-24 13:41:27.058282
+[INFO] Starting Playwright at 2025-10-30 07:13:00.579825
+[ERROR] Playwright failed: BrowserType.launch: Executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\winldd-1007\PrintDeps.exe
+╔═══════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.      ║
+║ Please run the following command to download new browser: ║
+║                                                           ║
+║     playwright install winldd                             ║
+║                                                           ║
+║ <3 Playwright Team                                        ║
+╚═══════════════════════════════════════════════════════════╝
+[INFO] Starting Playwright at 2025-10-30 07:13:11.600761
+[ERROR] Playwright failed: BrowserType.launch: Executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\winldd-1007\PrintDeps.exe
+╔═══════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.      ║
+║ Please run the following command to download new browser: ║
+║                                                           ║
+║     playwright install winldd                             ║
+║                                                           ║
+║ <3 Playwright Team                                        ║
+╚═══════════════════════════════════════════════════════════╝
+[DEBUG] Script reached at 2025-10-30 07:21:46.380523
+[INFO] Starting Playwright at 2025-10-30 07:21:46.699130
+[ERROR] Playwright failed: BrowserType.launch: Executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\winldd-1007\PrintDeps.exe
+╔═══════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.      ║
+║ Please run the following command to download new browser: ║
+║                                                           ║
+║     playwright install winldd                             ║
+║                                                           ║
+║ <3 Playwright Team                                        ║
+╚═══════════════════════════════════════════════════════════╝
+[DEBUG] Script reached at 2025-10-30 07:26:26.854247
+[INFO] Starting Playwright at 2025-10-30 07:26:26.870753
+[ERROR] Playwright failed: name 'sync_playwright' is not defined
+[DEBUG] Script reached at 2025-10-30 07:30:34.347000
+[INFO] Starting Playwright at 2025-10-30 07:30:34.363711
+[ERROR] Playwright failed: BrowserType.launch: Executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\winldd-1007\PrintDeps.exe
+╔═══════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.      ║
+║ Please run the following command to download new browser: ║
+║                                                           ║
+║     playwright install winldd                             ║
+║                                                           ║
+║ <3 Playwright Team                                        ║
+╚═══════════════════════════════════════════════════════════╝
+[DEBUG] Script reached at 2025-10-30 07:33:22.268714
+[INFO] Starting Playwright at 2025-10-30 07:33:22.268714
+[ERROR] Playwright failed: 'BrowserType' object has no attribute 'launch_executable_path'
+[DEBUG] Script reached at 2025-10-30 07:36:14.845767
+[INFO] Starting Playwright at 2025-10-30 07:36:14.847027
+[ERROR] Playwright failed: BrowserType.launch: Failed to launch chromium because executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe
+[DEBUG] Script reached at 2025-10-30 07:38:33.279818
+[INFO] Starting Playwright at 2025-10-30 07:38:33.279818
+[ERROR] Playwright failed: BrowserType.launch: Failed to launch chromium because executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe
+[DEBUG] Script reached at 2025-10-30 07:41:26.570831
+[INFO] Starting Playwright at 2025-10-30 07:41:26.579594
+[ERROR] Playwright failed: BrowserType.launch: spawn UNKNOWN
+Call log:
+  - <launching> C:\Users\tbh2j0\AppData\Local\ms-playwright\chromium_headless_shell-1187\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --user-data-dir=C:\Users\tbh2j0\AppData\Local\Temp\playwright_chromiumdev_profile-OrHV3Q --remote-debugging-pipe --no-startup-window
+
+[DEBUG] Script reached at 2025-10-30 07:56:25.916917
+[INFO] Starting Playwright at 2025-10-30 07:56:25.916917
+[ERROR] Playwright failed: BrowserType.launch: Executable doesn't exist at C:\Users\tbh2j0\AppData\Local\ms-playwright\firefox-1490\firefox\firefox.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+[DEBUG] Script reached at 2025-10-30 08:41:27.939217
+[INFO] Starting Playwright at 2025-10-30 08:41:27.944747
+[INFO] task_quicklist.xlsx saved at 2025-10-30 08:41:53.371144
+[INFO] Playwright completed at 2025-10-30 08:41:55.501977
+[DEBUG] Script reached at 2025-10-30 09:49:37.065581
+[INFO] Starting Playwright at 2025-10-30 09:49:37.071432
+[INFO] task_quicklist.xlsx saved at 2025-10-30 09:49:52.509346
+[INFO] Playwright completed at 2025-10-30 09:49:53.329063
+[DEBUG] Script reached at 2025-10-31 07:00:05.479478
+[INFO] Starting Playwright at 2025-10-31 07:00:05.479478
+[INFO] task_quicklist.xlsx saved at 2025-10-31 07:00:39.882546
+[INFO] Playwright completed at 2025-10-31 07:00:42.080854
