@@ -63,7 +63,7 @@ def get_all_contractors_with_hours(df):
 st.title("📊 EEB Version One Hours Tracker")
 st.markdown("### Data Engineering Team - Sprint Hour Management")
 
-DATA_FILE = "data/task_quicklist.xlsx"
+DATA_FILE = "task_quicklist.xlsx"
 df = None
 
 # Load from local file if available
