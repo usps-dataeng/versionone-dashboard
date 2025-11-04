@@ -252,8 +252,15 @@ if df is not None:
                 new_est_hours = st.number_input("Estimated Hours*", min_value=0.0, step=0.5, value=0.0)
                 new_todo = st.number_input("To Do Hours*", min_value=0.0, step=0.5, value=0.0)
                 new_backlog = st.text_input("Backlog", value="")
-                new_sprint = st.selectbox("Sprint*", options=sorted(df['Sprint'].unique().tolist() + ['Other']))
-                if new_sprint == 'Other':
+
+                # Ensure Sprint column is numeric
+                sprint_values = pd.to_numeric(df["Sprint"], errors="coerce").dropna().unique().tolist()
+                sprint_options = sorted(sprint_values)
+                sprint_options.append("Other")
+
+                new_sprint = st.selectbox("Sprint*", options=sprint_options)
+
+                if new_sprint == "Other":
                     new_sprint = st.text_input("Enter New Sprint Name")
 
             st.subheader("Project Hours Allocation")
