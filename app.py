@@ -150,12 +150,19 @@ if df is not None:
             # Display total completed hours
             total_completed = completed["Est. Hours"].sum()
             st.metric("Completed Hours", round(total_completed, 2))
-            
-            st.write("Filtered rows:", len(completed))
-            st.write("Available columns:", completed.columns.tolist())
 
-            # Show filtered completed tasks
-            st.dataframe(completed[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10))
+            # Dynamically detect project columns
+            PROJECT_COLS = [col for col in completed.columns if "-" in col]
+
+            # Build final column list
+            display_cols = ["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS
+            available_cols = [col for col in display_cols if col in completed.columns]
+
+            # Show filtered completed tasks or fallback message
+            if completed.empty:
+                st.warning("No completed tasks found for the selected sprint and view mode.")
+            else:
+                st.dataframe(completed[available_cols].head(10))
 
             # Sprint chart
             st.subheader("Hours by Sprint")
