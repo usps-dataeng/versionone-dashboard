@@ -131,17 +131,21 @@ if df is not None:
             # ✅ Insert here
             st.subheader("🔍 Completed Hours Validation")
 
+            # Ensure Sprint column is numeric
+            df["Sprint"] = pd.to_numeric(df["Sprint"], errors="coerce")
+
             # Get available sprints
             available_sprints = sorted(df["Sprint"].dropna().unique(), reverse=True)
-
-            # Sprint selector
             selected_sprint = st.selectbox("Select Sprint", available_sprints)
 
-            # Toggle for view mode
+            # View mode toggle
             view_mode = st.radio("View Mode", ["Current Sprint", "All Sprints"])
 
+            # Normalize status values
+            df["Status"] = df["Status"].astype(str).str.lower()
+
             # Filter completed tasks
-            completed = df[df["Status"].isin(["Done", "Closed"])]
+            completed = df[df["Status"].isin(["done", "closed"])]
 
             # Apply sprint filter if needed
             if view_mode == "Current Sprint":
@@ -152,20 +156,15 @@ if df is not None:
             st.metric("Completed Hours", round(total_completed, 2))
 
             # Dynamically detect project columns
-            PROJECT_COLS = [col for col in completed.columns if "-" in col]
-
-            # Build final column list
-            display_cols = ["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS
+            project_cols = [col for col in completed.columns if "-" in col]
+            display_cols = ["Owner", "Est. Hours", "To Do", "Completed Hours"] + project_cols
             available_cols = [col for col in display_cols if col in completed.columns]
 
-            # Show filtered completed tasks or fallback message
+            # Show filtered completed tasks or fallback
             if completed.empty:
                 st.warning("No completed tasks found for the selected sprint and view mode.")
             else:
-                st.dataframe(completed[available_cols].head(10))
-
-            # Sprint chart
-            st.subheader("Hours by Sprint")
+                st.dataframe(completed[available_cols].head(10))            
 
             # Sprint chart
             st.subheader("Hours by Sprint")
