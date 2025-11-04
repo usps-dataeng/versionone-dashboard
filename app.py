@@ -130,7 +130,29 @@ if df is not None:
             
             # ✅ Insert here
             st.subheader("🔍 Completed Hours Validation")
-            st.dataframe(df[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10))
+
+            # Get available sprints
+            available_sprints = sorted(df["Sprint"].dropna().unique(), reverse=True)
+
+            # Sprint selector
+            selected_sprint = st.selectbox("Select Sprint", available_sprints)
+
+            # Toggle for view mode
+            view_mode = st.radio("View Mode", ["Current Sprint", "All Sprints"])
+
+            # Filter completed tasks
+            completed = df[df["Status"].isin(["Done", "Closed"])]
+
+            # Apply sprint filter if needed
+            if view_mode == "Current Sprint":
+                completed = completed[completed["Sprint"] == selected_sprint]
+
+            # Display total completed hours
+            total_completed = completed["Est. Hours"].sum()
+            st.metric("Completed Hours", round(total_completed, 2))
+
+            # Show filtered completed tasks
+            st.dataframe(completed[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10)))
 
             # Sprint chart
             st.subheader("Hours by Sprint")
