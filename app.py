@@ -128,11 +128,6 @@ if df is not None:
 
             st.markdown("---")
             
-            st.write("Raw Sprint values:", df["Sprint"].dropna().unique())
-            st.write("Raw Status values:", df["Status"].dropna().unique())
-            st.write("Sample rows:", df[["Sprint", "Status", "Est. Hours", "To Do", "Completed Hours"]].head(10))
-
-            
             # ✅ Insert here
             st.subheader("🔍 Completed Hours Validation")
 
