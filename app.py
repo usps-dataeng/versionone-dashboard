@@ -162,7 +162,7 @@ if df is not None:
             if completed.empty:
                 st.warning("No completed tasks found for the selected sprint and view mode.")
             else:
-                st.dataframe(completed[available_cols].head(10))            
+                st.dataframe(completed[available_cols].head(25))            
 
             # Sprint chart
             st.subheader("Hours by Sprint")
