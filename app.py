@@ -23,7 +23,7 @@ def process_uploaded_file(uploaded_df):
 
     uploaded_df['Owner'] = uploaded_df['Owner'].astype(str).str.strip()
     uploaded_df['Status'] = uploaded_df['Status'].astype(str).fillna('Unknown')
-    uploaded_df['Sprint'] = uploaded_df['Sprint'].astype(str).fillna('No Sprint')
+    uploaded_df['Sprint'] = uploaded_df['Sprint'].astype(str).str.extract(r'(\d+)').astype(float)
     uploaded_df['Backlog'] = uploaded_df['Backlog'].astype(str).fillna('')
     uploaded_df['Est. Hours'] = pd.to_numeric(uploaded_df['Est. Hours'], errors='coerce').fillna(0)
     uploaded_df['To Do'] = pd.to_numeric(uploaded_df['To Do'], errors='coerce').fillna(0)
