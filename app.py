@@ -150,6 +150,9 @@ if df is not None:
             # Display total completed hours
             total_completed = completed["Est. Hours"].sum()
             st.metric("Completed Hours", round(total_completed, 2))
+            
+            st.write("Filtered rows:", len(completed))
+            st.write("Available columns:", completed.columns.tolist())
 
             # Show filtered completed tasks
             st.dataframe(completed[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10))
