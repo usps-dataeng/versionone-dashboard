@@ -152,7 +152,7 @@ if df is not None:
             st.metric("Completed Hours", round(total_completed, 2))
 
             # Show filtered completed tasks
-            st.dataframe(completed[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10)))
+            st.dataframe(completed[["Owner", "Est. Hours", "To Do", "Completed Hours"] + PROJECT_COLS].head(10))
 
             # Sprint chart
             st.subheader("Hours by Sprint")
