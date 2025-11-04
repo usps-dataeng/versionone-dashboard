@@ -136,8 +136,9 @@ if df is not None:
             # ✅ Insert here
             st.subheader("🔍 Completed Hours Validation")
 
-            # Ensure Sprint column is numeric
+            # Normalize Sprint and Status columns
             df["Sprint"] = pd.to_numeric(df["Sprint"], errors="coerce")
+            df["Status"] = df["Status"].astype(str).str.strip().str.lower()
 
             # Get available sprints
             available_sprints = sorted(df["Sprint"].dropna().unique(), reverse=True)
@@ -146,18 +147,15 @@ if df is not None:
             # View mode toggle
             view_mode = st.radio("View Mode", ["Current Sprint", "All Sprints"])
 
-            # Normalize status values
-            df["Status"] = df["Status"].astype(str).str.lower()
-
-            # Filter completed tasks
-            completed = df[df["Status"].isin(["done", "closed"])]
+            # Filter completed tasks using actual status values
+            completed = df[df["Status"] == "completed"]
 
             # Apply sprint filter if needed
             if view_mode == "Current Sprint":
                 completed = completed[completed["Sprint"] == selected_sprint]
 
             # Display total completed hours
-            total_completed = completed["Est. Hours"].sum()
+            total_completed = completed["Completed Hours"].sum()
             st.metric("Completed Hours", round(total_completed, 2))
 
             # Dynamically detect project columns
