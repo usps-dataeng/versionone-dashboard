@@ -28,9 +28,9 @@ def run_playwright():
         page.wait_for_load_state("networkidle")
         page.wait_for_timeout(5000)
 
-        # Step 1: Export CDAS-6441 (default view)
+        # Step 1: Export CDAS - 6441 (default view)
         try:
-            print("[INFO] Exporting CDAS-6441")
+            print("[INFO] Exporting CDAS - 6441")
             wrench = page.locator("svg.wrench").nth(1)
             wrench.wait_for(state="visible", timeout=10000)
             wrench.click(timeout=3000)
@@ -52,7 +52,7 @@ def run_playwright():
             page.wait_for_timeout(5000)
 
         except Exception as e:
-            print(f"[ERROR] Failed to export CDAS-6441: {str(e)}")
+            print(f"[ERROR] Failed to export CDAS - 6441: {str(e)}")
 
         # Step 2: Loop through remaining planning levels
         for pl in PLANNING_LEVELS:
@@ -153,33 +153,66 @@ def run_playwright():
 
         # Step 3: Reset back to CDAS-6441
         try:
-            print("\n[INFO] Resetting to CDAS-6441")
+            print("\n[INFO] Resetting to CDAS - 6441")
+
+            # Open dropdown
             page.locator(".new-project-selector").click(force=True)
             page.wait_for_timeout(2000)
 
-            cdas_matches = page.locator("text=CDAS-6441").all()
-            if cdas_matches:
-                cdas_matches[0].scroll_into_view_if_needed()
-                cdas_matches[0].click(force=True)
-                page.wait_for_timeout(2000)
+            cdas_matches = page.locator("text=CDAS - 6441").all()
+            match_count = len(cdas_matches)
+            print(f"[DEBUG] Found {match_count} matches for CDAS - 6441")
 
-                # Click Apply to confirm selection
+            selected = False
+            for i, match in enumerate(cdas_matches):
+                try:
+                    match.scroll_into_view_if_needed()
+                    match.click(force=True)
+                    page.wait_for_timeout(2000)
+                    print(f"[INFO] Clicked CDAS - 6441 match #{i+1}")
+                    selected = True
+                    break
+                except Exception as e:
+                    print(f"[WARN] CDAS - 6441 match #{i+1} failed: {e}")
+
+            # DON'T close dropdown - Apply button is inside it
+            if selected:
+                # Click Apply to confirm selection (dropdown is still open)
                 apply_selectors = [
                     "button.MuiButton-root:has-text('Apply')",
                     "button:has(span:text('Apply'))",
-                    "button >> text=Apply"
+                    "button.MuiButtonBase-root:has-text('Apply')",
+                    "button >> text=Apply",
+                    ".action-buttons button:has-text('Apply')",
+                    "#PlanningLevelFilters button:has-text('Apply')"
                 ]
+
+                clicked = False
                 for selector in apply_selectors:
                     try:
-                        page.locator(selector).first.click(force=True)
-                        print("[SUCCESS] Reset to CDAS-6441")
+                        apply_btn = page.locator(selector).first
+                        apply_btn.wait_for(state="visible", timeout=3000)
+                        apply_btn.scroll_into_view_if_needed()
+                        page.wait_for_timeout(500)
+                        apply_btn.click(force=True)
+                        print(f"[SUCCESS] Reset to CDAS - 6441 using selector: {selector}")
+                        clicked = True
                         break
-                    except:
-                        continue
+                    except Exception as e:
+                        print(f"[DEBUG] Apply selector '{selector}' failed: {e}")
 
-                page.wait_for_timeout(2000)
+                if clicked:
+                    page.wait_for_load_state("networkidle")
+                    page.wait_for_timeout(3000)
+            else:
+                print("[WARN] Could not select CDAS - 6441")
+
         except Exception as e:
-            print(f"[WARN] Could not reset to CDAS-6441: {e}")
+            print(f"[ERROR] Failed to reset to CDAS - 6441: {e}")
+            try:
+                page.screenshot(path=f"error_reset_cdas_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+            except:
+                pass
 
         browser.close()
         merge_tasklists(all_files)
@@ -203,5 +236,7 @@ def merge_tasklists(file_paths):
 
 if __name__ == "__main__":
     run_playwright()
+
+
 
 
