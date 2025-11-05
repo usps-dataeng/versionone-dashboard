@@ -151,6 +151,36 @@ def run_playwright():
                 except:
                     pass
 
+        # Step 3: Reset back to CDAS-6441
+        try:
+            print("\n[INFO] Resetting to CDAS-6441")
+            page.locator(".new-project-selector").click(force=True)
+            page.wait_for_timeout(2000)
+
+            cdas_matches = page.locator("text=CDAS-6441").all()
+            if cdas_matches:
+                cdas_matches[0].scroll_into_view_if_needed()
+                cdas_matches[0].click(force=True)
+                page.wait_for_timeout(2000)
+
+                # Click Apply to confirm selection
+                apply_selectors = [
+                    "button.MuiButton-root:has-text('Apply')",
+                    "button:has(span:text('Apply'))",
+                    "button >> text=Apply"
+                ]
+                for selector in apply_selectors:
+                    try:
+                        page.locator(selector).first.click(force=True)
+                        print("[SUCCESS] Reset to CDAS-6441")
+                        break
+                    except:
+                        continue
+
+                page.wait_for_timeout(2000)
+        except Exception as e:
+            print(f"[WARN] Could not reset to CDAS-6441: {e}")
+
         browser.close()
         merge_tasklists(all_files)
 
