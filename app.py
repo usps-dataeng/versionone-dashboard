@@ -38,6 +38,11 @@ def process_uploaded_file(uploaded_df):
     uploaded_df['Contractor Group'] = uploaded_df['Contractor Group'].fillna('Unknown')
 
     uploaded_df['Completed Hours'] = uploaded_df['Est. Hours'] - uploaded_df['To Do']
+    for code in PROJECT_COLS:
+        uploaded_df[code] = uploaded_df.apply(
+            lambda row: row['Completed Hours'] if row['Planning Level'] == code else 0.0,
+            axis=1
+        )
     uploaded_df['Progress %'] = ((uploaded_df['Completed Hours'] / uploaded_df['Est. Hours']) * 100).fillna(0).round(1)
     uploaded_df['Total Project Hours'] = uploaded_df[PROJECT_COLS].sum(axis=1)
 
@@ -71,12 +76,6 @@ if os.path.exists(DATA_FILE):
     try:
         raw_df = pd.read_excel(DATA_FILE, engine="openpyxl")
         df = process_uploaded_file(raw_df)
-
-        for code in PROJECT_COLS:
-            df[code] = df.apply(
-                lambda row: row["Est. Hours"] - row["To Do"] if row["Planning Level"] == code else 0.0,
-                axis=1
-            )
     except Exception as e:
         st.error(f"Error loading data file: {str(e)}")
 else:
@@ -86,15 +85,9 @@ else:
         try:
             raw_df = pd.read_excel(uploaded_file, engine="openpyxl")
             df = process_uploaded_file(raw_df)
-
-            for code in PROJECT_COLS:
-                df[code] = df.apply(
-                    lambda row: row["Est. Hours"] - row["To Do"] if row["Planning Level"] == code else 0.0,
-                    axis=1
-                )
-
         except Exception as e:
             st.error(f"Error loading uploaded file: {str(e)}")
+
 
 # Define tabs if data is loaded
 if df is not None:
@@ -229,7 +222,7 @@ if df is not None:
                     return 'background-color: #EF553B; color: white'
 
             styled_df = display_df.style.applymap(color_progress, subset=['Progress %'])
-            st.write(styled_df)
+            st.dataframe(display_df, use_container_width=True, height=400)
             
         else:
             st.info("Please upload a Version One Excel file to begin.")
