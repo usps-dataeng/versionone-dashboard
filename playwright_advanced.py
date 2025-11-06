@@ -233,15 +233,22 @@ def merge_tasklists(file_paths):
     for f in file_paths:
         try:
             df = pd.read_excel(f)
+            print(f"[DEBUG] Columns in {f}: {df.columns.tolist()}")
 
-            # Compute Completed Hours using math, not Status
-            df["Completed Hours"] = df["Est. Hours"] - df["To Do Hours"]
+            # Compute Completed Hours using Est. Hours and To Do
+            if "Est. Hours" in df.columns and "To Do" in df.columns:
+                df["Completed Hours"] = df["Est. Hours"] - df["To Do"]
+            else:
+                print(f"[WARN] Missing Est. Hours or To Do in {f}")
 
-            # Optional: flag tasks that are functionally complete but not marked as Completed
-            df["ShouldBeCompleted"] = (df["To Do Hours"] == 0) & (df["Status"] != "Completed")
+            # Flag tasks that are functionally complete but not marked as Completed
+            if "To Do" in df.columns and "Status" in df.columns:
+                df["ShouldBeCompleted"] = (df["To Do"] == 0) & (df["Status"] != "Completed")
 
-            # Tag the planning level from filename
-            df["Planning Level"] = os.path.basename(f).split("_")[1].replace(".xlsx", "")
+            # Tag Planning Level from filename
+            tag = os.path.splitext(os.path.basename(f))[0].replace("tasklist_", "")
+            df["Planning Level"] = tag
+
             dfs.append(df)
 
         except Exception as e:
@@ -249,8 +256,9 @@ def merge_tasklists(file_paths):
 
     if dfs:
         tasklist_df = pd.concat(dfs, ignore_index=True)
+        print(f"[DEBUG] Final merged shape: {tasklist_df.shape}")
         tasklist_df.to_excel(FINAL_OUTPUT, index=False, engine="openpyxl")
-        print(f"[SUCCESS] Combined CSV saved to {FINAL_OUTPUT}")
+        print(f"[SUCCESS] Combined Excel saved to {FINAL_OUTPUT}")
     else:
         print("[ERROR] No files to merge")
 
