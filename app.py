@@ -42,6 +42,10 @@ def process_uploaded_file(uploaded_df):
     uploaded_df['Total Project Hours'] = uploaded_df[PROJECT_COLS].sum(axis=1)
 
     return uploaded_df
+    
+    st.write("Raw columns:", uploaded_df.columns.tolist())
+    st.write("Sample project values:", uploaded_df[PROJECT_COLS].head())
+
 
 def get_all_contractors_with_hours(df):
     contractor_df = load_contractor_data()
