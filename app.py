@@ -157,6 +157,12 @@ if df is not None:
             # ✅ Display total completed hours using math
             total_completed = filtered_df["Completed Hours"].sum()
             st.metric("Completed Hours", round(total_completed, 2))
+            
+            # ✅ Show completed hours by project category
+            project_summary = filtered_df[project_cols].sum().sort_values(ascending=False)
+            st.subheader("Completed Hours by Project")
+            st.dataframe(project_summary.rename("Completed Hours").to_frame())
+
 
             # Dynamically detect project columns
             project_cols = [col for col in filtered_df.columns if "-" in col]
@@ -204,8 +210,13 @@ if df is not None:
             if group_filter:
                 filtered_df = filtered_df[filtered_df['Contractor Group'].isin(group_filter)]
             if project_filter:
-                mask = filtered_df[project_filter].gt(0).any(axis=1)
-                filtered_df = filtered_df[mask]
+                missing_cols = [col for col in project_filter if col not in filtered_df.columns]
+                if missing_cols:
+                    st.warning(f"Missing project columns: {missing_cols}")
+                else:
+                    mask = filtered_df[project_filter].gt(0).any(axis=1)
+                    filtered_df = filtered_df[mask]
+
 
             display_df = filtered_df[['Title', 'ID', 'Owner', 'Contractor Group', 'Status', 'Sprint',
                                       'Est. Hours', 'Completed Hours', 'To Do', 'Progress %', 'Total Project Hours']]
@@ -219,7 +230,7 @@ if df is not None:
                     return 'background-color: #EF553B; color: white'
 
             styled_df = display_df.style.applymap(color_progress, subset=['Progress %'])
-            st.dataframe(styled_df, use_container_width=True, height=400)
+            st.write(styled_df)
             
         else:
             st.info("Please upload a Version One Excel file to begin.")
