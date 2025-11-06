@@ -222,8 +222,27 @@ def merge_tasklists(file_paths):
     for f in file_paths:
         try:
             df = pd.read_excel(f)
+
+            # Normalize column names
+            df.columns = df.columns.str.strip().str.replace(" ", "").str.lower()
+
+            # Match actual column names: 'est.hours' and 'todo'
+            est_col = "est.hours"
+            todo_col = "todo"
+
+            if est_col in df.columns and todo_col in df.columns:
+                df["Completed Hours"] = df[est_col] - df[todo_col]
+            else:
+                print(f"[WARN] Missing Est or To Do columns in {f}")
+
+            # Optional: flag tasks that are functionally complete but not marked as Completed
+            if todo_col in df.columns and "status" in df.columns:
+                df["ShouldBeCompleted"] = (df[todo_col] == 0) & (df["status"] != "Completed")
+
+            # Tag the planning level from filename
             df["Planning Level"] = os.path.basename(f).split("_")[1].replace(".xlsx", "")
             dfs.append(df)
+
         except Exception as e:
             print(f"[ERROR] Failed to read {f}: {str(e)}")
 
