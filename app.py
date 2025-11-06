@@ -69,10 +69,9 @@ df = None
 # Load from local file if available
 if os.path.exists(DATA_FILE):
     try:
-        raw_df = pd.read_excel(DATA_FILE)
+        raw_df = pd.read_excel(DATA_FILE, engine="openpyxl")
         df = process_uploaded_file(raw_df)
 
-        # Dynamically populate Planning Level columns with Est. Hours
         for code in PROJECT_COLS:
             df[code] = df.apply(
                 lambda row: row["Est. Hours"] - row["To Do"] if row["Planning Level"] == code else 0.0,
@@ -85,10 +84,9 @@ else:
     uploaded_file = st.file_uploader("📤 Upload Version One Export File", type=["xlsx"])
     if uploaded_file:
         try:
-            raw_df = pd.read_excel(uploaded_file)
+            raw_df = pd.read_excel(uploaded_file, engine="openpyxl")
             df = process_uploaded_file(raw_df)
 
-            # Dynamically populate Planning Level columns with Est. Hours
             for code in PROJECT_COLS:
                 df[code] = df.apply(
                     lambda row: row["Est. Hours"] - row["To Do"] if row["Planning Level"] == code else 0.0,
