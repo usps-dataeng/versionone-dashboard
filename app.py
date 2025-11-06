@@ -161,15 +161,15 @@ if df is not None:
             st.metric("Completed Hours", round(total_completed, 2))
 
             # Dynamically detect project columns
-            project_cols = [col for col in completed.columns if "-" in col]
+            project_cols = [col for col in filtered_df.columns if "-" in col]
             display_cols = ["Owner", "Est. Hours", "To Do", "Completed Hours"] + project_cols
-            available_cols = [col for col in display_cols if col in completed.columns]
+            available_cols = [col for col in display_cols if col in filtered_df.columns]
 
-            # Show filtered completed tasks or fallback
-            if completed.empty:
-                st.warning("No completed tasks found for the selected sprint and view mode.")
+            # Show filtered tasks or fallback
+            if filtered_df.empty:
+                st.warning("No tasks found for the selected sprint and planning level.")
             else:
-                st.dataframe(completed[available_cols].head(25))            
+                st.dataframe(filtered_df[available_cols].head(50))            
 
             # Sprint chart
             st.subheader("Hours by Sprint")
