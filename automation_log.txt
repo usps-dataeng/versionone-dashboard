@@ -202,3 +202,165 @@ Call log:
 [INFO] Starting Playwright at 2025-11-04 10:46:31.299926
 [INFO] task_quicklist.xlsx saved at 2025-11-04 10:47:17.217766
 [INFO] Playwright completed at 2025-11-04 10:47:19.903944
+[DEBUG] Script reached at 2025-11-04 11:58:07.769752
+[INFO] Starting Playwright at 2025-11-04 11:58:07.769752
+[INFO] task_quicklist.xlsx saved at 2025-11-04 11:58:52.324693
+[INFO] Playwright completed at 2025-11-04 11:58:55.154236
+[DEBUG] Script reached at 2025-11-04 12:33:13.699510
+[INFO] Starting Playwright at 2025-11-04 12:33:13.706001
+[ERROR] Playwright step failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard/task_quicklist.xlsx'
+[INFO] Playwright completed at 2025-11-04 12:33:45.600467
+[DEBUG] Script reached at 2025-11-04 19:11:51.360714
+[INFO] Starting Playwright at 2025-11-04 19:11:51.370746
+[ERROR] Failed for CDAS-6441: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("text=CDAS-6441")
+
+[ERROR] Failed for EDS-4834: Locator.click: Error: strict mode violation: locator("text=EDS-4834") resolved to 5 elements:
+    1) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_pleyeo\"]").get_by_role("link", name="EDS-")
+    2) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_pleyes\"]").get_by_role("link", name="EDS-")
+    3) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_pleyew\"]").get_by_role("link", name="EDS-")
+    4) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_pleyfa\"]").get_by_role("link", name="EDS-")
+    5) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_pleyfe\"]").get_by_role("link", name="EDS-")
+
+Call log:
+  - waiting for locator("text=EDS-4834")
+
+[ERROR] Failed for EEB-9372: Locator.click: Error: strict mode violation: locator("text=EEB-9372") resolved to 3 elements:
+    1) <span>EEB-9372</span> aka get_by_test_id("planning-level-stair-Scope:8220438").get_by_text("EEB-")
+    2) <span class="">EEB-9372</span> aka get_by_text("EEB-").nth(1)
+    3) <span class="">EEB-9372</span> aka get_by_text("EEB-").nth(2)
+
+Call log:
+  - waiting for locator("text=EEB-9372")
+
+[ERROR] Failed for UAP-IV-9443: Locator.click: Error: strict mode violation: locator("text=UAP-IV-9443") resolved to 2 elements:
+    1) <span>UAP-IV-9443</span> aka get_by_test_id("planning-level-stair-Scope:8943265").get_by_text("UAP-IV-")
+    2) <span class="">UAP-IV-9443</span> aka get_by_test_id("recently-viewed-Scope:8943265").get_by_text("UAP-IV-")
+
+Call log:
+  - waiting for locator("text=UAP-IV-9443")
+
+[ERROR] Failed for UAPSAL-9402: Locator.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("svg.wrench").nth(1)
+    - locator resolved to <svg focusable="false" aria-labelledby="title" class="svg-icon wrench  ">…</svg>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="selector-modal">…</div> from <div id="app-shell" class="top-bar-new">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="selector-modal">…</div> from <div id="app-shell" class="top-bar-new">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="selector-modal">…</div> from <div id="app-shell" class="top-bar-new">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
+[ERROR] Failed for UAP-SPM-9442: Locator.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("svg.wrench").nth(1)
+    - locator resolved to <svg focusable="false" aria-labelledby="title" class="svg-icon wrench  ">…</svg>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="selector-modal">…</div> from <div id="app-shell" class="top-bar-new">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="selector-modal">…</div> from <div id="app-shell" class="top-bar-new">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="selector-modal">…</div> from <div id="app-shell" class="top-bar-new">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
+[ERROR] No files to merge at 2025-11-04 19:13:53.811850
+[INFO] Playwright completed at 2025-11-04 19:13:53.833043
+[DEBUG] Script reached at 2025-11-04 19:17:03.408772
+[INFO] Starting Playwright at 2025-11-04 19:17:03.410767
+[ERROR] Failed for CDAS-6441: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("text=CDAS-6441")
+
+[ERROR] Failed for EDS-4834: Locator.click: Error: strict mode violation: locator("text=EDS-4834") resolved to 5 elements:
+    1) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_plfaqx\"]").get_by_role("link", name="EDS-")
+    2) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_plfarb\"]").get_by_role("link", name="EDS-")
+    3) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_plfarf\"]").get_by_role("link", name="EDS-")
+    4) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_plfarj\"]").get_by_role("link", name="EDS-")
+    5) <a target="_blank" rel="Scope:6026544" data-assettype="Scope" class="open-by-name asset-hover asset-scope-link" href="/v1/Project.mvc/Summary?oidToken=Scope%3A6026544" data-hoverhref="/v1/Project.mvc/hover?Oid=Scope%3A6026544">EDS-4834</a> aka locator("[id=\"_plfarn\"]").get_by_role("link", name="EDS-")
+
+Call log:
+  - waiting for locator("text=EDS-4834")
+
+[ERROR] Failed for EEB-9372: Locator.click: Error: strict mode violation: locator("text=EEB-9372") resolved to 3 elements:
+    1) <span>EEB-9372</span> aka get_by_test_id("planning-level-stair-Scope:8220438").get_by_text("EEB-")
+    2) <span class="">EEB-9372</span> aka get_by_text("EEB-").nth(1)
+    3) <span class="">EEB-9372</span> aka get_by_text("EEB-").nth(2)
+
+Call log:
+  - waiting for locator("text=EEB-9372")
+
+[ERROR] Failed for UAP-IV-9443: Locator.click: Error: strict mode violation: locator("text=UAP-IV-9443") resolved to 2 elements:
+    1) <span>UAP-IV-9443</span> aka get_by_test_id("planning-level-stair-Scope:8943265").get_by_text("UAP-IV-")
+    2) <span class="">UAP-IV-9443</span> aka get_by_test_id("recently-viewed-Scope:8943265").get_by_text("UAP-IV-")
+
+Call log:
+  - waiting for locator("text=UAP-IV-9443")
+
+[ERROR] Failed for UAPSAL-9402: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[value='Apply']")
+
+[ERROR] Failed for UAP-SPM-9442: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[value='Apply']")
+
+[ERROR] No files to merge at 2025-11-04 19:19:43.239509
+[INFO] Playwright completed at 2025-11-04 19:19:43.251910
+[DEBUG] Script reached at 2025-11-05 06:00:06.211429
+[INFO] Starting Playwright at 2025-11-05 06:00:06.211429
+[INFO] Playwright completed at 2025-11-05 06:03:46.186940
+[DEBUG] Script reached at 2025-11-05 09:47:35.757463
+[INFO] Starting Playwright at 2025-11-05 09:47:35.759473
+[INFO] Playwright completed at 2025-11-05 09:48:02.089706
+[DEBUG] Script reached at 2025-11-05 09:55:31.944334
+[INFO] Starting Playwright at 2025-11-05 09:55:31.944334
+[ERROR] Playwright failed: Page.wait_for_timeout: Target page, context or browser has been closed
+[DEBUG] Script reached at 2025-11-05 10:21:14.431813
+[INFO] Starting Playwright at 2025-11-05 10:21:14.431813
+[INFO] Playwright completed at 2025-11-05 10:23:02.129374
+[DEBUG] Script reached at 2025-11-06 06:00:06.598214
+[INFO] Starting Playwright at 2025-11-06 06:00:06.600205
+[INFO] Playwright completed at 2025-11-06 06:02:48.802229
+[DEBUG] Script reached at 2025-11-06 07:21:41.889371
+[INFO] Starting Playwright at 2025-11-06 07:21:41.893054
+[INFO] Playwright completed at 2025-11-06 07:23:56.743488
+[DEBUG] Script reached at 2025-11-06 08:01:56.878991
+[INFO] Starting Playwright at 2025-11-06 08:01:56.880996
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.csv'
+[DEBUG] Script reached at 2025-11-06 09:29:54.038269
+[INFO] Starting Playwright at 2025-11-06 09:29:54.048052
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.csv'
+[DEBUG] Script reached at 2025-11-06 10:05:51.614648
+[INFO] Starting Playwright at 2025-11-06 10:05:51.621178
