@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 
 DOWNLOAD_DIR = "C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard"
-FINAL_OUTPUT = os.path.join(DOWNLOAD_DIR, "task_quicklist.csv")
+FINAL_OUTPUT = os.path.join(DOWNLOAD_DIR, "task_quicklist.xlsx")
 CHROMIUM_PATH = "C:/Users/tbh2j0/AppData/Local/ms-playwright/chromium-1187/chrome-win/chrome.exe"
 V1_URL = "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage"
 
@@ -240,7 +240,11 @@ def merge_tasklists(file_paths):
                 df["ShouldBeCompleted"] = (df[todo_col] == 0) & (df["status"] != "Completed")
 
             # Tag the planning level from filename
-            df["Planning Level"] = os.path.basename(f).split("_")[1].replace(".xlsx", "")
+            tag = os.path.basename(f).split("_")[1].replace(".xlsx", "")
+            df["Planning Level"] = next(
+                (pl for pl in ["CDAS - 6441"] + PLANNING_LEVELS if pl.replace("-", "").replace(" ", "") == tag),
+                tag)
+
             dfs.append(df)
 
         except Exception as e:
@@ -248,7 +252,7 @@ def merge_tasklists(file_paths):
 
     if dfs:
         tasklist_df = pd.concat(dfs, ignore_index=True)
-        tasklist_df.to_csv(FINAL_OUTPUT, index=False)
+        tasklist_df.to_excel(FINAL_OUTPUT, index=False)
         print(f"[SUCCESS] Combined CSV saved to {FINAL_OUTPUT}")
     else:
         print("[ERROR] No files to merge")
