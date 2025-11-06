@@ -254,7 +254,7 @@ def merge_tasklists(file_paths):
 
     if dfs:
         tasklist_df = pd.concat(dfs, ignore_index=True)
-        tasklist_df.to_excel(FINAL_OUTPUT, index=False)
+        tasklist_df.to_excel(FINAL_OUTPUT, index=False, engine="openpyxl")
         print(f"[SUCCESS] Combined CSV saved to {FINAL_OUTPUT}")
     else:
         print("[ERROR] No files to merge")
