@@ -20,7 +20,7 @@ PLANNING_LEVELS = [
 
 def run_playwright():
     with sync_playwright() as p:
-        browser = p.chromium.launch(executable_path=CHROMIUM_PATH, headless=False)
+        browser = p.chromium.launch(executable_path=CHROMIUM_PATH, headless=True)
         context = browser.new_context(accept_downloads=True)
         page = context.new_page()
 
@@ -66,9 +66,18 @@ def run_playwright():
                 page.wait_for_timeout(2000)
 
                 # Find and click the planning level
-                matches = page.locator(f"text={pl}").all()
+                max_attempts = 5
+                matches = []
+                for attempt in range(max_attempts):
+                    matches = page.locator(f"text={pl}").all()
+                    if matches:
+                        break
+                    print(f"[DEBUG] Attempt {attempt+1}: no matches for {pl}")
+                    page.wait_for_timeout(1000)
+
                 match_count = len(matches)
                 print(f"[DEBUG] Found {match_count} matches for {pl}")
+
 
                 if match_count == 0:
                     raise Exception(f"No matching elements found for {pl}")
