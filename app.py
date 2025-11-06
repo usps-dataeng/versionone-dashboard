@@ -37,12 +37,7 @@ def process_uploaded_file(uploaded_df):
     uploaded_df = uploaded_df.merge(contractor_df[['Owner', 'Contractor Group']], on='Owner', how='left')
     uploaded_df['Contractor Group'] = uploaded_df['Contractor Group'].fillna('Unknown')
 
-    uploaded_df['Completed Hours'] = uploaded_df['Est. Hours'] - uploaded_df['To Do']
-    for code in PROJECT_COLS:
-        uploaded_df[code] = uploaded_df.apply(
-            lambda row: row['Completed Hours'] if row['Planning Level'] == code else 0.0,
-            axis=1
-        )
+    uploaded_df['Completed Hours'] = uploaded_df['Est. Hours'] - uploaded_df['To Do']    
     uploaded_df['Progress %'] = ((uploaded_df['Completed Hours'] / uploaded_df['Est. Hours']) * 100).fillna(0).round(1)
     uploaded_df['Total Project Hours'] = uploaded_df[PROJECT_COLS].sum(axis=1)
 
@@ -150,12 +145,7 @@ if df is not None:
 
             # ✅ Display total completed hours using math
             total_completed = filtered_df["Completed Hours"].sum()
-            st.metric("Completed Hours", round(total_completed, 2))
-
-            # ✅ Show completed hours by project category
-            project_summary = filtered_df[project_cols].sum().sort_values(ascending=False)
-            st.subheader("Completed Hours by Project")
-            st.dataframe(project_summary.rename("Completed Hours").to_frame())
+            st.metric("Completed Hours", round(total_completed, 2))            
 
             # Dynamically detect project columns            
             display_cols = ["Owner", "Est. Hours", "To Do", "Completed Hours"] + project_cols
