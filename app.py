@@ -142,10 +142,11 @@ if df is not None:
 
             # Filter by sprint if needed
             filtered_df = df.copy()
+            project_cols = [col for col in filtered_df.columns if "-" in col]  # ✅ Move this up
 
             # ✅ Apply sprint filter
             if view_mode == "Current Sprint":
-                filtered_df = filtered_df[filtered_df["Sprint"] == selected_sprint]  # <-- fix typo here
+                filtered_df = filtered_df[filtered_df["Sprint"] == selected_sprint]
 
             # ✅ Add Planning Level filter
             planning_levels = sorted(df["Planning Level"].dropna().unique())
@@ -157,15 +158,13 @@ if df is not None:
             # ✅ Display total completed hours using math
             total_completed = filtered_df["Completed Hours"].sum()
             st.metric("Completed Hours", round(total_completed, 2))
-            
+
             # ✅ Show completed hours by project category
             project_summary = filtered_df[project_cols].sum().sort_values(ascending=False)
             st.subheader("Completed Hours by Project")
             st.dataframe(project_summary.rename("Completed Hours").to_frame())
 
-
-            # Dynamically detect project columns
-            project_cols = [col for col in filtered_df.columns if "-" in col]
+            # Dynamically detect project columns            
             display_cols = ["Owner", "Est. Hours", "To Do", "Completed Hours"] + project_cols
             available_cols = [col for col in display_cols if col in filtered_df.columns]
 
