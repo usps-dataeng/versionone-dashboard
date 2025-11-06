@@ -247,6 +247,15 @@ def merge_tasklists(file_paths):
 
             # Tag Planning Level from filename
             tag = os.path.splitext(os.path.basename(f))[0].replace("tasklist_", "")
+            planning_level_map = {
+                "CDAS6441": "CDAS-6441",
+                "EDS4834": "EDS-4834",
+                "EEB9372": "EEB-9372",
+                "UAPIV9443": "UAP-IV-9443",
+                "UAPSAL9402": "UAPSAL-9402",
+                "UAPSPM9442": "UAP-SPM-9442"
+            }
+            tag = planning_level_map.get(tag, tag)
             df["Planning Level"] = tag
 
             dfs.append(df)
