@@ -29,10 +29,14 @@ def process_uploaded_file(uploaded_df):
     uploaded_df['To Do'] = pd.to_numeric(uploaded_df['To Do'], errors='coerce').fillna(0)
 
     for col in PROJECT_COLS:
-        if col not in uploaded_df.columns:
-            uploaded_df[col] = 0.0
-        else:
+        if col in uploaded_df.columns:
             uploaded_df[col] = pd.to_numeric(uploaded_df[col], errors='coerce').fillna(0)
+        else:
+            # Derive project hours from Planning Level only if column is missing
+            uploaded_df[col] = uploaded_df.apply(
+                lambda row: row["Completed Hours"] if row.get("Planning Level") == col else 0.0,
+                axis=1
+            )
 
     uploaded_df = uploaded_df.merge(contractor_df[['Owner', 'Contractor Group']], on='Owner', how='left')
     uploaded_df['Contractor Group'] = uploaded_df['Contractor Group'].fillna('Unknown')
