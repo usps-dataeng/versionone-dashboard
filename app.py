@@ -142,15 +142,22 @@ if df is not None:
             # View mode toggle
             view_mode = st.radio("View Mode", ["Current Sprint", "All Sprints"])
 
-            # Filter completed tasks using actual status values
-            completed = df[df["Status"] == "completed"]
+            # Filter by sprint if needed
+            filtered_df = df.copy()
 
-            # Apply sprint filter if needed
+            # ✅ Apply sprint filter
             if view_mode == "Current Sprint":
-                completed = completed[completed["Sprint"] == selected_sprint]
+                filtered_df = filtered_df[filtered_df["Sprint"] == selected_sprint]  # <-- fix typo here
 
-            # Display total completed hours
-            total_completed = completed["Completed Hours"].sum()
+            # ✅ Add Planning Level filter
+            planning_levels = sorted(df["Planning Level"].dropna().unique())
+            selected_pl = st.selectbox("Filter by Planning Level", ["All"] + planning_levels)
+
+            if selected_pl != "All":
+                filtered_df = filtered_df[filtered_df["Planning Level"] == selected_pl]
+
+            # ✅ Display total completed hours using math
+            total_completed = filtered_df["Completed Hours"].sum()
             st.metric("Completed Hours", round(total_completed, 2))
 
             # Dynamically detect project columns
