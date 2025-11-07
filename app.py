@@ -419,9 +419,16 @@ if df is not None:
     with tab4:
         st.header("🏢 Project Tracking")
 
-        total_project_hours = df['Total Project Hours'].sum()
-        tasks_with_projects = len(df[df['Total Project Hours'] > 0])
-        total_tasks = len(df)
+        # Sprint filter
+        all_sprints = ['All Sprints'] + sorted(df['Sprint'].unique().tolist(), reverse=True)
+        selected_sprint_pt = st.selectbox("Filter by Sprint", options=all_sprints, key="project_tracking_sprint")
+
+        # Apply sprint filter
+        df_filtered_pt = df.copy() if selected_sprint_pt == 'All Sprints' else df[df['Sprint'] == selected_sprint_pt]
+
+        total_project_hours = df_filtered_pt['Total Project Hours'].sum()
+        tasks_with_projects = len(df_filtered_pt[df_filtered_pt['Total Project Hours'] > 0])
+        total_tasks = len(df_filtered_pt)
 
         col1, col2, col3 = st.columns(3)
         col1.metric("Total Project Hours", f"{total_project_hours:,.1f}")
@@ -434,7 +441,7 @@ if df is not None:
 
         with col1:
             st.subheader("Hours by Project")
-            project_summary = df[PROJECT_COLS].sum().reset_index()
+            project_summary = df_filtered_pt[PROJECT_COLS].sum().reset_index()
             project_summary.columns = ['Project', 'Hours']
             project_summary = project_summary[project_summary['Hours'] > 0].sort_values('Hours', ascending=False)
 
@@ -456,7 +463,7 @@ if df is not None:
         st.markdown("---")
         st.subheader("Project Hours by Sprint")
 
-        project_by_sprint = df.groupby('Sprint')[PROJECT_COLS].sum().reset_index()
+        project_by_sprint = df_filtered_pt.groupby('Sprint')[PROJECT_COLS].sum().reset_index()
         project_by_sprint = project_by_sprint.sort_values('Sprint')
 
         fig_proj_sprint = go.Figure()
@@ -471,7 +478,7 @@ if df is not None:
         st.subheader("Detailed Project Allocation")
 
         selected_project = st.selectbox("Select Project to View Details", options=PROJECT_COLS)
-        project_tasks = df[df[selected_project] > 0][['Title', 'ID', 'Owner', 'Contractor Group', 'Sprint', 'Status',
+        project_tasks = df_filtered_pt[df_filtered_pt[selected_project] > 0][['Title', 'ID', 'Owner', 'Contractor Group', 'Sprint', 'Status',
                                                       selected_project, 'Est. Hours', 'Progress %']].sort_values(selected_project, ascending=False)
 
         if not project_tasks.empty:
@@ -487,7 +494,14 @@ if df is not None:
     with tab5:
         st.header("👥 Contractor Accountability")
 
-        all_contractors = get_all_contractors_with_hours(df)
+        # Sprint filter
+        all_sprints_ca = ['All Sprints'] + sorted(df['Sprint'].unique().tolist(), reverse=True)
+        selected_sprint_ca = st.selectbox("Filter by Sprint", options=all_sprints_ca, key="contractor_accountability_sprint")
+
+        # Apply sprint filter
+        df_filtered_ca = df.copy() if selected_sprint_ca == 'All Sprints' else df[df['Sprint'] == selected_sprint_ca]
+
+        all_contractors = get_all_contractors_with_hours(df_filtered_ca)
 
         total_contractors = len(all_contractors)
         active_contractors = len(all_contractors[all_contractors['Task Count'] > 0])
@@ -556,11 +570,18 @@ if df is not None:
     with tab6:
         st.header("📊 Analytics & Trends")
 
+        # Sprint filter
+        all_sprints_an = ['All Sprints'] + sorted(df['Sprint'].unique().tolist(), reverse=True)
+        selected_sprint_an = st.selectbox("Filter by Sprint", options=all_sprints_an, key="analytics_sprint")
+
+        # Apply sprint filter
+        df_filtered_an = df.copy() if selected_sprint_an == 'All Sprints' else df[df['Sprint'] == selected_sprint_an]
+
         col1, col2 = st.columns(2)
 
         with col1:
             st.subheader("Sprint Velocity Trend")
-            sprint_velocity = df.groupby('Sprint')['Completed Hours'].sum().reset_index().sort_values('Sprint')
+            sprint_velocity = df_filtered_an.groupby('Sprint')['Completed Hours'].sum().reset_index().sort_values('Sprint')
             fig_velocity = px.line(sprint_velocity, x='Sprint', y='Completed Hours', markers=True,
                                    line_shape='spline', height=400)
             fig_velocity.update_traces(line_color='#00CC96', line_width=3)
@@ -568,14 +589,14 @@ if df is not None:
 
         with col2:
             st.subheader("Task Status Distribution")
-            status_dist = df.groupby('Status').size().reset_index(name='Count')
+            status_dist = df_filtered_an.groupby('Status').size().reset_index(name='Count')
             fig_status_dist = px.bar(status_dist, x='Status', y='Count', color='Status', height=400)
             st.plotly_chart(fig_status_dist, use_container_width=True)
 
         st.markdown("---")
         st.subheader("Top 10 Tasks by Hours")
 
-        top_tasks = df.nlargest(10, 'Est. Hours')[['Title', 'Owner', 'Contractor Group', 'Sprint',
+        top_tasks = df_filtered_an.nlargest(10, 'Est. Hours')[['Title', 'Owner', 'Contractor Group', 'Sprint',
                                                    'Est. Hours', 'Completed Hours', 'To Do',
                                                    'Progress %', 'Total Project Hours']]
         st.dataframe(top_tasks, use_container_width=True)
@@ -583,7 +604,7 @@ if df is not None:
         st.markdown("---")
         st.subheader("Contractor Group Performance")
 
-        contractor_perf = df.groupby('Contractor Group').agg({
+        contractor_perf = df_filtered_an.groupby('Contractor Group').agg({
             'Title': 'count',
             'Est. Hours': 'sum',
             'Completed Hours': 'sum',
@@ -602,7 +623,14 @@ if df is not None:
     with tab7:
         st.header("📂 Backlog Tasks")
 
-        backlog_df = df[df['Backlog'].notna() & (df['Backlog'].str.strip() != '')]
+        # Sprint filter
+        all_sprints_bl = ['All Sprints'] + sorted(df['Sprint'].unique().tolist(), reverse=True)
+        selected_sprint_bl = st.selectbox("Filter by Sprint", options=all_sprints_bl, key="backlog_sprint")
+
+        # Apply sprint filter
+        df_filtered_bl = df.copy() if selected_sprint_bl == 'All Sprints' else df[df['Sprint'] == selected_sprint_bl]
+
+        backlog_df = df_filtered_bl[df_filtered_bl['Backlog'].notna() & (df_filtered_bl['Backlog'].str.strip() != '')]
 
         if backlog_df.empty:
             st.info("No backlog tasks found.")
