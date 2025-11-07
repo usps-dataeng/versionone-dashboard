@@ -248,7 +248,7 @@ def merge_tasklists(file_paths):
             # Tag Planning Level from filename
             tag = os.path.splitext(os.path.basename(f))[0].replace("tasklist_", "")
             planning_level_map = {
-                "CDAS6441": "CDAS-6441",
+                "CDAS6441": "CDAS - 6441",
                 "EDS4834": "EDS-4834",
                 "EEB9372": "EEB-9372",
                 "UAPIV9443": "UAP-IV-9443",
@@ -273,7 +273,6 @@ def merge_tasklists(file_paths):
 
 if __name__ == "__main__":
     run_playwright()
-
 
 
 

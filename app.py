@@ -8,11 +8,14 @@ from datetime import datetime
 st.set_page_config(page_title="EEB Version One Hours Tracker", layout="wide", page_icon="📊")
 
 CONTRACTOR_FILE = "Contractor File.xlsx"
-PROJECT_COLS = ['CDAS-6441', 'EDS-4834', 'EEB-9372', 'UAP-SPM-9442', 'UAP-IV-9443', 'UAPSAL-9402']
+PROJECT_COLS = ['CDAS - 6441', 'EDS-4834', 'EEB-9372', 'UAP-SPM-9442', 'UAP-IV-9443', 'UAPSAL-9402']
 
 @st.cache_data(ttl=10)
 def load_contractor_data():
     df = pd.read_excel(CONTRACTOR_FILE)
+    # Map old column names to new ones if needed
+    rename_map = {'CDAS-6441': 'CDAS - 6441'}
+    df = df.rename(columns=rename_map)
     df = df[['Contractor Group', 'Names'] + PROJECT_COLS].copy()
     df.columns = ['Contractor Group', 'Owner'] + PROJECT_COLS
     df['Owner'] = df['Owner'].astype(str).str.strip()
@@ -28,20 +31,27 @@ def process_uploaded_file(uploaded_df):
     uploaded_df['Est. Hours'] = pd.to_numeric(uploaded_df['Est. Hours'], errors='coerce').fillna(0)
     uploaded_df['To Do'] = pd.to_numeric(uploaded_df['To Do'], errors='coerce').fillna(0)
 
+    uploaded_df = uploaded_df.merge(contractor_df[['Owner', 'Contractor Group']], on='Owner', how='left')
+    uploaded_df['Contractor Group'] = uploaded_df['Contractor Group'].fillna('Unknown')
+
+    # Calculate Completed Hours FIRST
+    uploaded_df['Completed Hours'] = uploaded_df['Est. Hours'] - uploaded_df['To Do']
+
+    # Now populate project columns - preserve existing values or derive from Planning Level
     for col in PROJECT_COLS:
         if col in uploaded_df.columns:
-            uploaded_df[col] = pd.to_numeric(uploaded_df[col], errors='coerce').fillna(0)
+            # Preserve existing project hours, but fill missing with Planning Level logic
+            uploaded_df[col] = pd.to_numeric(uploaded_df[col], errors='coerce')
+            mask = uploaded_df[col].isna() | (uploaded_df[col] == 0)
+            uploaded_df.loc[mask & (uploaded_df.get('Planning Level') == col), col] = uploaded_df.loc[mask & (uploaded_df.get('Planning Level') == col), 'Completed Hours']
+            uploaded_df[col] = uploaded_df[col].fillna(0)
         else:
-            # Derive project hours from Planning Level only if column is missing
+            # Column doesn't exist - derive from Planning Level
             uploaded_df[col] = uploaded_df.apply(
                 lambda row: row["Completed Hours"] if row.get("Planning Level") == col else 0.0,
                 axis=1
             )
 
-    uploaded_df = uploaded_df.merge(contractor_df[['Owner', 'Contractor Group']], on='Owner', how='left')
-    uploaded_df['Contractor Group'] = uploaded_df['Contractor Group'].fillna('Unknown')
-
-    uploaded_df['Completed Hours'] = uploaded_df['Est. Hours'] - uploaded_df['To Do']    
     uploaded_df['Progress %'] = ((uploaded_df['Completed Hours'] / uploaded_df['Est. Hours']) * 100).fillna(0).round(1)
     uploaded_df['Total Project Hours'] = uploaded_df[PROJECT_COLS].sum(axis=1)
 
@@ -200,12 +210,8 @@ if df is not None:
             if group_filter:
                 filtered_df = filtered_df[filtered_df['Contractor Group'].isin(group_filter)]
             if project_filter:
-                missing_cols = [col for col in project_filter if col not in filtered_df.columns]
-                if missing_cols:
-                    st.warning(f"Missing project columns: {missing_cols}")
-                else:
-                    mask = filtered_df[project_filter].gt(0).any(axis=1)
-                    filtered_df = filtered_df[mask]
+                # Filter by Planning Level matching the selected projects
+                filtered_df = filtered_df[filtered_df['Planning Level'].isin(project_filter)]
 
 
             display_df = filtered_df[['Title', 'ID', 'Owner', 'Contractor Group', 'Status', 'Sprint',
