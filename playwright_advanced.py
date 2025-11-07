@@ -61,8 +61,17 @@ def run_playwright():
             try:
                 print(f"\n[INFO] Selecting planning level: {pl}")
 
+                # Ensure any open modals are closed
+                try:
+                    page.keyboard.press("Escape")
+                    page.wait_for_timeout(500)
+                except:
+                    pass
+
                 # Open dropdown
-                page.locator(".new-project-selector").click(force=True)
+                dropdown = page.locator(".new-project-selector")
+                dropdown.wait_for(state="visible", timeout=10000)
+                dropdown.click(force=True)
                 page.wait_for_timeout(2000)
 
                 # Find and click the planning level
@@ -82,25 +91,8 @@ def run_playwright():
                 if match_count == 0:
                     raise Exception(f"No matching elements found for {pl}")
 
+                # Try each match until we find one that shows the Apply button
                 selected = False
-                for i, match in enumerate(matches):
-                    try:
-                        match.scroll_into_view_if_needed()
-                        match.click(force=True)
-                        page.wait_for_timeout(2000)
-                        print(f"[INFO] Clicked match #{i+1} for {pl}")
-                        selected = True
-                        break
-                    except Exception as e:
-                        print(f"[WARN] Match #{i+1} failed: {e}")
-
-                if not selected:
-                    raise Exception(f"Failed to select {pl} after trying all matches")
-
-                # DON'T close dropdown - Apply button is inside it
-                # Click Apply button while dropdown is still open
-                print("[INFO] Attempting to click Apply button (inside dropdown)")
-
                 apply_selectors = [
                     "button.MuiButton-root:has-text('Apply')",
                     "button:has(span:text('Apply'))",
@@ -110,6 +102,41 @@ def run_playwright():
                     "#PlanningLevelFilters button:has-text('Apply')"
                 ]
 
+                for i, match in enumerate(matches):
+                    try:
+                        print(f"[DEBUG] Trying match #{i+1}/{match_count} for {pl}")
+                        match.scroll_into_view_if_needed()
+                        match.click(force=True)
+                        page.wait_for_timeout(1500)
+
+                        # Check if Apply button appears after clicking this match
+                        apply_visible = False
+                        for selector in apply_selectors:
+                            try:
+                                apply_btn = page.locator(selector).first
+                                apply_btn.wait_for(state="visible", timeout=1000)
+                                apply_visible = True
+                                print(f"[SUCCESS] Match #{i+1} shows Apply button")
+                                break
+                            except:
+                                continue
+
+                        if apply_visible:
+                            selected = True
+                            break
+                        else:
+                            print(f"[DEBUG] Match #{i+1} did not show Apply button, trying next")
+
+                    except Exception as e:
+                        print(f"[DEBUG] Failed to click match #{i+1}: {str(e)}")
+
+                if not selected:
+                    print("[WARN] No match showed Apply button, taking screenshot")
+                    page.screenshot(path=f"no_apply_button_{pl}.png")
+                    raise Exception(f"No valid match found for {pl}")
+
+                # Click Apply button
+                print("[INFO] Clicking Apply button")
                 clicked = False
                 for selector in apply_selectors:
                     try:
@@ -118,16 +145,24 @@ def run_playwright():
                         apply_btn.scroll_into_view_if_needed()
                         page.wait_for_timeout(500)
                         apply_btn.click(force=True)
-                        print(f"[SUCCESS] Clicked Apply using selector: {selector}")
+                        print(f"[SUCCESS] Applied using selector: {selector}")
                         clicked = True
                         break
                     except Exception as e:
                         print(f"[DEBUG] Selector '{selector}' failed: {e}")
 
                 if not clicked:
-                    print("[WARN] All selectors failed, taking screenshot")
+                    print("[WARN] Apply button click failed, taking screenshot")
                     page.screenshot(path=f"apply_button_debug_{pl}.png")
-                    raise Exception("Failed to click Apply button with all selectors")
+                    raise Exception("Failed to click Apply button")
+
+                # Wait for the selector modal to close
+                print("[INFO] Waiting for modal to close...")
+                try:
+                    page.wait_for_selector("div.selector-modal", state="hidden", timeout=10000)
+                    print("[SUCCESS] Modal closed")
+                except:
+                    print("[WARN] Modal close timeout, continuing anyway")
 
                 # Wait for page to reload
                 page.wait_for_load_state("networkidle")
@@ -159,6 +194,16 @@ def run_playwright():
                 print(f"[ERROR] Failed for {pl}: {str(e)}")
                 try:
                     page.screenshot(path=f"error_{pl}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png")
+                except:
+                    pass
+
+                # Try to recover by closing any open modals/menus
+                try:
+                    print("[INFO] Attempting to recover from error...")
+                    page.keyboard.press("Escape")
+                    page.wait_for_timeout(1000)
+                    page.keyboard.press("Escape")
+                    page.wait_for_timeout(1000)
                 except:
                     pass
 
@@ -233,11 +278,16 @@ def merge_tasklists(file_paths):
     for f in file_paths:
         try:
             df = pd.read_excel(f)
-            print(f"[DEBUG] Columns in {f}: {df.columns.tolist()}")
+            print(f"\n[DEBUG] Processing: {f}")
+            print(f"[DEBUG] Rows in file: {len(df)}")
 
             # Compute Completed Hours using Est. Hours and To Do
             if "Est. Hours" in df.columns and "To Do" in df.columns:
                 df["Completed Hours"] = df["Est. Hours"] - df["To Do"]
+                total_completed = df["Completed Hours"].sum()
+                total_est = df["Est. Hours"].sum()
+                print(f"[DEBUG] Total Est. Hours: {total_est:.2f}")
+                print(f"[DEBUG] Total Completed Hours: {total_completed:.2f}")
             else:
                 print(f"[WARN] Missing Est. Hours or To Do in {f}")
 
@@ -257,6 +307,7 @@ def merge_tasklists(file_paths):
             }
             tag = planning_level_map.get(tag, tag)
             df["Planning Level"] = tag
+            print(f"[DEBUG] Tagged as Planning Level: {tag}")
 
             dfs.append(df)
 
@@ -265,9 +316,30 @@ def merge_tasklists(file_paths):
 
     if dfs:
         tasklist_df = pd.concat(dfs, ignore_index=True)
-        print(f"[DEBUG] Final merged shape: {tasklist_df.shape}")
+        print(f"\n[DEBUG] ===== FINAL MERGED FILE =====")
+        print(f"[DEBUG] Total rows: {tasklist_df.shape[0]}")
+        print(f"[DEBUG] Total columns: {tasklist_df.shape[1]}")
+
+        # Debug: Print row counts and hours per planning level
+        if 'Planning Level' in tasklist_df.columns:
+            print(f"\n[DEBUG] Summary by Planning Level:")
+            for pl in sorted(tasklist_df['Planning Level'].unique()):
+                pl_df = tasklist_df[tasklist_df['Planning Level'] == pl]
+                row_count = len(pl_df)
+                completed_hours = pl_df['Completed Hours'].sum() if 'Completed Hours' in pl_df.columns else 0
+                est_hours = pl_df['Est. Hours'].sum() if 'Est. Hours' in pl_df.columns else 0
+                print(f"  {pl}: {row_count} rows, Est: {est_hours:.2f}h, Completed: {completed_hours:.2f}h")
+
+        # Debug: Check for duplicate IDs
+        if 'ID' in tasklist_df.columns:
+            duplicate_ids = tasklist_df[tasklist_df.duplicated(subset=['ID'], keep=False)]
+            if not duplicate_ids.empty:
+                print(f"\n[WARN] Found {len(duplicate_ids)} rows with duplicate IDs")
+                print(f"[WARN] Unique duplicate IDs: {duplicate_ids['ID'].nunique()}")
+                print(f"[INFO] This is expected if tasks belong to multiple Planning Levels")
+
         tasklist_df.to_excel(FINAL_OUTPUT, index=False, engine="openpyxl")
-        print(f"[SUCCESS] Combined Excel saved to {FINAL_OUTPUT}")
+        print(f"\n[SUCCESS] Combined Excel saved to {FINAL_OUTPUT}")
     else:
         print("[ERROR] No files to merge")
 
