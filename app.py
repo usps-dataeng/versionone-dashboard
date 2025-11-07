@@ -173,7 +173,7 @@ if df is not None:
             if filtered_df.empty:
                 st.warning("No tasks found for the selected sprint and planning level.")
             else:
-                st.dataframe(filtered_df[available_cols].head(50))            
+                st.dataframe(filtered_df[available_cols].head(200))            
 
             # Sprint chart
             st.subheader("Hours by Sprint")
