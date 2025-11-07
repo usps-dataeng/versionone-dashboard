@@ -75,6 +75,11 @@ def get_all_contractors_with_hours(df):
     all_contractors = all_contractors.merge(hours_by_owner, on='Owner', how='left')
     all_contractors = all_contractors.fillna(0)
 
+    # Round hour columns to 2 decimal places
+    all_contractors['Est. Hours'] = all_contractors['Est. Hours'].round(2)
+    all_contractors['Completed Hours'] = all_contractors['Completed Hours'].round(2)
+    all_contractors['To Do'] = all_contractors['To Do'].round(2)
+
     return all_contractors
     
 # --- Streamlit UI ---
@@ -173,7 +178,7 @@ if df is not None:
             if filtered_df.empty:
                 st.warning("No tasks found for the selected sprint and planning level.")
             else:
-                st.dataframe(filtered_df[available_cols].head(200))            
+                st.dataframe(filtered_df[available_cols].head(50))            
 
             # Sprint chart
             st.subheader("Hours by Sprint")
