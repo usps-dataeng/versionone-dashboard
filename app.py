@@ -4,6 +4,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 st.set_page_config(page_title="Version One Hours Tracker", layout="wide", page_icon="📊")
 
@@ -649,5 +650,6 @@ if df is not None:
 
 
 st.markdown("---")
-st.caption(f"Last refreshed: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | EEB Data Engineering Team")
+eastern_time = datetime.now(ZoneInfo("America/New_York"))
+st.caption(f"Last refreshed: {eastern_time.strftime('%Y-%m-%d %I:%M:%S %p ET')} | Data Engineering Team")
 
