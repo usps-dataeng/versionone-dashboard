@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-st.set_page_config(page_title="EEB Version One Hours Tracker", layout="wide", page_icon="📊")
+st.set_page_config(page_title="Version One Hours Tracker", layout="wide", page_icon="📊")
 
 CONTRACTOR_FILE = "Contractor File.xlsx"
 PROJECT_COLS = ['CDAS - 6441', 'EDS-4834', 'EEB-9372', 'UAP-SPM-9442', 'UAP-IV-9443', 'UAPSAL-9402']
@@ -83,7 +83,7 @@ def get_all_contractors_with_hours(df):
     return all_contractors
     
 # --- Streamlit UI ---
-st.title("📊 EEB Version One Hours Tracker")
+st.title("📊 Version One Hours Tracker")
 st.markdown("### Data Engineering Team - Sprint Hour Management")
 
 DATA_FILE = "task_quicklist.xlsx"
@@ -650,3 +650,4 @@ if df is not None:
 
 st.markdown("---")
 st.caption(f"Last refreshed: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | EEB Data Engineering Team")
+
