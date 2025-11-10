@@ -651,5 +651,5 @@ if df is not None:
 
 st.markdown("---")
 eastern_time = datetime.now(ZoneInfo("America/New_York"))
-st.caption(f"Last refreshed: {eastern_time.strftime('%Y-%m-%d %I:%M:%S %p ET')} | Data Engineering Team")
+st.caption(f"Last refreshed: {eastern_time.strftime('%Y-%m-%d %I:%M:%S %p ET')} | EEB Data Engineering Team")
 
