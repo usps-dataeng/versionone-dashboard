@@ -319,9 +319,17 @@ if df is not None:
 
                 col1, col2 = st.columns(2)
                 with col1:
-                    upd_owner = st.selectbox("Update Owner", options=available_owners, index=available_owners.index(task_data['Owner']) if task_data['Owner'] in available_owners else 0)
-                    upd_contractor_group = contractor_df[contractor_df['Owner'] == upd_owner]['Contractor Group'].iloc[0] if upd_owner in contractor_df['Owner'].values else task_data['Contractor Group']
-                    st.info(f"Contractor Group: {upd_contractor_group}")
+                    owner_options = available_owners + ['Other']
+                    current_owner_idx = available_owners.index(task_data['Owner']) if task_data['Owner'] in available_owners else len(available_owners)
+                    upd_owner = st.selectbox("Update Owner", options=owner_options, index=current_owner_idx)
+
+                    if upd_owner == 'Other':
+                        upd_owner = st.text_input("Enter Owner Name", value=task_data['Owner'])
+                        upd_contractor_group = st.text_input("Enter Contractor Group", value=task_data['Contractor Group'])
+                    else:
+                        upd_contractor_group = contractor_df[contractor_df['Owner'] == upd_owner]['Contractor Group'].iloc[0] if upd_owner in contractor_df['Owner'].values else task_data['Contractor Group']
+                        st.info(f"Contractor Group: {upd_contractor_group}")
+
                     upd_status = st.selectbox("Update Status", options=sorted(df['Status'].unique()), index=sorted(df['Status'].unique().tolist()).index(task_data['Status']))
 
                 with col2:
