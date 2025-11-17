@@ -30,6 +30,17 @@ def run_playwright():
         page.wait_for_load_state("networkidle")
         page.wait_for_timeout(5000)
 
+        # Dismiss any banner notifications that might block the UI
+        try:
+            print("[INFO] Checking for banner notifications to dismiss")
+            dismiss_btn = page.locator("button:has-text('Dismiss')")
+            if dismiss_btn.is_visible(timeout=3000):
+                dismiss_btn.click()
+                print("[SUCCESS] Dismissed banner notification")
+                page.wait_for_timeout(1000)
+        except Exception as e:
+            print(f"[INFO] No banner to dismiss or already dismissed: {str(e)}")
+
         # Step 1: Export CDAS - 6441 (default view)
         try:
             print("[INFO] Exporting CDAS - 6441")
@@ -345,6 +356,3 @@ def merge_tasklists(file_paths):
 
 if __name__ == "__main__":
     run_playwright()
-
-
-
