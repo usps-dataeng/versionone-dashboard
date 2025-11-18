@@ -200,7 +200,7 @@ if df is not None:
 
             # Filters
             col1, col2, col3, col4, col5 = st.columns(5)
-            sprint_filter = col1.multiselect("Sprint", sorted(df['Sprint'].unique()))
+            sprint_filter = col1.multiselect("Sprint", sorted(df['Sprint'].dropna().unique()))
             owner_filter = col2.multiselect("Owner", sorted(df['Owner'].unique()))
             status_filter = col3.multiselect("Status", sorted(df['Status'].unique()))
             group_filter = col4.multiselect("Contractor Group", sorted(df['Contractor Group'].unique()))
@@ -651,5 +651,4 @@ if df is not None:
 
 st.markdown("---")
 eastern_time = datetime.now(ZoneInfo("America/New_York"))
-st.caption(f"Last refreshed: {eastern_time.strftime('%Y-%m-%d %I:%M:%S %p ET')} | EEB Data Engineering Team")
-
+st.caption(f"Last refreshed: {eastern_time.strftime('%Y-%m-%d %I:%M:%S %p ET')} | Data Engineering Team")
