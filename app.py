@@ -542,7 +542,12 @@ if df is not None:
                 return ['background-color: #ffcccb'] * len(row)
             return [''] * len(row)
 
-        styled_contractors = filtered_contractors.style.apply(highlight_inactive, axis=1)
+        styled_contractors = filtered_contractors.style.apply(highlight_inactive, axis=1).format({
+            'Est. Hours': '{:.1f}',
+            'Completed Hours': '{:.1f}',
+            'To Do': '{:.1f}',
+            'Task Count': '{:.0f}'
+        })
         st.dataframe(styled_contractors, use_container_width=True, height=500)
 
         st.markdown("---")
