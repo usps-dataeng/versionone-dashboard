@@ -20,8 +20,18 @@ try:
     run_playwright()
     with open("automation_log.txt", "a", encoding="utf-8", errors="replace") as log:
         log.write(f"[INFO] Playwright completed at {datetime.now()}\n")
+
+    # Push to GitHub after successful scraping
+    from auto_push import push_to_github
+    with open("automation_log.txt", "a", encoding="utf-8", errors="replace") as log:
+        log.write(f"[INFO] Starting git push at {datetime.now()}\n")
+
+    push_to_github()
+
+    with open("automation_log.txt", "a", encoding="utf-8", errors="replace") as log:
+        log.write(f"[INFO] Git push completed at {datetime.now()}\n")
+
 except Exception as e:
     with open("automation_log.txt", "a", encoding="utf-8", errors="replace") as log:
-        log.write(f"[ERROR] Playwright failed: {str(e)}\n")
-
+        log.write(f"[ERROR] Workflow failed: {str(e)}\n")
 
