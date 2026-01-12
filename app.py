@@ -125,6 +125,10 @@ if df is not None:
         st.header("📈 Overview Dashboard")
 
         if df is not None:
+            # Debug info - show what's actually loaded
+            unique_sprints = sorted(df['Sprint'].dropna().unique())
+            st.info(f"📊 Loaded data contains {len(df)} tasks across {len(unique_sprints)} sprints: {unique_sprints}")
+
             # Summary metrics
             total_est = df['Est. Hours'].sum()
             total_completed = df['Completed Hours'].sum()
