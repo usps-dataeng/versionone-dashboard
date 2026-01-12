@@ -364,3 +364,3322 @@ Call log:
 [ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.csv'
 [DEBUG] Script reached at 2025-11-06 10:05:51.614648
 [INFO] Starting Playwright at 2025-11-06 10:05:51.621178
+[DEBUG] Script reached at 2025-11-06 10:13:54.129003
+[INFO] Starting Playwright at 2025-11-06 10:13:54.129648
+[INFO] Playwright completed at 2025-11-06 10:16:14.979372
+[DEBUG] Script reached at 2025-11-06 11:13:21.989677
+[INFO] Starting Playwright at 2025-11-06 11:13:21.993612
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-06 11:20:09.259967
+[INFO] Starting Playwright at 2025-11-06 11:20:09.259967
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-06 11:25:11.519224
+[INFO] Starting Playwright at 2025-11-06 11:25:11.521225
+[INFO] Playwright completed at 2025-11-06 11:27:04.168876
+[DEBUG] Script reached at 2025-11-06 11:43:04.347947
+[INFO] Starting Playwright at 2025-11-06 11:43:04.347947
+[INFO] Playwright completed at 2025-11-06 11:45:34.355707
+[DEBUG] Script reached at 2025-11-06 12:00:19.879886
+[INFO] Starting Playwright at 2025-11-06 12:00:19.879886
+[INFO] Playwright completed at 2025-11-06 12:02:45.562909
+[DEBUG] Script reached at 2025-11-06 12:05:09.906499
+[INFO] Starting Playwright at 2025-11-06 12:05:09.911484
+[INFO] Playwright completed at 2025-11-06 12:07:33.701056
+[DEBUG] Script reached at 2025-11-06 12:17:15.002946
+[INFO] Starting Playwright at 2025-11-06 12:17:15.009828
+[INFO] Playwright completed at 2025-11-06 12:19:41.340098
+[DEBUG] Script reached at 2025-11-06 12:33:41.988351
+[INFO] Starting Playwright at 2025-11-06 12:33:41.989352
+[INFO] Playwright completed at 2025-11-06 12:36:13.422225
+[DEBUG] Script reached at 2025-11-06 13:01:49.777466
+[INFO] Starting Playwright at 2025-11-06 13:01:49.777466
+[INFO] Playwright completed at 2025-11-06 13:05:00.445529
+[DEBUG] Script reached at 2025-11-06 13:22:28.445716
+[INFO] Starting Playwright at 2025-11-06 13:22:28.445716
+[INFO] Playwright completed at 2025-11-06 13:24:56.754263
+[DEBUG] Script reached at 2025-11-06 13:41:28.615354
+[INFO] Starting Playwright at 2025-11-06 13:41:28.615354
+[INFO] Playwright completed at 2025-11-06 13:43:54.715638
+[DEBUG] Script reached at 2025-11-06 13:55:55.919813
+[INFO] Starting Playwright at 2025-11-06 13:55:55.919813
+[INFO] Playwright completed at 2025-11-06 13:58:27.120189
+[DEBUG] Script reached at 2025-11-06 14:28:10.418672
+[INFO] Starting Playwright at 2025-11-06 14:28:10.418672
+[INFO] Playwright completed at 2025-11-06 14:31:27.616903
+[DEBUG] Script reached at 2025-11-06 17:10:47.239703
+[INFO] Starting Playwright at 2025-11-06 17:10:47.246797
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-06 18:01:41.218779
+[INFO] Starting Playwright at 2025-11-06 18:01:41.231800
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-06 18:37:49.873695
+[INFO] Starting Playwright at 2025-11-06 18:37:49.878217
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-06 22:00:05.450294
+[INFO] Starting Playwright at 2025-11-06 22:00:05.453939
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-07 02:00:04.880070
+[INFO] Starting Playwright at 2025-11-07 02:00:04.883341
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-07 05:56:17.807843
+[INFO] Starting Playwright at 2025-11-07 05:56:17.811709
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-07 06:00:07.059393
+[INFO] Starting Playwright at 2025-11-07 06:00:07.061092
+[ERROR] Playwright failed: [Errno 13] Permission denied: 'C:/Users/tbh2j0/OneDrive - USPS/Test Folder/versionone_dashboard\\task_quicklist.xlsx'
+[DEBUG] Script reached at 2025-11-07 07:02:38.635926
+[INFO] Starting Playwright at 2025-11-07 07:02:38.651213
+[INFO] Playwright completed at 2025-11-07 07:05:25.751453
+[DEBUG] Script reached at 2025-11-07 07:14:02.066906
+[INFO] Starting Playwright at 2025-11-07 07:14:02.066906
+[DEBUG] Script reached at 2025-11-07 07:16:30.890269
+[INFO] Starting Playwright at 2025-11-07 07:16:30.890269
+[INFO] Playwright completed at 2025-11-07 07:19:13.937581
+[DEBUG] Script reached at 2025-11-07 10:00:07.318055
+[INFO] Starting Playwright at 2025-11-07 10:00:07.320588
+[DEBUG] Script reached at 2025-11-07 10:05:03.891900
+[INFO] Starting Playwright at 2025-11-07 10:05:03.898444
+[INFO] Playwright completed at 2025-11-07 10:07:39.019057
+[DEBUG] Script reached at 2025-11-07 14:00:06.783882
+[INFO] Starting Playwright at 2025-11-07 14:00:06.786876
+[INFO] Playwright completed at 2025-11-07 14:02:38.528937
+[DEBUG] Script reached at 2025-11-07 18:00:06.323415
+[INFO] Starting Playwright at 2025-11-07 18:00:06.325744
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-07 22:00:06.651487
+[INFO] Starting Playwright at 2025-11-07 22:00:06.658070
+[INFO] Playwright completed at 2025-11-07 22:02:43.532231
+[DEBUG] Script reached at 2025-11-08 02:00:06.870948
+[INFO] Starting Playwright at 2025-11-08 02:00:06.874980
+[INFO] Playwright completed at 2025-11-08 02:02:42.376063
+[DEBUG] Script reached at 2025-11-08 06:00:05.860676
+[INFO] Starting Playwright at 2025-11-08 06:00:05.863692
+[INFO] Playwright completed at 2025-11-08 06:02:34.335533
+[DEBUG] Script reached at 2025-11-08 10:00:07.777356
+[INFO] Starting Playwright at 2025-11-08 10:00:07.780373
+[INFO] Playwright completed at 2025-11-08 10:02:38.147755
+[DEBUG] Script reached at 2025-11-08 14:00:06.307739
+[INFO] Starting Playwright at 2025-11-08 14:00:06.309619
+[INFO] Playwright completed at 2025-11-08 14:02:35.917451
+[DEBUG] Script reached at 2025-11-08 18:00:06.985212
+[INFO] Starting Playwright at 2025-11-08 18:00:06.987208
+[INFO] Playwright completed at 2025-11-08 18:02:37.788425
+[DEBUG] Script reached at 2025-11-09 16:11:09.963180
+[INFO] Starting Playwright at 2025-11-09 16:11:09.972989
+[INFO] Playwright completed at 2025-11-09 16:15:12.213619
+[DEBUG] Script reached at 2025-11-09 18:00:07.835894
+[INFO] Starting Playwright at 2025-11-09 18:00:07.839907
+[INFO] Playwright completed at 2025-11-09 18:02:42.386191
+[DEBUG] Script reached at 2025-11-10 06:00:06.828891
+[INFO] Starting Playwright at 2025-11-10 06:00:06.830902
+[INFO] Playwright completed at 2025-11-10 06:02:42.466376
+[DEBUG] Script reached at 2025-11-10 10:00:07.883948
+[INFO] Starting Playwright at 2025-11-10 10:00:07.883948
+[INFO] Playwright completed at 2025-11-10 10:02:46.801415
+[DEBUG] Script reached at 2025-11-10 14:00:07.535235
+[INFO] Starting Playwright at 2025-11-10 14:00:07.535235
+[INFO] Playwright completed at 2025-11-10 14:02:44.922033
+[DEBUG] Script reached at 2025-11-10 18:00:06.799902
+[INFO] Starting Playwright at 2025-11-10 18:00:06.810982
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-10 22:00:06.578597
+[INFO] Starting Playwright at 2025-11-10 22:00:06.582196
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-11 02:00:05.963276
+[INFO] Starting Playwright at 2025-11-11 02:00:05.965302
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-11 06:00:05.525408
+[INFO] Starting Playwright at 2025-11-11 06:00:05.527924
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-11 10:00:06.749209
+[INFO] Starting Playwright at 2025-11-11 10:00:06.750722
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-11 14:00:07.189368
+[INFO] Starting Playwright at 2025-11-11 14:00:07.192413
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-11 18:00:07.214684
+[INFO] Starting Playwright at 2025-11-11 18:00:07.216760
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-11 22:00:07.110955
+[INFO] Starting Playwright at 2025-11-11 22:00:07.112968
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-12 02:00:06.235086
+[INFO] Starting Playwright at 2025-11-12 02:00:06.237063
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-15 09:00:06.746221
+[INFO] Starting Playwright at 2025-11-15 09:00:06.748216
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-15 12:00:06.062052
+[INFO] Starting Playwright at 2025-11-15 12:00:06.064498
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-15 15:00:06.911432
+[INFO] Starting Playwright at 2025-11-15 15:00:06.914494
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-15 18:00:06.093942
+[INFO] Starting Playwright at 2025-11-15 18:00:06.095943
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-15 21:00:06.653761
+[INFO] Starting Playwright at 2025-11-15 21:00:06.654760
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 00:00:11.676243
+[INFO] Starting Playwright at 2025-11-16 00:00:11.744742
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 03:00:06.911964
+[INFO] Starting Playwright at 2025-11-16 03:00:06.913476
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 06:00:07.228546
+[INFO] Starting Playwright at 2025-11-16 06:00:07.233047
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 09:00:06.431978
+[INFO] Starting Playwright at 2025-11-16 09:00:06.433371
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 12:00:06.198021
+[INFO] Starting Playwright at 2025-11-16 12:00:06.201512
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 15:00:07.164073
+[INFO] Starting Playwright at 2025-11-16 15:00:07.165682
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 18:00:06.150190
+[INFO] Starting Playwright at 2025-11-16 18:00:06.152187
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-16 21:00:06.911856
+[INFO] Starting Playwright at 2025-11-16 21:00:06.912860
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-17 00:00:06.564856
+[INFO] Starting Playwright at 2025-11-17 00:00:06.568255
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-17 03:00:07.577663
+[INFO] Starting Playwright at 2025-11-17 03:00:07.580665
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-17 06:34:54.022027
+[INFO] Starting Playwright at 2025-11-17 06:34:54.026037
+[INFO] Playwright completed at 2025-11-17 06:37:22.679701
+[DEBUG] Script reached at 2025-11-17 09:00:07.473730
+[INFO] Starting Playwright at 2025-11-17 09:00:07.473730
+[INFO] Playwright completed at 2025-11-17 09:02:04.101255
+[DEBUG] Script reached at 2025-11-17 09:28:17.133388
+[INFO] Starting Playwright at 2025-11-17 09:28:17.136983
+[INFO] Playwright completed at 2025-11-17 09:31:05.759499
+[DEBUG] Script reached at 2025-11-17 09:33:40.205287
+[INFO] Starting Playwright at 2025-11-17 09:33:40.205287
+[INFO] Playwright completed at 2025-11-17 09:36:31.708148
+[DEBUG] Script reached at 2025-11-17 12:00:09.684872
+[INFO] Starting Playwright at 2025-11-17 12:00:09.688878
+[INFO] Playwright completed at 2025-11-17 12:03:08.777540
+[DEBUG] Script reached at 2025-11-17 12:33:42.859475
+[INFO] Starting Playwright at 2025-11-17 12:33:42.871833
+[INFO] Playwright completed at 2025-11-17 12:37:04.390884
+[DEBUG] Script reached at 2025-11-17 15:17:36.273531
+[INFO] Starting Playwright at 2025-11-17 15:17:36.278538
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-17 15:33:38.932646
+[INFO] Starting Playwright at 2025-11-17 15:33:38.933787
+[INFO] Playwright completed at 2025-11-17 15:36:16.290918
+[DEBUG] Script reached at 2025-11-17 18:00:10.225536
+[INFO] Starting Playwright at 2025-11-17 18:00:10.233393
+[INFO] Playwright completed at 2025-11-17 18:02:49.499917
+[DEBUG] Script reached at 2025-11-17 18:33:38.446190
+[INFO] Starting Playwright at 2025-11-17 18:33:38.462723
+[INFO] Playwright completed at 2025-11-17 18:36:14.069233
+[DEBUG] Script reached at 2025-11-17 21:00:07.945433
+[INFO] Starting Playwright at 2025-11-17 21:00:07.954577
+[INFO] Playwright completed at 2025-11-17 21:02:46.888160
+[DEBUG] Script reached at 2025-11-17 21:33:39.028078
+[INFO] Starting Playwright at 2025-11-17 21:33:39.028078
+[INFO] Playwright completed at 2025-11-17 21:36:26.893665
+[DEBUG] Script reached at 2025-11-18 00:00:08.437264
+[INFO] Starting Playwright at 2025-11-18 00:00:08.440382
+[INFO] Playwright completed at 2025-11-18 00:03:02.166410
+[DEBUG] Script reached at 2025-11-18 00:33:38.462554
+[INFO] Starting Playwright at 2025-11-18 00:33:38.472162
+[INFO] Playwright completed at 2025-11-18 00:36:15.614192
+[DEBUG] Script reached at 2025-11-18 03:00:08.242018
+[INFO] Starting Playwright at 2025-11-18 03:00:08.249537
+[INFO] Playwright completed at 2025-11-18 03:02:44.036513
+[DEBUG] Script reached at 2025-11-18 03:33:39.720877
+[INFO] Starting Playwright at 2025-11-18 03:33:39.725432
+[INFO] Playwright completed at 2025-11-18 03:36:16.595039
+[DEBUG] Script reached at 2025-11-18 06:16:52.432214
+[INFO] Starting Playwright at 2025-11-18 06:16:52.442232
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-18 06:33:39.639188
+[INFO] Starting Playwright at 2025-11-18 06:33:39.649207
+[INFO] Playwright completed at 2025-11-18 06:36:19.895710
+[DEBUG] Script reached at 2025-11-18 09:00:08.179022
+[INFO] Starting Playwright at 2025-11-18 09:00:08.179022
+[INFO] Playwright completed at 2025-11-18 09:02:47.148351
+[DEBUG] Script reached at 2025-11-18 09:15:40.356682
+[INFO] Starting Playwright at 2025-11-18 09:15:40.356682
+[DEBUG] Script reached at 2025-11-18 09:45:31.591676
+[INFO] Starting Playwright at 2025-11-18 09:45:31.595642
+[INFO] Playwright completed at 2025-11-18 09:46:31.812134
+[INFO] Playwright completed at 2025-11-18 09:49:03.143274
+[DEBUG] Script reached at 2025-11-18 12:00:11.856522
+[INFO] Starting Playwright at 2025-11-18 12:00:11.874389
+[INFO] Playwright completed at 2025-11-18 12:03:58.834457
+[DEBUG] Script reached at 2025-11-18 12:15:42.085509
+[INFO] Starting Playwright at 2025-11-18 12:15:42.087009
+[INFO] Playwright completed at 2025-11-18 12:18:32.710370
+[DEBUG] Script reached at 2025-11-18 12:33:44.152634
+[INFO] Starting Playwright at 2025-11-18 12:33:44.160738
+[INFO] Playwright completed at 2025-11-18 12:37:13.343241
+[DEBUG] Script reached at 2025-11-18 15:00:09.834859
+[INFO] Starting Playwright at 2025-11-18 15:00:09.841329
+[INFO] Playwright completed at 2025-11-18 15:02:54.797071
+[DEBUG] Script reached at 2025-11-18 15:15:41.301909
+[INFO] Starting Playwright at 2025-11-18 15:15:41.306930
+[INFO] Playwright completed at 2025-11-18 15:18:26.946316
+[DEBUG] Script reached at 2025-11-18 15:33:38.755302
+[INFO] Starting Playwright at 2025-11-18 15:33:38.758293
+[INFO] Playwright completed at 2025-11-18 15:36:21.554486
+[DEBUG] Script reached at 2025-11-18 18:00:06.995686
+[INFO] Starting Playwright at 2025-11-18 18:00:06.995686
+[INFO] Playwright completed at 2025-11-18 18:02:48.144390
+[DEBUG] Script reached at 2025-11-18 18:15:41.279101
+[INFO] Starting Playwright at 2025-11-18 18:15:41.279101
+[INFO] Playwright completed at 2025-11-18 18:18:24.926950
+[DEBUG] Script reached at 2025-11-18 18:33:38.683896
+[INFO] Starting Playwright at 2025-11-18 18:33:38.689152
+[INFO] Playwright completed at 2025-11-18 18:36:17.867229
+[DEBUG] Script reached at 2025-11-18 21:00:09.196658
+[INFO] Starting Playwright at 2025-11-18 21:00:09.241599
+[INFO] Playwright completed at 2025-11-18 21:03:31.195196
+[DEBUG] Script reached at 2025-11-18 21:15:41.177574
+[INFO] Starting Playwright at 2025-11-18 21:15:41.185097
+[INFO] Playwright completed at 2025-11-18 21:18:18.390699
+[DEBUG] Script reached at 2025-11-18 21:33:37.634344
+[INFO] Starting Playwright at 2025-11-18 21:33:37.636556
+[INFO] Playwright completed at 2025-11-18 21:36:14.168647
+[DEBUG] Script reached at 2025-11-21 06:00:08.184614
+[INFO] Starting Playwright at 2025-11-21 06:00:08.186954
+[INFO] Playwright completed at 2025-11-21 06:02:52.898799
+[DEBUG] Script reached at 2025-11-21 09:00:07.406430
+[INFO] Starting Playwright at 2025-11-21 09:00:07.407476
+[INFO] Playwright completed at 2025-11-21 09:02:46.056442
+[DEBUG] Script reached at 2025-11-21 12:00:08.251007
+[INFO] Starting Playwright at 2025-11-21 12:00:08.253025
+[INFO] Playwright completed at 2025-11-21 12:02:49.771563
+[DEBUG] Script reached at 2025-11-21 15:00:07.137375
+[INFO] Starting Playwright at 2025-11-21 15:00:07.141376
+[INFO] Playwright completed at 2025-11-21 15:02:44.212151
+[DEBUG] Script reached at 2025-11-21 18:00:07.753181
+[INFO] Starting Playwright at 2025-11-21 18:00:07.757183
+[INFO] Playwright completed at 2025-11-21 18:02:41.729182
+[DEBUG] Script reached at 2025-11-21 21:00:06.361631
+[INFO] Starting Playwright at 2025-11-21 21:00:06.363598
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 00:00:10.844252
+[INFO] Starting Playwright at 2025-11-22 00:00:10.846253
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 03:00:07.065461
+[INFO] Starting Playwright at 2025-11-22 03:00:07.067476
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 06:00:06.070560
+[INFO] Starting Playwright at 2025-11-22 06:00:06.073498
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 09:00:07.274210
+[INFO] Starting Playwright at 2025-11-22 09:00:07.276212
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 12:00:07.360300
+[INFO] Starting Playwright at 2025-11-22 12:00:07.364269
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 15:00:06.728547
+[INFO] Starting Playwright at 2025-11-22 15:00:06.730074
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 18:00:06.579967
+[INFO] Starting Playwright at 2025-11-22 18:00:06.582103
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-22 21:00:06.882898
+[INFO] Starting Playwright at 2025-11-22 21:00:06.883900
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 00:00:06.668253
+[INFO] Starting Playwright at 2025-11-23 00:00:06.669250
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 03:00:07.855481
+[INFO] Starting Playwright at 2025-11-23 03:00:07.858487
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 06:00:08.336353
+[INFO] Starting Playwright at 2025-11-23 06:00:08.339315
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 09:00:08.675857
+[INFO] Starting Playwright at 2025-11-23 09:00:08.678090
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 12:00:07.068226
+[INFO] Starting Playwright at 2025-11-23 12:00:07.071235
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 15:00:07.560576
+[INFO] Starting Playwright at 2025-11-23 15:00:07.561595
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-23 18:00:08.498698
+[INFO] Starting Playwright at 2025-11-23 18:00:08.502722
+[INFO] Playwright completed at 2025-11-23 18:02:50.020073
+[DEBUG] Script reached at 2025-11-23 21:00:12.263767
+[INFO] Starting Playwright at 2025-11-23 21:00:12.267775
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-24 00:00:09.648791
+[INFO] Starting Playwright at 2025-11-24 00:00:09.652576
+[INFO] Playwright completed at 2025-11-24 00:02:56.893075
+[DEBUG] Script reached at 2025-11-24 03:00:10.507699
+[INFO] Starting Playwright at 2025-11-24 03:00:10.536031
+[INFO] Playwright completed at 2025-11-24 03:02:52.071615
+[DEBUG] Script reached at 2025-11-24 06:00:11.540937
+[INFO] Starting Playwright at 2025-11-24 06:00:11.544395
+[INFO] Playwright completed at 2025-11-24 06:35:43.428665
+[DEBUG] Script reached at 2025-11-24 09:00:10.524793
+[INFO] Starting Playwright at 2025-11-24 09:00:10.531339
+[INFO] Playwright completed at 2025-11-24 09:02:54.602266
+[DEBUG] Script reached at 2025-11-24 12:00:08.324584
+[INFO] Starting Playwright at 2025-11-24 12:00:08.326159
+[INFO] Playwright completed at 2025-11-24 12:03:01.763148
+[DEBUG] Script reached at 2025-11-24 15:48:00.288646
+[INFO] Starting Playwright at 2025-11-24 15:48:00.315635
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-24 18:00:08.301225
+[INFO] Starting Playwright at 2025-11-24 18:00:08.304678
+[INFO] Playwright completed at 2025-11-24 18:02:45.339568
+[DEBUG] Script reached at 2025-11-24 21:00:07.976207
+[INFO] Starting Playwright at 2025-11-24 21:00:07.978207
+[INFO] Playwright completed at 2025-11-24 21:02:48.407519
+[DEBUG] Script reached at 2025-11-25 05:51:17.155922
+[INFO] Starting Playwright at 2025-11-25 05:51:17.162443
+[INFO] Playwright completed at 2025-11-25 05:56:20.707400
+[DEBUG] Script reached at 2025-11-25 06:30:43.323831
+[INFO] Starting Playwright at 2025-11-25 06:30:43.331365
+[INFO] Playwright completed at 2025-11-25 06:35:01.431333
+[DEBUG] Script reached at 2025-11-25 09:00:10.642682
+[INFO] Starting Playwright at 2025-11-25 09:00:10.647231
+[INFO] Playwright completed at 2025-11-25 09:03:05.152478
+[DEBUG] Script reached at 2025-11-25 09:29:55.552024
+[INFO] Starting Playwright at 2025-11-25 09:29:55.556026
+[INFO] Playwright completed at 2025-11-25 09:33:26.023032
+[DEBUG] Script reached at 2025-11-25 12:00:09.908016
+[INFO] Starting Playwright at 2025-11-25 12:00:09.911176
+[INFO] Playwright completed at 2025-11-25 12:03:04.450533
+[DEBUG] Script reached at 2025-11-25 12:29:57.315180
+[INFO] Starting Playwright at 2025-11-25 12:29:57.320543
+[INFO] Playwright completed at 2025-11-25 12:32:46.119029
+[DEBUG] Script reached at 2025-11-26 08:24:16.946443
+[INFO] Starting Playwright at 2025-11-26 08:24:16.962970
+[INFO] Playwright completed at 2025-11-26 08:30:06.787539
+[DEBUG] Script reached at 2025-11-26 09:00:09.256500
+[INFO] Starting Playwright at 2025-11-26 09:00:09.260504
+[INFO] Playwright completed at 2025-11-26 09:02:52.177545
+[DEBUG] Script reached at 2025-11-26 09:29:54.867693
+[INFO] Starting Playwright at 2025-11-26 09:29:54.871691
+[INFO] Playwright completed at 2025-11-26 09:32:33.574445
+[DEBUG] Script reached at 2025-11-26 12:00:07.557236
+[INFO] Starting Playwright at 2025-11-26 12:00:07.560778
+[INFO] Playwright completed at 2025-11-26 12:02:48.916819
+[DEBUG] Script reached at 2025-11-26 12:29:53.626857
+[INFO] Starting Playwright at 2025-11-26 12:29:53.630849
+[INFO] Playwright completed at 2025-11-26 12:32:31.598821
+[DEBUG] Script reached at 2025-11-26 15:00:08.369818
+[INFO] Starting Playwright at 2025-11-26 15:00:08.372359
+[INFO] Playwright completed at 2025-11-26 15:02:43.602607
+[DEBUG] Script reached at 2025-11-26 15:29:54.851689
+[INFO] Starting Playwright at 2025-11-26 15:29:54.853688
+[INFO] Playwright completed at 2025-11-26 15:32:32.307165
+[DEBUG] Script reached at 2025-11-26 18:00:07.036950
+[INFO] Starting Playwright at 2025-11-26 18:00:07.039477
+[INFO] Playwright completed at 2025-11-26 18:02:44.489090
+[DEBUG] Script reached at 2025-11-26 18:29:54.987278
+[INFO] Starting Playwright at 2025-11-26 18:29:54.991621
+[INFO] Playwright completed at 2025-11-26 18:32:31.871663
+[DEBUG] Script reached at 2025-11-26 21:00:07.880356
+[INFO] Starting Playwright at 2025-11-26 21:00:07.883353
+[INFO] Playwright completed at 2025-11-26 21:02:45.144254
+[DEBUG] Script reached at 2025-11-26 21:29:54.599251
+[INFO] Starting Playwright at 2025-11-26 21:29:54.601252
+[INFO] Playwright completed at 2025-11-26 21:32:31.704440
+[DEBUG] Script reached at 2025-11-27 00:00:07.008726
+[INFO] Starting Playwright at 2025-11-27 00:00:07.010738
+[INFO] Playwright completed at 2025-11-27 00:03:00.763277
+[DEBUG] Script reached at 2025-11-27 00:29:53.659463
+[INFO] Starting Playwright at 2025-11-27 00:29:53.669019
+[INFO] Playwright completed at 2025-11-27 00:32:30.167235
+[DEBUG] Script reached at 2025-11-27 03:00:07.209664
+[INFO] Starting Playwright at 2025-11-27 03:00:07.213674
+[INFO] Playwright completed at 2025-11-27 03:02:40.914159
+[DEBUG] Script reached at 2025-11-27 03:29:53.978621
+[INFO] Starting Playwright at 2025-11-27 03:29:53.980622
+[INFO] Playwright completed at 2025-11-27 03:32:30.233281
+[DEBUG] Script reached at 2025-11-27 06:00:06.721538
+[INFO] Starting Playwright at 2025-11-27 06:00:06.722542
+[INFO] Playwright completed at 2025-11-27 06:02:44.574677
+[DEBUG] Script reached at 2025-11-27 06:29:53.422873
+[INFO] Starting Playwright at 2025-11-27 06:29:53.425877
+[INFO] Playwright completed at 2025-11-27 06:32:27.220403
+[DEBUG] Script reached at 2025-11-27 09:00:06.767923
+[INFO] Starting Playwright at 2025-11-27 09:00:06.772928
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 09:29:53.829747
+[INFO] Starting Playwright at 2025-11-27 09:29:53.833166
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 12:00:06.950364
+[INFO] Starting Playwright at 2025-11-27 12:00:06.962360
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 12:29:53.271280
+[INFO] Starting Playwright at 2025-11-27 12:29:53.272273
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 15:00:07.589670
+[INFO] Starting Playwright at 2025-11-27 15:00:07.590666
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 15:29:53.307840
+[INFO] Starting Playwright at 2025-11-27 15:29:53.312549
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 18:00:06.338336
+[INFO] Starting Playwright at 2025-11-27 18:00:06.341333
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 18:29:53.529363
+[INFO] Starting Playwright at 2025-11-27 18:29:53.531362
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 21:00:07.159825
+[INFO] Starting Playwright at 2025-11-27 21:00:07.160807
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-27 21:29:53.629698
+[INFO] Starting Playwright at 2025-11-27 21:29:53.631660
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 00:00:07.397622
+[INFO] Starting Playwright at 2025-11-28 00:00:07.398608
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 00:29:53.922895
+[INFO] Starting Playwright at 2025-11-28 00:29:53.925601
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 03:00:07.977916
+[INFO] Starting Playwright at 2025-11-28 03:00:07.978917
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 03:29:53.110132
+[INFO] Starting Playwright at 2025-11-28 03:29:53.112134
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 06:00:06.569874
+[INFO] Starting Playwright at 2025-11-28 06:00:06.571877
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 06:29:53.459408
+[INFO] Starting Playwright at 2025-11-28 06:29:53.461408
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-28 09:00:08.826839
+[INFO] Starting Playwright at 2025-11-28 09:00:08.829841
+[INFO] Playwright completed at 2025-11-28 09:03:03.864797
+[DEBUG] Script reached at 2025-11-28 09:29:55.632465
+[INFO] Starting Playwright at 2025-11-28 09:29:55.635439
+[INFO] Playwright completed at 2025-11-28 09:32:39.448052
+[DEBUG] Script reached at 2025-11-28 12:00:07.172676
+[INFO] Starting Playwright at 2025-11-28 12:00:07.181712
+[INFO] Playwright completed at 2025-11-28 12:02:51.412725
+[DEBUG] Script reached at 2025-11-28 12:29:53.827574
+[INFO] Starting Playwright at 2025-11-28 12:29:53.830112
+[INFO] Playwright completed at 2025-11-28 12:32:32.448316
+[DEBUG] Script reached at 2025-11-28 15:00:07.490368
+[INFO] Starting Playwright at 2025-11-28 15:00:07.493897
+[INFO] Playwright completed at 2025-11-28 15:02:46.105989
+[DEBUG] Script reached at 2025-11-28 15:29:54.959361
+[INFO] Starting Playwright at 2025-11-28 15:29:54.962338
+[INFO] Playwright completed at 2025-11-28 15:32:29.188381
+[DEBUG] Script reached at 2025-11-28 18:00:08.239821
+[INFO] Starting Playwright at 2025-11-28 18:00:08.245813
+[INFO] Playwright completed at 2025-11-28 18:02:46.530083
+[DEBUG] Script reached at 2025-11-28 18:29:53.319625
+[INFO] Starting Playwright at 2025-11-28 18:29:53.321621
+[INFO] Playwright completed at 2025-11-28 18:32:28.556393
+[DEBUG] Script reached at 2025-11-28 21:00:07.443146
+[INFO] Starting Playwright at 2025-11-28 21:00:07.446136
+[INFO] Playwright completed at 2025-11-28 21:02:45.466588
+[DEBUG] Script reached at 2025-11-28 21:29:54.579142
+[INFO] Starting Playwright at 2025-11-28 21:29:54.582168
+[INFO] Playwright completed at 2025-11-28 21:32:38.931797
+[DEBUG] Script reached at 2025-11-29 00:00:06.939909
+[INFO] Starting Playwright at 2025-11-29 00:00:06.945914
+[INFO] Playwright completed at 2025-11-29 00:02:59.222251
+[DEBUG] Script reached at 2025-11-29 00:29:54.626420
+[INFO] Starting Playwright at 2025-11-29 00:29:54.628642
+[INFO] Playwright completed at 2025-11-29 00:32:27.588506
+[DEBUG] Script reached at 2025-11-29 03:00:07.522130
+[INFO] Starting Playwright at 2025-11-29 03:00:07.525531
+[INFO] Playwright completed at 2025-11-29 03:03:03.500100
+[DEBUG] Script reached at 2025-11-29 03:29:54.562366
+[INFO] Starting Playwright at 2025-11-29 03:29:54.565903
+[INFO] Playwright completed at 2025-11-29 03:32:29.813786
+[DEBUG] Script reached at 2025-11-29 06:00:08.070707
+[INFO] Starting Playwright at 2025-11-29 06:00:08.073251
+[INFO] Playwright completed at 2025-11-29 06:02:44.045184
+[DEBUG] Script reached at 2025-11-29 06:29:54.927277
+[INFO] Starting Playwright at 2025-11-29 06:29:54.930279
+[INFO] Playwright completed at 2025-11-29 06:32:32.228491
+[DEBUG] Script reached at 2025-11-29 09:00:07.855615
+[INFO] Starting Playwright at 2025-11-29 09:00:07.857627
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 09:29:53.397191
+[INFO] Starting Playwright at 2025-11-29 09:29:53.402167
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 12:00:08.015265
+[INFO] Starting Playwright at 2025-11-29 12:00:08.019182
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 12:29:53.341791
+[INFO] Starting Playwright at 2025-11-29 12:29:53.344738
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 15:00:07.725213
+[INFO] Starting Playwright at 2025-11-29 15:00:07.729781
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 15:29:53.732566
+[INFO] Starting Playwright at 2025-11-29 15:29:53.734585
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 18:00:07.864966
+[INFO] Starting Playwright at 2025-11-29 18:00:07.869514
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 18:29:53.885580
+[INFO] Starting Playwright at 2025-11-29 18:29:53.888577
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 21:00:06.469197
+[INFO] Starting Playwright at 2025-11-29 21:00:06.472064
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-29 21:29:52.956790
+[INFO] Starting Playwright at 2025-11-29 21:29:52.957790
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 00:00:06.998110
+[INFO] Starting Playwright at 2025-11-30 00:00:07.001146
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 00:29:52.722762
+[INFO] Starting Playwright at 2025-11-30 00:29:52.725784
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 03:00:06.732158
+[INFO] Starting Playwright at 2025-11-30 03:00:06.738165
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 03:29:52.815216
+[INFO] Starting Playwright at 2025-11-30 03:29:52.818218
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 06:00:05.508525
+[INFO] Starting Playwright at 2025-11-30 06:00:05.510562
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 06:29:53.327724
+[INFO] Starting Playwright at 2025-11-30 06:29:53.329748
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 09:00:06.130198
+[INFO] Starting Playwright at 2025-11-30 09:00:06.132153
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 09:29:53.355832
+[INFO] Starting Playwright at 2025-11-30 09:29:53.357833
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 12:00:07.377380
+[INFO] Starting Playwright at 2025-11-30 12:00:07.405893
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 12:29:53.670661
+[INFO] Starting Playwright at 2025-11-30 12:29:53.672689
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 15:00:06.396482
+[INFO] Starting Playwright at 2025-11-30 15:00:06.398516
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 15:29:53.500994
+[INFO] Starting Playwright at 2025-11-30 15:29:53.502998
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 18:00:06.293711
+[INFO] Starting Playwright at 2025-11-30 18:00:06.296717
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 18:29:53.186976
+[INFO] Starting Playwright at 2025-11-30 18:29:53.188940
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 21:00:06.818123
+[INFO] Starting Playwright at 2025-11-30 21:00:06.820643
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-11-30 21:29:52.785816
+[INFO] Starting Playwright at 2025-11-30 21:29:52.787839
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 00:00:06.707397
+[INFO] Starting Playwright at 2025-12-01 00:00:06.709401
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 00:29:53.892346
+[INFO] Starting Playwright at 2025-12-01 00:29:53.895330
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 03:00:06.749452
+[INFO] Starting Playwright at 2025-12-01 03:00:06.750474
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 03:29:52.770265
+[INFO] Starting Playwright at 2025-12-01 03:29:52.771284
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 06:00:05.517158
+[INFO] Starting Playwright at 2025-12-01 06:00:05.520984
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 07:13:37.715348
+[INFO] Starting Playwright at 2025-12-01 07:13:37.723586
+[INFO] Playwright completed at 2025-12-01 07:17:42.464873
+[DEBUG] Script reached at 2025-12-01 11:27:50.998255
+[INFO] Starting Playwright at 2025-12-01 11:27:51.079002
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 12:00:08.248508
+[INFO] Starting Playwright at 2025-12-01 12:00:08.253815
+[INFO] Playwright completed at 2025-12-01 12:03:14.498908
+[DEBUG] Script reached at 2025-12-01 12:29:56.945339
+[INFO] Starting Playwright at 2025-12-01 12:29:56.949963
+[INFO] Playwright completed at 2025-12-01 12:33:05.687715
+[DEBUG] Script reached at 2025-12-01 15:00:07.351707
+[INFO] Starting Playwright at 2025-12-01 15:00:07.353710
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 15:29:54.521211
+[INFO] Starting Playwright at 2025-12-01 15:29:54.524212
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 18:00:07.317571
+[INFO] Starting Playwright at 2025-12-01 18:00:07.320105
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 18:29:53.645239
+[INFO] Starting Playwright at 2025-12-01 18:29:53.647239
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 21:00:08.400403
+[INFO] Starting Playwright at 2025-12-01 21:00:08.401404
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-01 21:29:53.935158
+[INFO] Starting Playwright at 2025-12-01 21:29:53.938157
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 00:00:09.624123
+[INFO] Starting Playwright at 2025-12-02 00:00:09.630660
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 00:29:53.505261
+[INFO] Starting Playwright at 2025-12-02 00:29:53.506262
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 03:00:07.177530
+[INFO] Starting Playwright at 2025-12-02 03:00:07.178534
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 03:29:53.626924
+[INFO] Starting Playwright at 2025-12-02 03:29:53.630944
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 06:00:10.526630
+[INFO] Starting Playwright at 2025-12-02 06:00:10.528631
+[INFO] Playwright completed at 2025-12-02 06:04:57.560211
+[DEBUG] Script reached at 2025-12-02 07:16:29.278645
+[INFO] Starting Playwright at 2025-12-02 07:16:29.293184
+[INFO] Playwright completed at 2025-12-02 07:20:08.490598
+[DEBUG] Script reached at 2025-12-02 09:00:10.231194
+[INFO] Starting Playwright at 2025-12-02 09:00:10.231194
+[INFO] Playwright completed at 2025-12-02 09:18:22.678722
+[DEBUG] Script reached at 2025-12-02 09:29:55.279119
+[INFO] Starting Playwright at 2025-12-02 09:29:55.286534
+[INFO] Playwright completed at 2025-12-02 09:32:46.697217
+[DEBUG] Script reached at 2025-12-02 12:00:07.733553
+[INFO] Starting Playwright at 2025-12-02 12:00:07.733553
+[INFO] Playwright completed at 2025-12-02 12:02:55.267387
+[DEBUG] Script reached at 2025-12-02 12:29:53.808368
+[INFO] Starting Playwright at 2025-12-02 12:29:53.810450
+[INFO] Playwright completed at 2025-12-02 12:32:37.493461
+[DEBUG] Script reached at 2025-12-02 15:00:07.851937
+[INFO] Starting Playwright at 2025-12-02 15:00:07.853804
+[INFO] Playwright completed at 2025-12-02 15:03:04.704773
+[DEBUG] Script reached at 2025-12-02 15:29:56.604894
+[INFO] Starting Playwright at 2025-12-02 15:29:56.610572
+[INFO] Playwright completed at 2025-12-02 15:32:48.185351
+[DEBUG] Script reached at 2025-12-02 18:40:58.428862
+[INFO] Starting Playwright at 2025-12-02 18:40:58.441384
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 21:00:09.729844
+[INFO] Starting Playwright at 2025-12-02 21:00:09.732848
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-02 21:29:55.123059
+[INFO] Starting Playwright at 2025-12-02 21:29:55.126512
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 00:00:07.761973
+[INFO] Starting Playwright at 2025-12-03 00:00:07.764319
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 00:29:55.015335
+[INFO] Starting Playwright at 2025-12-03 00:29:55.017340
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 03:00:06.950094
+[INFO] Starting Playwright at 2025-12-03 03:00:06.952207
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 05:51:48.065361
+[INFO] Starting Playwright at 2025-12-03 05:51:48.078590
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 06:00:06.117126
+[INFO] Starting Playwright at 2025-12-03 06:00:06.119115
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 07:12:21.686950
+[INFO] Starting Playwright at 2025-12-03 07:12:21.697145
+[INFO] Playwright completed at 2025-12-03 07:16:05.716312
+[DEBUG] Script reached at 2025-12-03 09:00:08.887620
+[INFO] Starting Playwright at 2025-12-03 09:00:08.889581
+[INFO] Playwright completed at 2025-12-03 09:02:56.235751
+[DEBUG] Script reached at 2025-12-03 09:29:55.241736
+[INFO] Starting Playwright at 2025-12-03 09:29:55.249228
+[INFO] Playwright completed at 2025-12-03 09:32:50.634749
+[DEBUG] Script reached at 2025-12-03 12:00:08.090030
+[INFO] Starting Playwright at 2025-12-03 12:00:08.092027
+[INFO] Playwright completed at 2025-12-03 12:03:10.554826
+[DEBUG] Script reached at 2025-12-03 12:29:54.276734
+[INFO] Starting Playwright at 2025-12-03 12:29:54.276734
+[INFO] Playwright completed at 2025-12-03 12:32:48.199084
+[DEBUG] Script reached at 2025-12-03 15:48:34.507657
+[INFO] Starting Playwright at 2025-12-03 15:48:34.516528
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 18:00:08.683056
+[INFO] Starting Playwright at 2025-12-03 18:00:08.685071
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 18:29:53.768665
+[INFO] Starting Playwright at 2025-12-03 18:29:53.770681
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 21:00:06.792932
+[INFO] Starting Playwright at 2025-12-03 21:00:06.795966
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-03 21:29:53.172730
+[INFO] Starting Playwright at 2025-12-03 21:29:53.174746
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 00:00:06.926940
+[INFO] Starting Playwright at 2025-12-04 00:00:06.928930
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 00:29:53.678223
+[INFO] Starting Playwright at 2025-12-04 00:29:53.682185
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 03:00:08.062506
+[INFO] Starting Playwright at 2025-12-04 03:00:08.064489
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 03:29:53.742878
+[INFO] Starting Playwright at 2025-12-04 03:29:53.744854
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 06:00:05.927916
+[INFO] Starting Playwright at 2025-12-04 06:00:05.932890
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 15:30:41.859239
+[INFO] Starting Playwright at 2025-12-04 15:30:41.862754
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 18:00:07.338384
+[INFO] Starting Playwright at 2025-12-04 18:00:07.339393
+[INFO] Playwright completed at 2025-12-04 18:03:03.375591
+[DEBUG] Script reached at 2025-12-04 18:29:53.977385
+[INFO] Starting Playwright at 2025-12-04 18:29:53.981330
+[INFO] Playwright completed at 2025-12-04 18:33:12.353320
+[DEBUG] Script reached at 2025-12-04 21:00:07.194060
+[INFO] Starting Playwright at 2025-12-04 21:00:07.197060
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-04 21:29:53.524756
+[INFO] Starting Playwright at 2025-12-04 21:29:53.527422
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-05 00:00:07.030172
+[INFO] Starting Playwright at 2025-12-05 00:00:07.034631
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-05 00:29:54.696058
+[INFO] Starting Playwright at 2025-12-05 00:29:54.728722
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-05 03:00:07.365660
+[INFO] Starting Playwright at 2025-12-05 03:00:07.368659
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-05 03:29:55.828194
+[INFO] Starting Playwright at 2025-12-05 03:29:55.834036
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-05 06:00:07.726133
+[INFO] Starting Playwright at 2025-12-05 06:00:07.731120
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-05 06:29:53.264032
+[INFO] Starting Playwright at 2025-12-05 06:29:53.267031
+[INFO] Playwright completed at 2025-12-05 06:32:52.219468
+[DEBUG] Script reached at 2025-12-05 09:00:07.405481
+[INFO] Starting Playwright at 2025-12-05 09:00:07.408473
+[INFO] Playwright completed at 2025-12-05 09:03:01.010405
+[DEBUG] Script reached at 2025-12-05 09:29:54.352468
+[INFO] Starting Playwright at 2025-12-05 09:29:54.361266
+[INFO] Playwright completed at 2025-12-05 09:32:55.613774
+[DEBUG] Script reached at 2025-12-05 12:00:06.814806
+[INFO] Starting Playwright at 2025-12-05 12:00:06.815799
+[INFO] Playwright completed at 2025-12-05 12:02:50.815336
+[DEBUG] Script reached at 2025-12-05 12:29:55.686074
+[INFO] Starting Playwright at 2025-12-05 12:29:55.688063
+[INFO] Playwright completed at 2025-12-05 12:32:46.055310
+[DEBUG] Script reached at 2025-12-05 15:00:07.617229
+[INFO] Starting Playwright at 2025-12-05 15:00:07.621552
+[INFO] Playwright completed at 2025-12-05 15:02:57.895832
+[DEBUG] Script reached at 2025-12-05 15:29:54.463089
+[INFO] Starting Playwright at 2025-12-05 15:29:54.470111
+[INFO] Playwright completed at 2025-12-05 15:32:41.387965
+[DEBUG] Script reached at 2025-12-05 18:00:08.254030
+[INFO] Starting Playwright at 2025-12-05 18:00:08.260071
+[INFO] Playwright completed at 2025-12-05 18:03:08.148839
+[DEBUG] Script reached at 2025-12-05 18:29:54.673692
+[INFO] Starting Playwright at 2025-12-05 18:29:54.677445
+[INFO] Playwright completed at 2025-12-05 18:32:33.632403
+[DEBUG] Script reached at 2025-12-05 21:00:08.038643
+[INFO] Starting Playwright at 2025-12-05 21:00:08.050207
+[INFO] Playwright completed at 2025-12-05 21:02:49.331330
+[DEBUG] Script reached at 2025-12-05 21:29:53.839399
+[INFO] Starting Playwright at 2025-12-05 21:29:53.841330
+[INFO] Playwright completed at 2025-12-05 21:32:51.224430
+[DEBUG] Script reached at 2025-12-06 00:00:06.369947
+[INFO] Starting Playwright at 2025-12-06 00:00:06.376470
+[INFO] Playwright completed at 2025-12-06 00:03:48.728019
+[DEBUG] Script reached at 2025-12-06 00:29:52.903378
+[INFO] Starting Playwright at 2025-12-06 00:29:52.904377
+[INFO] Playwright completed at 2025-12-06 00:32:30.516727
+[DEBUG] Script reached at 2025-12-06 03:00:06.408364
+[INFO] Starting Playwright at 2025-12-06 03:00:06.411375
+[INFO] Playwright completed at 2025-12-06 03:02:45.519826
+[DEBUG] Script reached at 2025-12-06 03:29:54.984719
+[INFO] Starting Playwright at 2025-12-06 03:29:54.993407
+[INFO] Playwright completed at 2025-12-06 03:32:35.962307
+[DEBUG] Script reached at 2025-12-06 06:00:06.785075
+[INFO] Starting Playwright at 2025-12-06 06:00:06.790577
+[INFO] Playwright completed at 2025-12-06 06:02:47.833164
+[DEBUG] Script reached at 2025-12-06 06:29:53.402473
+[INFO] Starting Playwright at 2025-12-06 06:29:53.404462
+[INFO] Playwright completed at 2025-12-06 06:32:31.774677
+[DEBUG] Script reached at 2025-12-06 09:00:07.341810
+[INFO] Starting Playwright at 2025-12-06 09:00:07.344845
+[INFO] Playwright completed at 2025-12-06 09:02:47.692509
+[DEBUG] Script reached at 2025-12-06 09:29:53.983900
+[INFO] Starting Playwright at 2025-12-06 09:29:53.987899
+[INFO] Playwright completed at 2025-12-06 09:32:31.255772
+[DEBUG] Script reached at 2025-12-06 12:00:06.980322
+[INFO] Starting Playwright at 2025-12-06 12:00:06.983326
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 12:29:53.042826
+[INFO] Starting Playwright at 2025-12-06 12:29:53.045825
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 15:00:06.224488
+[INFO] Starting Playwright at 2025-12-06 15:00:06.226489
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 15:29:53.080819
+[INFO] Starting Playwright at 2025-12-06 15:29:53.082832
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 18:00:05.544556
+[INFO] Starting Playwright at 2025-12-06 18:00:05.545551
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 18:29:52.903714
+[INFO] Starting Playwright at 2025-12-06 18:29:52.906884
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 21:00:06.823408
+[INFO] Starting Playwright at 2025-12-06 21:00:06.825410
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-06 21:29:53.251733
+[INFO] Starting Playwright at 2025-12-06 21:29:53.253719
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 00:00:06.427178
+[INFO] Starting Playwright at 2025-12-07 00:00:06.430191
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 00:29:53.612680
+[INFO] Starting Playwright at 2025-12-07 00:29:53.616684
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 03:00:06.153144
+[INFO] Starting Playwright at 2025-12-07 03:00:06.155862
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 03:29:53.051454
+[INFO] Starting Playwright at 2025-12-07 03:29:53.056456
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 06:00:05.167400
+[INFO] Starting Playwright at 2025-12-07 06:00:05.169406
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 06:29:54.000142
+[INFO] Starting Playwright at 2025-12-07 06:29:54.002668
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 09:00:06.954823
+[INFO] Starting Playwright at 2025-12-07 09:00:06.956841
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 09:29:53.038537
+[INFO] Starting Playwright at 2025-12-07 09:29:53.040549
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-07 12:00:06.356439
+[INFO] Starting Playwright at 2025-12-07 12:00:06.358442
+[INFO] Playwright completed at 2025-12-07 12:02:48.835668
+[DEBUG] Script reached at 2025-12-07 12:29:53.341742
+[INFO] Starting Playwright at 2025-12-07 12:29:53.343742
+[INFO] Playwright completed at 2025-12-07 12:32:30.442205
+[DEBUG] Script reached at 2025-12-07 15:00:06.969034
+[INFO] Starting Playwright at 2025-12-07 15:00:06.972029
+[INFO] Playwright completed at 2025-12-07 15:02:44.346873
+[DEBUG] Script reached at 2025-12-07 15:29:54.614983
+[INFO] Starting Playwright at 2025-12-07 15:29:54.618187
+[INFO] Playwright completed at 2025-12-07 15:32:36.227366
+[DEBUG] Script reached at 2025-12-07 18:00:08.526726
+[INFO] Starting Playwright at 2025-12-07 18:00:08.529723
+[INFO] Playwright completed at 2025-12-07 18:02:48.907545
+[DEBUG] Script reached at 2025-12-07 18:29:54.391235
+[INFO] Starting Playwright at 2025-12-07 18:29:54.394442
+[INFO] Playwright completed at 2025-12-07 18:32:35.205842
+[DEBUG] Script reached at 2025-12-07 21:00:08.406386
+[INFO] Starting Playwright at 2025-12-07 21:00:08.411236
+[INFO] Playwright completed at 2025-12-07 21:02:52.209333
+[DEBUG] Script reached at 2025-12-07 21:29:53.101219
+[INFO] Starting Playwright at 2025-12-07 21:29:53.102222
+[INFO] Playwright completed at 2025-12-07 21:33:03.079480
+[DEBUG] Script reached at 2025-12-08 00:00:06.540317
+[INFO] Starting Playwright at 2025-12-08 00:00:06.543320
+[INFO] Playwright completed at 2025-12-08 00:03:32.277110
+[DEBUG] Script reached at 2025-12-08 00:29:55.707977
+[INFO] Starting Playwright at 2025-12-08 00:29:55.714997
+[INFO] Playwright completed at 2025-12-08 00:33:03.643057
+[DEBUG] Script reached at 2025-12-08 03:00:07.789490
+[INFO] Starting Playwright at 2025-12-08 03:00:07.795610
+[INFO] Playwright completed at 2025-12-08 03:03:19.518999
+[DEBUG] Script reached at 2025-12-08 03:29:53.438038
+[INFO] Starting Playwright at 2025-12-08 03:29:53.440037
+[INFO] Playwright completed at 2025-12-08 03:33:08.517266
+[DEBUG] Script reached at 2025-12-08 06:00:24.792025
+[INFO] Starting Playwright at 2025-12-08 06:00:25.169870
+[INFO] Playwright completed at 2025-12-08 06:03:57.303383
+[DEBUG] Script reached at 2025-12-08 06:29:55.078595
+[INFO] Starting Playwright at 2025-12-08 06:29:55.080601
+[INFO] Playwright completed at 2025-12-08 06:32:40.834385
+[DEBUG] Script reached at 2025-12-08 09:00:08.330613
+[INFO] Starting Playwright at 2025-12-08 09:00:08.333869
+[INFO] Playwright completed at 2025-12-08 09:02:49.161328
+[DEBUG] Script reached at 2025-12-08 09:29:53.197020
+[INFO] Starting Playwright at 2025-12-08 09:29:53.202271
+[INFO] Playwright completed at 2025-12-08 09:32:32.699095
+[DEBUG] Script reached at 2025-12-08 12:00:06.425270
+[INFO] Starting Playwright at 2025-12-08 12:00:06.427273
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-08 12:29:53.273233
+[INFO] Starting Playwright at 2025-12-08 12:29:53.276604
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-08 15:00:08.719204
+[INFO] Starting Playwright at 2025-12-08 15:00:08.724630
+[INFO] Playwright completed at 2025-12-08 15:03:16.640166
+[DEBUG] Script reached at 2025-12-08 15:29:52.746766
+[INFO] Starting Playwright at 2025-12-08 15:29:52.748768
+[INFO] Playwright completed at 2025-12-08 15:32:55.903596
+[DEBUG] Script reached at 2025-12-08 18:00:08.390408
+[INFO] Starting Playwright at 2025-12-08 18:00:08.394944
+[INFO] Playwright completed at 2025-12-08 18:02:48.654515
+[DEBUG] Script reached at 2025-12-08 18:29:53.984249
+[INFO] Starting Playwright at 2025-12-08 18:29:53.986249
+[INFO] Playwright completed at 2025-12-08 18:32:34.937436
+[DEBUG] Script reached at 2025-12-08 21:00:06.920047
+[INFO] Starting Playwright at 2025-12-08 21:00:06.922555
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-08 21:29:54.272602
+[INFO] Starting Playwright at 2025-12-08 21:29:54.275608
+[INFO] Playwright completed at 2025-12-08 21:32:44.914455
+[DEBUG] Script reached at 2025-12-09 00:00:08.530670
+[INFO] Starting Playwright at 2025-12-09 00:00:08.534113
+[INFO] Playwright completed at 2025-12-09 00:03:06.636215
+[DEBUG] Script reached at 2025-12-09 00:29:54.409823
+[INFO] Starting Playwright at 2025-12-09 00:29:54.417387
+[INFO] Playwright completed at 2025-12-09 00:32:33.969543
+[DEBUG] Script reached at 2025-12-09 03:00:07.644880
+[INFO] Starting Playwright at 2025-12-09 03:00:07.649887
+[INFO] Playwright completed at 2025-12-09 03:02:47.971539
+[DEBUG] Script reached at 2025-12-09 03:29:53.699158
+[INFO] Starting Playwright at 2025-12-09 03:29:53.704167
+[INFO] Playwright completed at 2025-12-09 03:32:30.952183
+[DEBUG] Script reached at 2025-12-09 06:00:07.758213
+[INFO] Starting Playwright at 2025-12-09 06:00:07.762217
+[INFO] Playwright completed at 2025-12-09 06:02:49.107169
+[DEBUG] Script reached at 2025-12-09 06:29:54.286106
+[INFO] Starting Playwright at 2025-12-09 06:29:54.291131
+[INFO] Playwright completed at 2025-12-09 06:32:35.035176
+[DEBUG] Script reached at 2025-12-09 10:47:50.652672
+[INFO] Starting Playwright at 2025-12-09 10:47:50.659191
+[INFO] Playwright completed at 2025-12-09 10:51:45.124538
+[DEBUG] Script reached at 2025-12-09 12:00:08.474939
+[INFO] Starting Playwright at 2025-12-09 12:00:08.479967
+[INFO] Playwright completed at 2025-12-09 12:03:44.005400
+[DEBUG] Script reached at 2025-12-09 12:29:54.496451
+[INFO] Starting Playwright at 2025-12-09 12:29:54.500448
+[INFO] Playwright completed at 2025-12-09 12:32:54.571835
+[DEBUG] Script reached at 2025-12-09 17:07:55.162382
+[INFO] Starting Playwright at 2025-12-09 17:07:55.180924
+[INFO] Playwright completed at 2025-12-09 17:12:34.680462
+[DEBUG] Script reached at 2025-12-09 18:00:06.909237
+[INFO] Starting Playwright at 2025-12-09 18:00:06.914245
+[INFO] Playwright completed at 2025-12-09 18:02:44.551906
+[DEBUG] Script reached at 2025-12-09 18:29:53.003180
+[INFO] Starting Playwright at 2025-12-09 18:29:53.006173
+[INFO] Playwright completed at 2025-12-09 18:32:31.061850
+[DEBUG] Script reached at 2025-12-09 21:00:07.220887
+[INFO] Starting Playwright at 2025-12-09 21:00:07.222907
+[INFO] Playwright completed at 2025-12-09 21:02:49.029442
+[DEBUG] Script reached at 2025-12-09 21:29:52.494017
+[INFO] Starting Playwright at 2025-12-09 21:29:52.496021
+[INFO] Playwright completed at 2025-12-09 21:32:32.486689
+[DEBUG] Script reached at 2025-12-10 00:00:05.695982
+[INFO] Starting Playwright at 2025-12-10 00:00:05.697488
+[INFO] Playwright completed at 2025-12-10 00:03:05.739105
+[DEBUG] Script reached at 2025-12-10 00:29:53.430367
+[INFO] Starting Playwright at 2025-12-10 00:29:53.432371
+[INFO] Playwright completed at 2025-12-10 00:32:32.562813
+[DEBUG] Script reached at 2025-12-10 03:00:07.297075
+[INFO] Starting Playwright at 2025-12-10 03:00:07.301068
+[INFO] Playwright completed at 2025-12-10 03:02:48.113668
+[DEBUG] Script reached at 2025-12-10 03:29:53.019583
+[INFO] Starting Playwright at 2025-12-10 03:29:53.022583
+[INFO] Playwright completed at 2025-12-10 03:32:31.159165
+[DEBUG] Script reached at 2025-12-10 06:00:07.058270
+[INFO] Starting Playwright at 2025-12-10 06:00:07.062330
+[INFO] Playwright completed at 2025-12-10 06:02:55.038228
+[DEBUG] Script reached at 2025-12-10 06:29:55.018497
+[INFO] Starting Playwright at 2025-12-10 06:29:55.024694
+[INFO] Playwright completed at 2025-12-10 06:32:41.657589
+[DEBUG] Script reached at 2025-12-10 09:00:08.316862
+[INFO] Starting Playwright at 2025-12-10 09:00:08.318862
+[INFO] Playwright completed at 2025-12-10 09:03:03.873803
+[DEBUG] Script reached at 2025-12-10 09:30:00.948235
+[INFO] Starting Playwright at 2025-12-10 09:30:00.952749
+[INFO] Playwright completed at 2025-12-10 09:33:07.259928
+[DEBUG] Script reached at 2025-12-10 12:00:08.328507
+[INFO] Starting Playwright at 2025-12-10 12:00:08.333814
+[INFO] Playwright completed at 2025-12-10 12:03:51.772579
+[DEBUG] Script reached at 2025-12-10 12:29:55.505511
+[INFO] Starting Playwright at 2025-12-10 12:29:55.507510
+[INFO] Playwright completed at 2025-12-10 12:32:48.148439
+[DEBUG] Script reached at 2025-12-10 15:00:09.299994
+[INFO] Starting Playwright at 2025-12-10 15:00:09.302988
+[INFO] Playwright completed at 2025-12-10 15:03:03.363432
+[DEBUG] Script reached at 2025-12-10 15:29:53.761499
+[INFO] Starting Playwright at 2025-12-10 15:29:53.764499
+[INFO] Playwright completed at 2025-12-10 15:32:37.294058
+[DEBUG] Script reached at 2025-12-10 18:00:08.448068
+[INFO] Starting Playwright at 2025-12-10 18:00:08.453064
+[INFO] Playwright completed at 2025-12-10 18:02:57.169500
+[DEBUG] Script reached at 2025-12-10 18:29:54.035972
+[INFO] Starting Playwright at 2025-12-10 18:29:54.041981
+[INFO] Playwright completed at 2025-12-10 18:32:38.690784
+[DEBUG] Script reached at 2025-12-10 21:00:08.153269
+[INFO] Starting Playwright at 2025-12-10 21:00:08.156264
+[INFO] Playwright completed at 2025-12-10 21:02:55.421622
+[DEBUG] Script reached at 2025-12-10 21:29:53.217233
+[INFO] Starting Playwright at 2025-12-10 21:29:53.220245
+[INFO] Playwright completed at 2025-12-10 21:32:38.454807
+[DEBUG] Script reached at 2025-12-11 00:00:07.010951
+[INFO] Starting Playwright at 2025-12-11 00:00:07.014954
+[INFO] Playwright completed at 2025-12-11 00:03:06.548507
+[DEBUG] Script reached at 2025-12-11 00:29:53.214526
+[INFO] Starting Playwright at 2025-12-11 00:29:53.216927
+[INFO] Playwright completed at 2025-12-11 00:32:31.808411
+[DEBUG] Script reached at 2025-12-11 03:00:06.491653
+[INFO] Starting Playwright at 2025-12-11 03:00:06.496652
+[INFO] Playwright completed at 2025-12-11 03:02:46.209853
+[DEBUG] Script reached at 2025-12-11 03:29:53.481994
+[INFO] Starting Playwright at 2025-12-11 03:29:53.485088
+[INFO] Playwright completed at 2025-12-11 03:32:35.148118
+[DEBUG] Script reached at 2025-12-11 06:00:10.958360
+[INFO] Starting Playwright at 2025-12-11 06:00:10.963883
+[INFO] Playwright completed at 2025-12-11 06:03:06.573079
+[DEBUG] Script reached at 2025-12-11 06:29:56.605471
+[INFO] Starting Playwright at 2025-12-11 06:29:56.606433
+[INFO] Playwright completed at 2025-12-11 06:32:49.335722
+[DEBUG] Script reached at 2025-12-11 09:00:13.019778
+[INFO] Starting Playwright at 2025-12-11 09:00:13.023314
+[INFO] Playwright completed at 2025-12-11 09:03:12.086788
+[DEBUG] Script reached at 2025-12-11 09:29:57.716227
+[INFO] Starting Playwright at 2025-12-11 09:29:57.720226
+[INFO] Playwright completed at 2025-12-11 09:33:23.381846
+[DEBUG] Script reached at 2025-12-12 06:00:06.507293
+[INFO] Starting Playwright at 2025-12-12 06:00:06.508292
+[INFO] Playwright completed at 2025-12-12 06:02:58.305044
+[DEBUG] Script reached at 2025-12-12 09:00:06.986545
+[INFO] Starting Playwright at 2025-12-12 09:00:06.995576
+[INFO] Playwright completed at 2025-12-12 09:02:48.515907
+[DEBUG] Script reached at 2025-12-12 12:00:07.540822
+[INFO] Starting Playwright at 2025-12-12 12:00:07.552089
+[INFO] Playwright completed at 2025-12-12 12:02:54.445547
+[DEBUG] Script reached at 2025-12-12 15:00:06.986945
+[INFO] Starting Playwright at 2025-12-12 15:00:06.987944
+[INFO] Playwright completed at 2025-12-12 15:02:46.416675
+[DEBUG] Script reached at 2025-12-12 18:00:05.738033
+[INFO] Starting Playwright at 2025-12-12 18:00:05.740084
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-12 21:00:05.467611
+[INFO] Starting Playwright at 2025-12-12 21:00:05.469879
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-13 00:00:06.241313
+[INFO] Starting Playwright at 2025-12-13 00:00:06.241313
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-13 03:00:06.418395
+[INFO] Starting Playwright at 2025-12-13 03:00:06.418395
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-13 06:00:05.570746
+[INFO] Starting Playwright at 2025-12-13 06:00:05.572742
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-13 09:00:06.449415
+[INFO] Starting Playwright at 2025-12-13 09:00:06.451153
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-13 12:00:06.146013
+[INFO] Starting Playwright at 2025-12-13 12:00:06.146986
+[INFO] Playwright completed at 2025-12-13 12:02:52.327651
+[DEBUG] Script reached at 2025-12-13 15:00:06.174155
+[INFO] Starting Playwright at 2025-12-13 15:00:06.175155
+[INFO] Playwright completed at 2025-12-13 15:02:44.152348
+[DEBUG] Script reached at 2025-12-13 18:00:05.688049
+[INFO] Starting Playwright at 2025-12-13 18:00:05.690063
+[INFO] Playwright completed at 2025-12-13 18:02:41.796561
+[DEBUG] Script reached at 2025-12-13 21:00:06.496177
+[INFO] Starting Playwright at 2025-12-13 21:00:06.497172
+[INFO] Playwright completed at 2025-12-13 21:02:44.218193
+[DEBUG] Script reached at 2025-12-14 00:00:06.911643
+[INFO] Starting Playwright at 2025-12-14 00:00:06.913632
+[INFO] Playwright completed at 2025-12-14 00:03:03.645928
+[DEBUG] Script reached at 2025-12-14 03:00:06.443735
+[INFO] Starting Playwright at 2025-12-14 03:00:06.444800
+[INFO] Playwright completed at 2025-12-14 03:02:44.110635
+[DEBUG] Script reached at 2025-12-14 06:00:06.187959
+[INFO] Starting Playwright at 2025-12-14 06:00:06.189960
+[INFO] Playwright completed at 2025-12-14 06:02:45.168907
+[DEBUG] Script reached at 2025-12-14 09:00:06.390255
+[INFO] Starting Playwright at 2025-12-14 09:00:06.391189
+[INFO] Playwright completed at 2025-12-14 09:02:42.664376
+[DEBUG] Script reached at 2025-12-14 12:00:05.776817
+[INFO] Starting Playwright at 2025-12-14 12:00:05.778444
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-14 15:00:07.426943
+[INFO] Starting Playwright at 2025-12-14 15:00:07.429485
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-14 18:00:06.424195
+[INFO] Starting Playwright at 2025-12-14 18:00:06.426198
+[INFO] Playwright completed at 2025-12-14 18:02:42.229105
+[DEBUG] Script reached at 2025-12-14 21:00:05.717946
+[INFO] Starting Playwright at 2025-12-14 21:00:05.717946
+[INFO] Playwright completed at 2025-12-14 21:02:57.351569
+[DEBUG] Script reached at 2025-12-15 00:00:05.752450
+[INFO] Starting Playwright at 2025-12-15 00:00:05.768849
+[INFO] Playwright completed at 2025-12-15 00:02:57.319719
+[DEBUG] Script reached at 2025-12-15 03:00:05.687944
+[INFO] Starting Playwright at 2025-12-15 03:00:05.687944
+[INFO] Playwright completed at 2025-12-15 03:02:34.688428
+[DEBUG] Script reached at 2025-12-15 06:00:04.780326
+[INFO] Starting Playwright at 2025-12-15 06:00:04.781922
+[INFO] Playwright completed at 2025-12-15 06:02:42.470951
+[DEBUG] Script reached at 2025-12-15 09:00:07.020184
+[INFO] Starting Playwright at 2025-12-15 09:00:07.021615
+[INFO] Playwright completed at 2025-12-15 09:04:01.250139
+[DEBUG] Script reached at 2025-12-15 12:00:08.710701
+[INFO] Starting Playwright at 2025-12-15 12:00:08.712721
+[INFO] Playwright completed at 2025-12-15 12:03:08.087293
+[DEBUG] Script reached at 2025-12-15 15:00:07.976537
+[INFO] Starting Playwright at 2025-12-15 15:00:07.980010
+[INFO] Playwright completed at 2025-12-15 15:02:56.205953
+[DEBUG] Script reached at 2025-12-15 18:00:06.784139
+[INFO] Starting Playwright at 2025-12-15 18:00:06.786678
+[INFO] Playwright completed at 2025-12-15 18:02:52.228245
+[DEBUG] Script reached at 2025-12-15 21:00:08.124404
+[INFO] Starting Playwright at 2025-12-15 21:00:08.127484
+[INFO] Playwright completed at 2025-12-15 21:04:07.117951
+[DEBUG] Script reached at 2025-12-16 00:00:07.140157
+[INFO] Starting Playwright at 2025-12-16 00:00:07.142156
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-16 03:00:06.884273
+[INFO] Starting Playwright at 2025-12-16 03:00:06.885269
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-16 07:15:01.595216
+[INFO] Starting Playwright at 2025-12-16 07:15:01.598118
+[INFO] Playwright completed at 2025-12-16 07:18:01.036560
+[DEBUG] Script reached at 2025-12-16 09:00:07.225531
+[INFO] Starting Playwright at 2025-12-16 09:00:07.227531
+[INFO] Playwright completed at 2025-12-16 09:02:55.224329
+[DEBUG] Script reached at 2025-12-16 10:14:05.144855
+[INFO] Starting Playwright at 2025-12-16 10:14:05.148095
+[INFO] Playwright completed at 2025-12-16 10:16:57.505302
+[DEBUG] Script reached at 2025-12-16 12:00:05.207595
+[INFO] Starting Playwright at 2025-12-16 12:00:05.208606
+[INFO] Playwright completed at 2025-12-16 12:03:06.024729
+[DEBUG] Script reached at 2025-12-16 15:29:06.953093
+[INFO] Starting Playwright at 2025-12-16 15:29:06.963954
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-16 16:14:04.343253
+[INFO] Starting Playwright at 2025-12-16 16:14:04.345264
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-16 18:00:05.175501
+[INFO] Starting Playwright at 2025-12-16 18:00:05.176499
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-16 19:14:06.117866
+[INFO] Starting Playwright at 2025-12-16 19:14:06.118828
+[INFO] Playwright completed at 2025-12-16 19:17:23.282419
+[DEBUG] Script reached at 2025-12-17 06:37:33.685684
+[INFO] Starting Playwright at 2025-12-17 06:37:33.685684
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-17 09:37:22.652969
+[INFO] Starting Playwright at 2025-12-17 09:37:22.652969
+[INFO] Playwright completed at 2025-12-17 09:40:20.211380
+[DEBUG] Script reached at 2025-12-17 14:31:28.207560
+[INFO] Starting Playwright at 2025-12-17 14:31:28.210491
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-17 15:37:21.318423
+[INFO] Starting Playwright at 2025-12-17 15:37:21.320475
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-17 18:37:20.893303
+[INFO] Starting Playwright at 2025-12-17 18:37:20.893303
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-17 21:37:20.716244
+[INFO] Starting Playwright at 2025-12-17 21:37:20.716244
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-18 00:37:21.235948
+[INFO] Starting Playwright at 2025-12-18 00:37:21.239101
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-18 03:37:21.096430
+[INFO] Starting Playwright at 2025-12-18 03:37:21.105442
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-18 06:37:42.284229
+[INFO] Starting Playwright at 2025-12-18 06:37:42.300091
+[INFO] Playwright completed at 2025-12-18 06:41:27.069746
+[DEBUG] Script reached at 2025-12-18 09:37:12.745450
+[INFO] Starting Playwright at 2025-12-18 09:37:12.746811
+[INFO] Playwright completed at 2025-12-18 09:40:08.405740
+[DEBUG] Script reached at 2025-12-18 12:40:07.387301
+[INFO] Starting Playwright at 2025-12-18 12:40:07.392294
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-18 15:37:13.103952
+[INFO] Starting Playwright at 2025-12-18 15:37:13.104951
+[INFO] Playwright completed at 2025-12-18 15:40:06.322250
+[DEBUG] Script reached at 2025-12-18 18:37:11.996973
+[INFO] Starting Playwright at 2025-12-18 18:37:11.997968
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-18 21:37:11.485458
+[INFO] Starting Playwright at 2025-12-18 21:37:11.486458
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-19 00:37:11.966251
+[INFO] Starting Playwright at 2025-12-19 00:37:11.967251
+[ERROR] Playwright failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-19 03:37:12.029898
+[INFO] Starting Playwright at 2025-12-19 03:37:12.030901
+[ERROR] Playwright failed: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-19 06:00:06.069388
+[INFO] Starting Playwright at 2025-12-19 06:00:06.070386
+[ERROR] Playwright failed: Page.goto: net::ERR_INVALID_AUTH_CREDENTIALS at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-20 06:00:04.977536
+[INFO] Starting Playwright at 2025-12-20 06:00:04.977536
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-20 09:00:05.470945
+[INFO] Starting Playwright at 2025-12-20 09:00:05.471926
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-20 12:00:05.290866
+[INFO] Starting Playwright at 2025-12-20 12:00:05.290866
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-20 15:00:05.583172
+[INFO] Starting Playwright at 2025-12-20 15:00:05.583172
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-20 18:00:05.278524
+[INFO] Starting Playwright at 2025-12-20 18:00:05.278524
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-20 21:00:05.254896
+[INFO] Starting Playwright at 2025-12-20 21:00:05.254896
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 00:00:04.740869
+[INFO] Starting Playwright at 2025-12-21 00:00:04.740869
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 03:00:04.868767
+[INFO] Starting Playwright at 2025-12-21 03:00:04.868767
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 06:00:04.951579
+[INFO] Starting Playwright at 2025-12-21 06:00:04.951579
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 09:00:05.428239
+[INFO] Starting Playwright at 2025-12-21 09:00:05.428239
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 12:00:05.379297
+[INFO] Starting Playwright at 2025-12-21 12:00:05.379297
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 15:00:05.444475
+[INFO] Starting Playwright at 2025-12-21 15:00:05.444475
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 18:00:04.960849
+[INFO] Starting Playwright at 2025-12-21 18:00:04.960849
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-21 21:00:05.186311
+[INFO] Starting Playwright at 2025-12-21 21:00:05.186311
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-22 00:00:04.942628
+[INFO] Starting Playwright at 2025-12-22 00:00:04.942628
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-22 03:00:05.191102
+[INFO] Starting Playwright at 2025-12-22 03:00:05.191102
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-22 06:00:04.348287
+[INFO] Starting Playwright at 2025-12-22 06:00:04.348287
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-22 09:00:06.313666
+[INFO] Starting Playwright at 2025-12-22 09:00:06.313666
+[INFO] Playwright completed at 2025-12-22 09:03:04.033553
+[DEBUG] Script reached at 2025-12-22 12:00:07.111114
+[INFO] Starting Playwright at 2025-12-22 12:00:07.111114
+[INFO] Playwright completed at 2025-12-22 12:02:57.067830
+[DEBUG] Script reached at 2025-12-22 15:00:08.311699
+[INFO] Starting Playwright at 2025-12-22 15:00:08.313696
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-22 18:00:06.596619
+[INFO] Starting Playwright at 2025-12-22 18:00:06.601421
+[INFO] Playwright completed at 2025-12-22 18:02:47.723372
+[DEBUG] Script reached at 2025-12-22 21:00:05.988265
+[INFO] Starting Playwright at 2025-12-22 21:00:05.988265
+[INFO] Playwright completed at 2025-12-22 21:02:47.272767
+[DEBUG] Script reached at 2025-12-23 00:00:10.790606
+[INFO] Starting Playwright at 2025-12-23 00:00:10.790606
+[INFO] Playwright completed at 2025-12-23 00:03:05.980691
+[DEBUG] Script reached at 2025-12-23 03:00:06.343071
+[INFO] Starting Playwright at 2025-12-23 03:00:06.343071
+[INFO] Playwright completed at 2025-12-23 03:02:44.625689
+[DEBUG] Script reached at 2025-12-23 06:00:08.134143
+[INFO] Starting Playwright at 2025-12-23 06:00:08.134143
+[INFO] Playwright completed at 2025-12-23 06:03:00.313655
+[DEBUG] Script reached at 2025-12-23 09:00:06.996501
+[INFO] Starting Playwright at 2025-12-23 09:00:07.000585
+[INFO] Playwright completed at 2025-12-23 09:02:55.916969
+[DEBUG] Script reached at 2025-12-23 12:00:05.732890
+[INFO] Starting Playwright at 2025-12-23 12:00:05.732890
+[INFO] Playwright completed at 2025-12-23 12:02:51.192145
+[DEBUG] Script reached at 2025-12-24 07:11:19.503492
+[INFO] Starting Playwright at 2025-12-24 07:11:19.504872
+[INFO] Playwright completed at 2025-12-24 07:16:47.118203
+[DEBUG] Script reached at 2025-12-24 09:00:07.391217
+[INFO] Starting Playwright at 2025-12-24 09:00:07.400876
+[INFO] Playwright completed at 2025-12-24 09:02:46.602490
+[DEBUG] Script reached at 2025-12-24 10:08:45.008462
+[INFO] Starting Playwright at 2025-12-24 10:08:45.010740
+[INFO] Playwright completed at 2025-12-24 10:11:30.613798
+[DEBUG] Script reached at 2025-12-24 12:00:07.839420
+[INFO] Starting Playwright at 2025-12-24 12:00:07.839420
+[INFO] Playwright completed at 2025-12-24 12:02:52.267588
+[DEBUG] Script reached at 2025-12-24 13:08:42.728182
+[INFO] Starting Playwright at 2025-12-24 13:08:42.728182
+[INFO] Playwright completed at 2025-12-24 13:11:20.136877
+[DEBUG] Script reached at 2025-12-24 15:00:07.037445
+[INFO] Starting Playwright at 2025-12-24 15:00:07.037445
+[INFO] Playwright completed at 2025-12-24 15:02:48.355453
+[DEBUG] Script reached at 2025-12-24 16:08:42.245905
+[INFO] Starting Playwright at 2025-12-24 16:08:42.245905
+[INFO] Playwright completed at 2025-12-24 16:11:22.087479
+[DEBUG] Script reached at 2025-12-24 18:00:07.234027
+[INFO] Starting Playwright at 2025-12-24 18:00:07.236018
+[INFO] Playwright completed at 2025-12-24 18:02:48.490738
+[DEBUG] Script reached at 2025-12-24 19:08:42.961149
+[INFO] Starting Playwright at 2025-12-24 19:08:42.961149
+[INFO] Playwright completed at 2025-12-24 19:11:21.818345
+[DEBUG] Script reached at 2025-12-24 21:00:06.177299
+[INFO] Starting Playwright at 2025-12-24 21:00:06.179811
+[INFO] Playwright completed at 2025-12-24 21:02:40.788949
+[DEBUG] Script reached at 2025-12-24 22:08:41.469532
+[INFO] Starting Playwright at 2025-12-24 22:08:41.471539
+[INFO] Playwright completed at 2025-12-24 22:11:21.153074
+[DEBUG] Script reached at 2025-12-25 00:00:06.360762
+[INFO] Starting Playwright at 2025-12-25 00:00:06.365756
+[INFO] Playwright completed at 2025-12-25 00:02:47.297408
+[DEBUG] Script reached at 2025-12-25 01:08:42.094015
+[INFO] Starting Playwright at 2025-12-25 01:08:42.096027
+[INFO] Playwright completed at 2025-12-25 01:11:18.224890
+[DEBUG] Script reached at 2025-12-25 03:00:06.731746
+[INFO] Starting Playwright at 2025-12-25 03:00:06.733747
+[ERROR] Playwright failed: Page.goto: net::ERR_INVALID_AUTH_CREDENTIALS at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 04:08:40.719994
+[INFO] Starting Playwright at 2025-12-25 04:08:40.721995
+[ERROR] Playwright failed: Page.goto: net::ERR_INVALID_AUTH_CREDENTIALS at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 06:00:06.598320
+[INFO] Starting Playwright at 2025-12-25 06:00:06.599325
+[INFO] Playwright completed at 2025-12-25 06:02:41.929282
+[DEBUG] Script reached at 2025-12-25 07:08:41.456331
+[INFO] Starting Playwright at 2025-12-25 07:08:41.458348
+[INFO] Playwright completed at 2025-12-25 07:11:17.022073
+[DEBUG] Script reached at 2025-12-25 09:00:05.536683
+[INFO] Starting Playwright at 2025-12-25 09:00:05.539692
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 10:08:41.496680
+[INFO] Starting Playwright at 2025-12-25 10:08:41.500981
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 12:00:06.069374
+[INFO] Starting Playwright at 2025-12-25 12:00:06.070368
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 13:08:40.783611
+[INFO] Starting Playwright at 2025-12-25 13:08:40.784615
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 15:00:06.221097
+[INFO] Starting Playwright at 2025-12-25 15:00:06.225751
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 16:08:41.008694
+[INFO] Starting Playwright at 2025-12-25 16:08:41.010199
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-25 18:00:06.138220
+[INFO] Starting Playwright at 2025-12-25 18:00:06.138220
+[INFO] Playwright completed at 2025-12-25 18:02:46.328926
+[DEBUG] Script reached at 2025-12-25 19:08:42.552005
+[INFO] Starting Playwright at 2025-12-25 19:08:42.556025
+[INFO] Playwright completed at 2025-12-25 19:11:23.139189
+[DEBUG] Script reached at 2025-12-25 21:00:07.672286
+[INFO] Starting Playwright at 2025-12-25 21:00:07.686950
+[INFO] Playwright completed at 2025-12-25 21:02:49.585559
+[DEBUG] Script reached at 2025-12-25 22:08:42.187230
+[INFO] Starting Playwright at 2025-12-25 22:08:42.188231
+[INFO] Playwright completed at 2025-12-25 22:11:55.569842
+[DEBUG] Script reached at 2025-12-26 00:00:05.941164
+[INFO] Starting Playwright at 2025-12-26 00:00:05.942146
+[INFO] Playwright completed at 2025-12-26 00:02:50.140157
+[DEBUG] Script reached at 2025-12-26 01:08:42.506631
+[INFO] Starting Playwright at 2025-12-26 01:08:42.507631
+[INFO] Playwright completed at 2025-12-26 01:11:19.371948
+[DEBUG] Script reached at 2025-12-26 03:00:06.883334
+[INFO] Starting Playwright at 2025-12-26 03:00:06.886525
+[INFO] Playwright completed at 2025-12-26 03:02:49.503941
+[DEBUG] Script reached at 2025-12-26 04:08:43.490754
+[INFO] Starting Playwright at 2025-12-26 04:08:43.490754
+[INFO] Playwright completed at 2025-12-26 04:11:21.291226
+[DEBUG] Script reached at 2025-12-26 06:00:06.816193
+[INFO] Starting Playwright at 2025-12-26 06:00:06.817194
+[INFO] Playwright completed at 2025-12-26 06:02:51.851751
+[DEBUG] Script reached at 2025-12-26 07:08:44.011370
+[INFO] Starting Playwright at 2025-12-26 07:08:44.015599
+[INFO] Playwright completed at 2025-12-26 07:11:31.568093
+[DEBUG] Script reached at 2025-12-26 09:00:07.058433
+[INFO] Starting Playwright at 2025-12-26 09:00:07.058433
+[INFO] Playwright completed at 2025-12-26 09:02:51.397762
+[DEBUG] Script reached at 2025-12-26 10:08:45.487701
+[INFO] Starting Playwright at 2025-12-26 10:08:45.490707
+[INFO] Playwright completed at 2025-12-26 10:11:36.987058
+[DEBUG] Script reached at 2025-12-26 12:00:07.516548
+[INFO] Starting Playwright at 2025-12-26 12:00:07.522064
+[INFO] Playwright completed at 2025-12-26 12:02:51.491320
+[DEBUG] Script reached at 2025-12-26 13:08:42.790045
+[INFO] Starting Playwright at 2025-12-26 13:08:42.790045
+[INFO] Playwright completed at 2025-12-26 13:11:24.168841
+[DEBUG] Script reached at 2025-12-26 15:00:08.298091
+[INFO] Starting Playwright at 2025-12-26 15:00:08.298698
+[INFO] Playwright completed at 2025-12-26 15:02:53.417911
+[DEBUG] Script reached at 2025-12-26 16:08:43.303868
+[INFO] Starting Playwright at 2025-12-26 16:08:43.303868
+[INFO] Playwright completed at 2025-12-26 16:11:25.170979
+[DEBUG] Script reached at 2025-12-26 18:00:07.682883
+[INFO] Starting Playwright at 2025-12-26 18:00:07.682883
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-26 19:08:43.775808
+[INFO] Starting Playwright at 2025-12-26 19:08:43.777807
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-26 21:00:06.399088
+[INFO] Starting Playwright at 2025-12-26 21:00:06.399088
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-26 22:08:42.734510
+[INFO] Starting Playwright at 2025-12-26 22:08:42.735513
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 00:00:07.515939
+[INFO] Starting Playwright at 2025-12-27 00:00:07.519449
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 01:08:43.060446
+[INFO] Starting Playwright at 2025-12-27 01:08:43.060446
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 03:00:07.228297
+[INFO] Starting Playwright at 2025-12-27 03:00:07.230294
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 04:08:43.041771
+[INFO] Starting Playwright at 2025-12-27 04:08:43.045783
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 06:00:06.984443
+[INFO] Starting Playwright at 2025-12-27 06:00:06.985441
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 07:08:43.385692
+[INFO] Starting Playwright at 2025-12-27 07:08:43.385692
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 09:00:07.387101
+[INFO] Starting Playwright at 2025-12-27 09:00:07.387101
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 10:08:42.299375
+[INFO] Starting Playwright at 2025-12-27 10:08:42.306537
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 12:00:06.945576
+[INFO] Starting Playwright at 2025-12-27 12:00:06.946571
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 13:08:43.174645
+[INFO] Starting Playwright at 2025-12-27 13:08:43.174645
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 15:00:06.508190
+[INFO] Starting Playwright at 2025-12-27 15:00:06.509162
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 16:08:42.338128
+[INFO] Starting Playwright at 2025-12-27 16:08:42.340125
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 18:00:07.351636
+[INFO] Starting Playwright at 2025-12-27 18:00:07.353885
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 19:08:42.922457
+[INFO] Starting Playwright at 2025-12-27 19:08:42.923431
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 21:00:06.537639
+[INFO] Starting Playwright at 2025-12-27 21:00:06.538669
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-27 22:08:43.014136
+[INFO] Starting Playwright at 2025-12-27 22:08:43.017001
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 00:00:06.954100
+[INFO] Starting Playwright at 2025-12-28 00:00:06.956109
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 01:08:42.604128
+[INFO] Starting Playwright at 2025-12-28 01:08:42.604128
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 03:00:07.509465
+[INFO] Starting Playwright at 2025-12-28 03:00:07.512391
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 04:08:42.462253
+[INFO] Starting Playwright at 2025-12-28 04:08:42.472503
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 06:00:06.676077
+[INFO] Starting Playwright at 2025-12-28 06:00:06.678101
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 07:08:43.094232
+[INFO] Starting Playwright at 2025-12-28 07:08:43.095236
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 09:00:06.926980
+[INFO] Starting Playwright at 2025-12-28 09:00:06.926980
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 10:08:42.690388
+[INFO] Starting Playwright at 2025-12-28 10:08:42.693386
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 12:00:07.076277
+[INFO] Starting Playwright at 2025-12-28 12:00:07.079293
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-28 13:08:43.934461
+[INFO] Starting Playwright at 2025-12-28 13:08:43.935462
+[INFO] Playwright completed at 2025-12-28 13:11:34.602858
+[DEBUG] Script reached at 2025-12-28 15:00:07.508757
+[INFO] Starting Playwright at 2025-12-28 15:00:07.510822
+[INFO] Playwright completed at 2025-12-28 15:02:51.160497
+[DEBUG] Script reached at 2025-12-28 16:08:43.047510
+[INFO] Starting Playwright at 2025-12-28 16:08:43.047510
+[INFO] Playwright completed at 2025-12-28 16:11:21.669237
+[DEBUG] Script reached at 2025-12-28 18:00:07.490298
+[INFO] Starting Playwright at 2025-12-28 18:00:07.491297
+[INFO] Playwright completed at 2025-12-28 18:02:51.769125
+[DEBUG] Script reached at 2025-12-28 19:08:43.665551
+[INFO] Starting Playwright at 2025-12-28 19:08:43.671556
+[INFO] Playwright completed at 2025-12-28 19:11:32.929688
+[DEBUG] Script reached at 2025-12-28 21:00:07.950130
+[INFO] Starting Playwright at 2025-12-28 21:00:07.952115
+[INFO] Playwright completed at 2025-12-28 21:03:04.747711
+[DEBUG] Script reached at 2025-12-28 22:08:42.836834
+[INFO] Starting Playwright at 2025-12-28 22:08:42.836834
+[INFO] Playwright completed at 2025-12-28 22:11:27.323552
+[DEBUG] Script reached at 2025-12-29 00:00:06.645396
+[INFO] Starting Playwright at 2025-12-29 00:00:06.648424
+[INFO] Playwright completed at 2025-12-29 00:02:49.956225
+[DEBUG] Script reached at 2025-12-29 01:08:43.426529
+[INFO] Starting Playwright at 2025-12-29 01:08:43.427523
+[INFO] Playwright completed at 2025-12-29 01:11:27.711387
+[DEBUG] Script reached at 2025-12-29 03:00:06.912554
+[INFO] Starting Playwright at 2025-12-29 03:00:06.912554
+[INFO] Playwright completed at 2025-12-29 03:02:51.242408
+[DEBUG] Script reached at 2025-12-29 04:08:43.489828
+[INFO] Starting Playwright at 2025-12-29 04:08:43.489828
+[INFO] Playwright completed at 2025-12-29 04:11:27.743586
+[DEBUG] Script reached at 2025-12-29 06:00:06.841967
+[INFO] Starting Playwright at 2025-12-29 06:00:06.842865
+[INFO] Playwright completed at 2025-12-29 06:02:52.555955
+[DEBUG] Script reached at 2025-12-29 07:08:43.498665
+[INFO] Starting Playwright at 2025-12-29 07:08:43.500665
+[INFO] Playwright completed at 2025-12-29 07:11:34.396814
+[DEBUG] Script reached at 2025-12-29 09:00:09.375494
+[INFO] Starting Playwright at 2025-12-29 09:00:09.378498
+[INFO] Playwright completed at 2025-12-29 09:03:14.201511
+[DEBUG] Script reached at 2025-12-29 10:08:45.046416
+[INFO] Starting Playwright at 2025-12-29 10:08:45.046416
+[INFO] Playwright completed at 2025-12-29 10:11:44.700122
+[DEBUG] Script reached at 2025-12-29 12:00:09.343171
+[INFO] Starting Playwright at 2025-12-29 12:00:09.347230
+[INFO] Playwright completed at 2025-12-29 12:03:13.249384
+[DEBUG] Script reached at 2025-12-29 13:08:44.056029
+[INFO] Starting Playwright at 2025-12-29 13:08:44.057029
+[INFO] Playwright completed at 2025-12-29 13:11:45.190397
+[DEBUG] Script reached at 2025-12-30 08:07:02.282201
+[INFO] Starting Playwright at 2025-12-30 08:07:02.287730
+[INFO] Playwright completed at 2025-12-30 08:11:30.816095
+[DEBUG] Script reached at 2025-12-30 09:00:08.422228
+[INFO] Starting Playwright at 2025-12-30 09:00:08.422228
+[INFO] Playwright completed at 2025-12-30 09:03:09.560514
+[DEBUG] Script reached at 2025-12-30 10:08:55.026799
+[INFO] Starting Playwright at 2025-12-30 10:08:55.031317
+[INFO] Playwright completed at 2025-12-30 10:12:55.539692
+[DEBUG] Script reached at 2025-12-30 12:00:09.385307
+[INFO] Starting Playwright at 2025-12-30 12:00:09.385307
+[INFO] Playwright completed at 2025-12-30 12:03:13.405478
+[DEBUG] Script reached at 2025-12-30 13:56:36.110156
+[INFO] Starting Playwright at 2025-12-30 13:56:36.156146
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-30 15:00:06.757835
+[INFO] Starting Playwright at 2025-12-30 15:00:06.758827
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-30 16:08:42.278228
+[INFO] Starting Playwright at 2025-12-30 16:08:42.280226
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-30 18:00:05.818315
+[INFO] Starting Playwright at 2025-12-30 18:00:05.819313
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-30 19:08:41.749311
+[INFO] Starting Playwright at 2025-12-30 19:08:41.750384
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-30 21:00:06.912154
+[INFO] Starting Playwright at 2025-12-30 21:00:06.913158
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-30 22:08:42.563656
+[INFO] Starting Playwright at 2025-12-30 22:08:42.565657
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-31 00:00:06.269523
+[INFO] Starting Playwright at 2025-12-31 00:00:06.270539
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-31 01:08:41.914855
+[INFO] Starting Playwright at 2025-12-31 01:08:41.917839
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-31 03:00:06.891594
+[INFO] Starting Playwright at 2025-12-31 03:00:06.892597
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-31 04:08:42.143075
+[INFO] Starting Playwright at 2025-12-31 04:08:42.144075
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-31 06:00:06.157236
+[INFO] Starting Playwright at 2025-12-31 06:00:06.158236
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2025-12-31 07:08:45.786898
+[INFO] Starting Playwright at 2025-12-31 07:08:45.790444
+[INFO] Playwright completed at 2025-12-31 07:12:20.111667
+[DEBUG] Script reached at 2025-12-31 09:00:08.956434
+[INFO] Starting Playwright at 2025-12-31 09:00:08.959458
+[INFO] Playwright completed at 2025-12-31 09:03:03.155833
+[DEBUG] Script reached at 2025-12-31 10:08:50.788174
+[INFO] Starting Playwright at 2025-12-31 10:08:50.809544
+[INFO] Playwright completed at 2025-12-31 10:12:49.545523
+[DEBUG] Script reached at 2025-12-31 12:00:08.627963
+[INFO] Starting Playwright at 2025-12-31 12:00:08.631967
+[INFO] Playwright completed at 2025-12-31 12:03:15.717786
+[DEBUG] Script reached at 2025-12-31 13:08:44.418157
+[INFO] Starting Playwright at 2025-12-31 13:08:44.421174
+[INFO] Playwright completed at 2025-12-31 13:11:45.859982
+[DEBUG] Script reached at 2025-12-31 15:00:07.674163
+[INFO] Starting Playwright at 2025-12-31 15:00:07.678058
+[INFO] Playwright completed at 2025-12-31 15:02:58.672996
+[DEBUG] Script reached at 2025-12-31 16:08:48.075813
+[INFO] Starting Playwright at 2025-12-31 16:08:48.085838
+[INFO] Playwright completed at 2025-12-31 16:12:29.879502
+[DEBUG] Script reached at 2025-12-31 18:00:08.162360
+[INFO] Starting Playwright at 2025-12-31 18:00:08.167360
+[INFO] Playwright completed at 2025-12-31 18:02:59.755567
+[DEBUG] Script reached at 2025-12-31 19:08:44.325188
+[INFO] Starting Playwright at 2025-12-31 19:08:44.327188
+[INFO] Playwright completed at 2025-12-31 19:11:36.152059
+[DEBUG] Script reached at 2025-12-31 21:00:07.965659
+[INFO] Starting Playwright at 2025-12-31 21:00:07.977183
+[INFO] Playwright completed at 2025-12-31 21:02:55.971239
+[DEBUG] Script reached at 2025-12-31 22:08:43.951598
+[INFO] Starting Playwright at 2025-12-31 22:08:43.953597
+[INFO] Playwright completed at 2025-12-31 22:11:36.329686
+[DEBUG] Script reached at 2026-01-01 00:00:08.518749
+[INFO] Starting Playwright at 2026-01-01 00:00:08.522748
+[INFO] Playwright completed at 2026-01-01 00:03:01.371568
+[DEBUG] Script reached at 2026-01-01 01:08:43.844260
+[INFO] Starting Playwright at 2026-01-01 01:08:43.845257
+[INFO] Playwright completed at 2026-01-01 01:11:30.390064
+[DEBUG] Script reached at 2026-01-01 03:00:08.292705
+[INFO] Starting Playwright at 2026-01-01 03:00:08.294699
+[INFO] Playwright completed at 2026-01-01 03:02:57.140434
+[DEBUG] Script reached at 2026-01-01 04:08:44.137865
+[INFO] Starting Playwright at 2026-01-01 04:08:44.139872
+[INFO] Playwright completed at 2026-01-01 04:11:32.787380
+[DEBUG] Script reached at 2026-01-01 06:00:08.824268
+[INFO] Starting Playwright at 2026-01-01 06:00:08.826784
+[INFO] Playwright completed at 2026-01-01 06:03:00.465812
+[DEBUG] Script reached at 2026-01-01 07:08:44.209356
+[INFO] Starting Playwright at 2026-01-01 07:08:44.212366
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 09:00:08.765292
+[INFO] Starting Playwright at 2026-01-01 09:00:08.766287
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 10:08:43.426856
+[INFO] Starting Playwright at 2026-01-01 10:08:43.429854
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 12:00:07.299747
+[INFO] Starting Playwright at 2026-01-01 12:00:07.300748
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 13:08:44.300350
+[INFO] Starting Playwright at 2026-01-01 13:08:44.301856
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 15:00:07.789249
+[INFO] Starting Playwright at 2026-01-01 15:00:07.793843
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 16:08:43.455747
+[INFO] Starting Playwright at 2026-01-01 16:08:43.458749
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 18:00:07.217089
+[INFO] Starting Playwright at 2026-01-01 18:00:07.219100
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 19:08:43.719973
+[INFO] Starting Playwright at 2026-01-01 19:08:43.721976
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 21:00:08.349472
+[INFO] Starting Playwright at 2026-01-01 21:00:08.351452
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-01 22:08:44.062094
+[INFO] Starting Playwright at 2026-01-01 22:08:44.064097
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-02 00:00:08.716701
+[INFO] Starting Playwright at 2026-01-02 00:00:08.716701
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-02 01:08:43.844998
+[INFO] Starting Playwright at 2026-01-02 01:08:43.846535
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-02 03:00:07.280667
+[INFO] Starting Playwright at 2026-01-02 03:00:07.285427
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-02 04:08:46.295242
+[INFO] Starting Playwright at 2026-01-02 04:08:46.296827
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-02 06:00:09.282153
+[INFO] Starting Playwright at 2026-01-02 06:00:09.283155
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-02 07:08:54.434066
+[INFO] Starting Playwright at 2026-01-02 07:08:54.445091
+[INFO] Playwright completed at 2026-01-02 07:13:07.465557
+[DEBUG] Script reached at 2026-01-02 09:00:13.878270
+[INFO] Starting Playwright at 2026-01-02 09:00:13.883275
+[INFO] Playwright completed at 2026-01-02 09:03:27.998732
+[DEBUG] Script reached at 2026-01-02 10:08:44.777444
+[INFO] Starting Playwright at 2026-01-02 10:08:44.778450
+[INFO] Playwright completed at 2026-01-02 10:11:39.763839
+[DEBUG] Script reached at 2026-01-02 12:00:08.928386
+[INFO] Starting Playwright at 2026-01-02 12:00:08.930389
+[INFO] Playwright completed at 2026-01-02 12:03:08.336740
+[DEBUG] Script reached at 2026-01-02 13:08:46.566253
+[INFO] Starting Playwright at 2026-01-02 13:08:46.578104
+[INFO] Playwright completed at 2026-01-02 13:12:30.282793
+[DEBUG] Script reached at 2026-01-02 15:00:08.065707
+[INFO] Starting Playwright at 2026-01-02 15:00:08.066727
+[INFO] Playwright completed at 2026-01-02 15:03:12.192616
+[DEBUG] Script reached at 2026-01-02 16:08:43.893767
+[INFO] Starting Playwright at 2026-01-02 16:08:43.899106
+[INFO] Playwright completed at 2026-01-02 16:11:34.972520
+[DEBUG] Script reached at 2026-01-02 18:00:07.558891
+[INFO] Starting Playwright at 2026-01-02 18:00:07.561398
+[INFO] Playwright completed at 2026-01-02 18:02:58.046183
+[DEBUG] Script reached at 2026-01-02 19:08:44.963158
+[INFO] Starting Playwright at 2026-01-02 19:08:44.966162
+[INFO] Playwright completed at 2026-01-02 19:11:32.720877
+[DEBUG] Script reached at 2026-01-02 21:00:08.163092
+[INFO] Starting Playwright at 2026-01-02 21:00:08.165099
+[INFO] Playwright completed at 2026-01-02 21:02:59.274307
+[DEBUG] Script reached at 2026-01-02 22:08:46.516825
+[INFO] Starting Playwright at 2026-01-02 22:08:46.541332
+[INFO] Playwright completed at 2026-01-02 22:11:38.692042
+[DEBUG] Script reached at 2026-01-03 00:00:07.070540
+[INFO] Starting Playwright at 2026-01-03 00:00:07.071539
+[INFO] Playwright completed at 2026-01-03 00:02:57.701900
+[DEBUG] Script reached at 2026-01-03 01:08:44.680564
+[INFO] Starting Playwright at 2026-01-03 01:08:44.681563
+[INFO] Playwright completed at 2026-01-03 01:11:34.830787
+[DEBUG] Script reached at 2026-01-03 03:00:08.308286
+[INFO] Starting Playwright at 2026-01-03 03:00:08.309274
+[INFO] Playwright completed at 2026-01-03 03:02:54.025418
+[DEBUG] Script reached at 2026-01-03 04:08:45.265774
+[INFO] Starting Playwright at 2026-01-03 04:08:45.266780
+[INFO] Playwright completed at 2026-01-03 04:11:34.531196
+[DEBUG] Script reached at 2026-01-03 06:00:07.523671
+[INFO] Starting Playwright at 2026-01-03 06:00:07.524682
+[INFO] Playwright completed at 2026-01-03 06:02:59.099449
+[DEBUG] Script reached at 2026-01-03 07:08:44.014263
+[INFO] Starting Playwright at 2026-01-03 07:08:44.018773
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 09:00:07.433414
+[INFO] Starting Playwright at 2026-01-03 09:00:07.434914
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 10:08:43.040699
+[INFO] Starting Playwright at 2026-01-03 10:08:43.042685
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 12:00:07.865698
+[INFO] Starting Playwright at 2026-01-03 12:00:07.867701
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 13:08:43.676359
+[INFO] Starting Playwright at 2026-01-03 13:08:43.677361
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 15:00:07.994348
+[INFO] Starting Playwright at 2026-01-03 15:00:08.003840
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 16:08:44.612079
+[INFO] Starting Playwright at 2026-01-03 16:08:44.614080
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 18:00:07.514791
+[INFO] Starting Playwright at 2026-01-03 18:00:07.516795
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 19:08:44.100433
+[INFO] Starting Playwright at 2026-01-03 19:08:44.101434
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 21:00:10.167743
+[INFO] Starting Playwright at 2026-01-03 21:00:10.167743
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-03 22:08:44.430018
+[INFO] Starting Playwright at 2026-01-03 22:08:44.432027
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 00:00:08.748439
+[INFO] Starting Playwright at 2026-01-04 00:00:08.755675
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 01:08:43.595395
+[INFO] Starting Playwright at 2026-01-04 01:08:43.599391
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 03:00:08.676507
+[INFO] Starting Playwright at 2026-01-04 03:00:08.679507
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 04:08:45.628778
+[INFO] Starting Playwright at 2026-01-04 04:08:45.632773
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 06:00:08.243256
+[INFO] Starting Playwright at 2026-01-04 06:00:08.251277
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 07:08:45.688402
+[INFO] Starting Playwright at 2026-01-04 07:08:45.688913
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 09:00:08.110771
+[INFO] Starting Playwright at 2026-01-04 09:00:08.111770
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 10:08:44.107631
+[INFO] Starting Playwright at 2026-01-04 10:08:44.107631
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 12:00:08.810663
+[INFO] Starting Playwright at 2026-01-04 12:00:08.813131
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 13:08:44.588373
+[INFO] Starting Playwright at 2026-01-04 13:08:44.589395
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 15:00:07.642512
+[INFO] Starting Playwright at 2026-01-04 15:00:07.650037
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 16:08:44.809765
+[INFO] Starting Playwright at 2026-01-04 16:08:44.813761
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 18:00:08.110767
+[INFO] Starting Playwright at 2026-01-04 18:00:08.115132
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 19:08:44.569038
+[INFO] Starting Playwright at 2026-01-04 19:08:44.570039
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 21:00:09.113204
+[INFO] Starting Playwright at 2026-01-04 21:00:09.117759
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-04 22:08:44.520903
+[INFO] Starting Playwright at 2026-01-04 22:08:44.524901
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 00:00:09.114546
+[INFO] Starting Playwright at 2026-01-05 00:00:09.121033
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 01:08:45.428867
+[INFO] Starting Playwright at 2026-01-05 01:08:45.430875
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 03:00:08.668901
+[INFO] Starting Playwright at 2026-01-05 03:00:08.669901
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 04:08:44.913644
+[INFO] Starting Playwright at 2026-01-05 04:08:44.914637
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 06:47:34.504871
+[INFO] Starting Playwright at 2026-01-05 06:47:34.525455
+[INFO] Playwright completed at 2026-01-05 06:51:55.679838
+[DEBUG] Script reached at 2026-01-05 07:08:44.482767
+[INFO] Starting Playwright at 2026-01-05 07:08:44.483769
+[INFO] Playwright completed at 2026-01-05 07:11:46.908805
+[DEBUG] Script reached at 2026-01-05 09:00:07.424660
+[INFO] Starting Playwright at 2026-01-05 09:00:07.425655
+[INFO] Playwright completed at 2026-01-05 09:02:59.806619
+[DEBUG] Script reached at 2026-01-05 10:08:43.468118
+[INFO] Starting Playwright at 2026-01-05 10:08:43.469117
+[INFO] Playwright completed at 2026-01-05 10:11:43.410855
+[DEBUG] Script reached at 2026-01-05 12:00:12.764564
+[INFO] Starting Playwright at 2026-01-05 12:00:12.766574
+[INFO] Playwright completed at 2026-01-05 12:03:21.290214
+[DEBUG] Script reached at 2026-01-05 13:08:42.516774
+[INFO] Starting Playwright at 2026-01-05 13:08:42.517773
+[INFO] Playwright completed at 2026-01-05 13:11:41.569111
+[DEBUG] Script reached at 2026-01-05 16:05:37.562331
+[INFO] Starting Playwright at 2026-01-05 16:05:37.618701
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 16:08:42.610084
+[INFO] Starting Playwright at 2026-01-05 16:08:42.611080
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 18:00:05.884608
+[INFO] Starting Playwright at 2026-01-05 18:00:05.885606
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 19:08:41.112329
+[INFO] Starting Playwright at 2026-01-05 19:08:41.113331
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 21:00:05.985562
+[INFO] Starting Playwright at 2026-01-05 21:00:05.986554
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-05 22:08:41.520690
+[INFO] Starting Playwright at 2026-01-05 22:08:41.523689
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 00:00:05.728886
+[INFO] Starting Playwright at 2026-01-06 00:00:05.729886
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 01:08:41.209411
+[INFO] Starting Playwright at 2026-01-06 01:08:41.210426
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 03:00:05.934851
+[INFO] Starting Playwright at 2026-01-06 03:00:05.937216
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 04:08:41.122257
+[INFO] Starting Playwright at 2026-01-06 04:08:41.123257
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 06:00:05.976946
+[INFO] Starting Playwright at 2026-01-06 06:00:05.977928
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 07:08:42.703028
+[INFO] Starting Playwright at 2026-01-06 07:08:42.707033
+[INFO] Playwright completed at 2026-01-06 07:11:43.902275
+[DEBUG] Script reached at 2026-01-06 09:00:07.556979
+[INFO] Starting Playwright at 2026-01-06 09:00:07.558582
+[INFO] Playwright completed at 2026-01-06 09:02:59.736161
+[DEBUG] Script reached at 2026-01-06 10:08:43.523577
+[INFO] Starting Playwright at 2026-01-06 10:08:43.523577
+[INFO] Playwright completed at 2026-01-06 10:11:41.493430
+[DEBUG] Script reached at 2026-01-06 12:00:08.524202
+[INFO] Starting Playwright at 2026-01-06 12:00:08.525204
+[INFO] Playwright completed at 2026-01-06 12:03:04.994458
+[DEBUG] Script reached at 2026-01-06 13:08:44.395241
+[INFO] Starting Playwright at 2026-01-06 13:08:44.399304
+[INFO] Playwright completed at 2026-01-06 13:11:38.996833
+[DEBUG] Script reached at 2026-01-06 15:00:06.612017
+[INFO] Starting Playwright at 2026-01-06 15:00:06.614022
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 16:08:42.272687
+[INFO] Starting Playwright at 2026-01-06 16:08:42.273684
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 18:00:05.984708
+[INFO] Starting Playwright at 2026-01-06 18:00:05.986711
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 19:08:42.488563
+[INFO] Starting Playwright at 2026-01-06 19:08:42.500122
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 21:00:06.517288
+[INFO] Starting Playwright at 2026-01-06 21:00:06.518285
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-06 22:08:42.309742
+[INFO] Starting Playwright at 2026-01-06 22:08:42.311741
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 00:00:06.696796
+[INFO] Starting Playwright at 2026-01-07 00:00:06.698796
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 01:08:42.566893
+[INFO] Starting Playwright at 2026-01-07 01:08:42.573890
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 03:00:06.549993
+[INFO] Starting Playwright at 2026-01-07 03:00:06.551995
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 04:08:42.428792
+[INFO] Starting Playwright at 2026-01-07 04:08:42.430792
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 06:00:07.793571
+[INFO] Starting Playwright at 2026-01-07 06:00:07.793571
+[INFO] Playwright completed at 2026-01-07 06:03:33.251654
+[DEBUG] Script reached at 2026-01-07 07:08:44.029491
+[INFO] Starting Playwright at 2026-01-07 07:08:44.030489
+[INFO] Playwright completed at 2026-01-07 07:11:32.886889
+[DEBUG] Script reached at 2026-01-07 09:00:08.273177
+[INFO] Starting Playwright at 2026-01-07 09:00:08.276196
+[INFO] Playwright completed at 2026-01-07 09:03:12.666107
+[DEBUG] Script reached at 2026-01-07 10:08:49.252333
+[INFO] Starting Playwright at 2026-01-07 10:08:49.255363
+[INFO] Playwright completed at 2026-01-07 10:12:03.057362
+[DEBUG] Script reached at 2026-01-07 12:00:09.702398
+[INFO] Starting Playwright at 2026-01-07 12:00:09.729224
+[INFO] Playwright completed at 2026-01-07 12:03:14.918361
+[DEBUG] Script reached at 2026-01-07 13:08:46.164811
+[INFO] Starting Playwright at 2026-01-07 13:08:46.166802
+[INFO] Playwright completed at 2026-01-07 13:11:52.654238
+[DEBUG] Script reached at 2026-01-07 15:20:55.739859
+[INFO] Starting Playwright at 2026-01-07 15:20:55.743855
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 16:08:42.266133
+[INFO] Starting Playwright at 2026-01-07 16:08:42.268132
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 18:00:06.167454
+[INFO] Starting Playwright at 2026-01-07 18:00:06.168453
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 19:08:42.490447
+[INFO] Starting Playwright at 2026-01-07 19:08:42.492447
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 21:00:07.173260
+[INFO] Starting Playwright at 2026-01-07 21:00:07.179590
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-07 22:08:41.989944
+[INFO] Starting Playwright at 2026-01-07 22:08:41.991970
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 00:00:07.174615
+[INFO] Starting Playwright at 2026-01-08 00:00:07.175617
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 01:08:42.234059
+[INFO] Starting Playwright at 2026-01-08 01:08:42.235060
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 03:00:07.755802
+[INFO] Starting Playwright at 2026-01-08 03:00:07.756802
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 04:08:43.698509
+[INFO] Starting Playwright at 2026-01-08 04:08:43.699522
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 06:00:06.381398
+[INFO] Starting Playwright at 2026-01-08 06:00:06.383800
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 07:30:45.305388
+[INFO] Starting Playwright at 2026-01-08 07:30:45.322533
+[INFO] Playwright completed at 2026-01-08 07:34:34.435899
+[DEBUG] Script reached at 2026-01-08 09:00:08.059745
+[INFO] Starting Playwright at 2026-01-08 09:00:08.062070
+[INFO] Playwright completed at 2026-01-08 09:03:11.179975
+[DEBUG] Script reached at 2026-01-08 10:08:43.688097
+[INFO] Starting Playwright at 2026-01-08 10:08:43.697109
+[INFO] Playwright completed at 2026-01-08 10:11:42.759638
+[DEBUG] Script reached at 2026-01-08 12:00:08.737048
+[INFO] Starting Playwright at 2026-01-08 12:00:08.737048
+[INFO] Playwright completed at 2026-01-08 12:03:00.704046
+[DEBUG] Script reached at 2026-01-08 13:08:45.977515
+[INFO] Starting Playwright at 2026-01-08 13:08:45.979512
+[INFO] Playwright completed at 2026-01-08 13:11:29.855610
+[DEBUG] Script reached at 2026-01-08 15:20:31.990508
+[INFO] Starting Playwright at 2026-01-08 15:20:31.998060
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 16:08:42.105699
+[INFO] Starting Playwright at 2026-01-08 16:08:42.106692
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 18:00:06.074365
+[INFO] Starting Playwright at 2026-01-08 18:00:06.075364
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 19:08:55.103995
+[INFO] Starting Playwright at 2026-01-08 19:08:55.106018
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 21:00:07.032460
+[INFO] Starting Playwright at 2026-01-08 21:00:07.033466
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-08 22:08:41.789748
+[INFO] Starting Playwright at 2026-01-08 22:08:41.795861
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-09 00:00:06.677519
+[INFO] Starting Playwright at 2026-01-09 00:00:06.678522
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-09 01:08:42.801729
+[INFO] Starting Playwright at 2026-01-09 01:08:42.804751
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-09 03:00:07.801938
+[INFO] Starting Playwright at 2026-01-09 03:00:07.804883
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-09 04:08:44.562392
+[INFO] Starting Playwright at 2026-01-09 04:08:44.566847
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-09 06:00:13.683584
+[INFO] Starting Playwright at 2026-01-09 06:00:13.683584
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-09 07:09:00.281663
+[INFO] Starting Playwright at 2026-01-09 07:09:00.318737
+[INFO] Playwright completed at 2026-01-09 07:12:32.014470
+[DEBUG] Script reached at 2026-01-09 09:00:08.328206
+[INFO] Starting Playwright at 2026-01-09 09:00:08.330722
+[INFO] Playwright completed at 2026-01-09 09:03:00.422922
+[DEBUG] Script reached at 2026-01-09 10:08:48.704570
+[INFO] Starting Playwright at 2026-01-09 10:08:48.708771
+[INFO] Playwright completed at 2026-01-09 10:11:44.734159
+[DEBUG] Script reached at 2026-01-09 12:00:06.781715
+[INFO] Starting Playwright at 2026-01-09 12:00:06.784266
+[INFO] Playwright completed at 2026-01-09 12:02:54.366060
+[DEBUG] Script reached at 2026-01-09 13:08:43.125936
+[INFO] Starting Playwright at 2026-01-09 13:08:43.130456
+[INFO] Playwright completed at 2026-01-09 13:11:25.829886
+[DEBUG] Script reached at 2026-01-09 15:00:07.634701
+[INFO] Starting Playwright at 2026-01-09 15:00:07.634701
+[INFO] Playwright completed at 2026-01-09 15:03:24.436662
+[DEBUG] Script reached at 2026-01-09 16:08:43.004393
+[INFO] Starting Playwright at 2026-01-09 16:08:43.022711
+[INFO] Playwright completed at 2026-01-09 16:11:22.404593
+[DEBUG] Script reached at 2026-01-09 18:00:06.405224
+[INFO] Starting Playwright at 2026-01-09 18:00:06.406222
+[INFO] Playwright completed at 2026-01-09 18:02:50.211198
+[DEBUG] Script reached at 2026-01-09 19:08:42.907591
+[INFO] Starting Playwright at 2026-01-09 19:08:42.907591
+[INFO] Playwright completed at 2026-01-09 19:11:25.098343
+[DEBUG] Script reached at 2026-01-09 21:00:06.584333
+[INFO] Starting Playwright at 2026-01-09 21:00:06.584333
+[INFO] Playwright completed at 2026-01-09 21:02:53.275385
+[DEBUG] Script reached at 2026-01-09 22:08:42.837204
+[INFO] Starting Playwright at 2026-01-09 22:08:42.837204
+[INFO] Playwright completed at 2026-01-09 22:11:28.977613
+[DEBUG] Script reached at 2026-01-10 00:00:06.827589
+[INFO] Starting Playwright at 2026-01-10 00:00:06.829254
+[INFO] Playwright completed at 2026-01-10 00:02:56.871785
+[DEBUG] Script reached at 2026-01-10 01:08:43.835242
+[INFO] Starting Playwright at 2026-01-10 01:08:43.835242
+[INFO] Playwright completed at 2026-01-10 01:11:27.977743
+[DEBUG] Script reached at 2026-01-10 03:00:07.293887
+[INFO] Starting Playwright at 2026-01-10 03:00:07.293887
+[INFO] Playwright completed at 2026-01-10 03:02:54.154963
+[DEBUG] Script reached at 2026-01-10 04:08:45.469879
+[INFO] Starting Playwright at 2026-01-10 04:08:45.469879
+[INFO] Playwright completed at 2026-01-10 04:11:25.680686
+[DEBUG] Script reached at 2026-01-10 06:00:07.230903
+[INFO] Starting Playwright at 2026-01-10 06:00:07.230903
+[INFO] Playwright completed at 2026-01-10 06:01:56.831919
+[DEBUG] Script reached at 2026-01-10 07:08:44.690346
+[INFO] Starting Playwright at 2026-01-10 07:08:44.694356
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 09:00:06.920421
+[INFO] Starting Playwright at 2026-01-10 09:00:06.920421
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 10:08:42.521960
+[INFO] Starting Playwright at 2026-01-10 10:08:42.537601
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 12:00:07.061712
+[INFO] Starting Playwright at 2026-01-10 12:00:07.061712
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 13:08:42.731985
+[INFO] Starting Playwright at 2026-01-10 13:08:42.734522
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 15:00:06.931832
+[INFO] Starting Playwright at 2026-01-10 15:00:06.931832
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 16:08:43.050938
+[INFO] Starting Playwright at 2026-01-10 16:08:43.050938
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 18:00:06.898240
+[INFO] Starting Playwright at 2026-01-10 18:00:06.898240
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 19:08:42.628427
+[INFO] Starting Playwright at 2026-01-10 19:08:42.662056
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 21:00:06.929382
+[INFO] Starting Playwright at 2026-01-10 21:00:06.929382
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-10 22:08:42.904055
+[INFO] Starting Playwright at 2026-01-10 22:08:42.904055
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 00:00:06.275049
+[INFO] Starting Playwright at 2026-01-11 00:00:06.275049
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 01:08:43.800940
+[INFO] Starting Playwright at 2026-01-11 01:08:43.800940
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 03:00:06.182326
+[INFO] Starting Playwright at 2026-01-11 03:00:06.182326
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 04:08:43.445601
+[INFO] Starting Playwright at 2026-01-11 04:08:43.445601
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 06:00:07.361703
+[INFO] Starting Playwright at 2026-01-11 06:00:07.380721
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 07:08:44.008557
+[INFO] Starting Playwright at 2026-01-11 07:08:44.011474
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 09:00:07.319036
+[INFO] Starting Playwright at 2026-01-11 09:00:07.319036
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 10:08:42.772266
+[INFO] Starting Playwright at 2026-01-11 10:08:42.772266
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 12:00:06.927661
+[INFO] Starting Playwright at 2026-01-11 12:00:06.941517
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 13:08:42.757317
+[INFO] Starting Playwright at 2026-01-11 13:08:42.757317
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 15:00:07.298544
+[INFO] Starting Playwright at 2026-01-11 15:00:07.298544
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 16:08:43.470813
+[INFO] Starting Playwright at 2026-01-11 16:08:43.470813
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 18:00:06.685634
+[INFO] Starting Playwright at 2026-01-11 18:00:06.685634
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 19:08:42.616656
+[INFO] Starting Playwright at 2026-01-11 19:08:42.621431
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 21:00:07.350048
+[INFO] Starting Playwright at 2026-01-11 21:00:07.356886
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-11 22:08:42.883625
+[INFO] Starting Playwright at 2026-01-11 22:08:42.886281
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-12 00:00:06.782140
+[INFO] Starting Playwright at 2026-01-12 00:00:06.785641
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-12 01:08:42.883767
+[INFO] Starting Playwright at 2026-01-12 01:08:42.886815
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-12 03:00:07.667863
+[INFO] Starting Playwright at 2026-01-12 03:00:07.667863
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-12 04:08:43.530133
+[INFO] Starting Playwright at 2026-01-12 04:08:43.534726
+[ERROR] Playwright failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-01-12 10:26:59.886824
+[INFO] Starting Playwright at 2026-01-12 10:26:59.886824
+[DEBUG] Script reached at 2026-01-12 10:30:03.308535
+[INFO] Starting Playwright at 2026-01-12 10:30:03.313901
+[INFO] Playwright completed at 2026-01-12 10:33:26.180513
+[DEBUG] Script reached at 2026-01-12 11:13:31.994445
+[INFO] Starting Playwright at 2026-01-12 11:13:31.995444
+[INFO] Playwright completed at 2026-01-12 11:16:12.773315
+[DEBUG] Script reached at 2026-01-12 11:19:11.403958
+[INFO] Starting Playwright at 2026-01-12 11:19:11.405476
+[INFO] Playwright completed at 2026-01-12 11:21:44.634917
+[DEBUG] Script reached at 2026-01-12 11:49:36.662118
+[INFO] Starting Playwright at 2026-01-12 11:49:36.663131
+[DEBUG] Script reached at 2026-01-12 12:12:43.196036
+[INFO] Starting Playwright at 2026-01-12 12:12:43.196036
+[INFO] Playwright completed at 2026-01-12 12:15:44.324960
+[INFO] Starting git push at 2026-01-12 12:15:44.443898
+[INFO] Git add at 2026-01-12 12:15:44.455466
