@@ -6050,3 +6050,525 @@ Call log:
 [INFO] Playwright completed at 2026-02-06 15:34:34.099545
 [INFO] Starting git push at 2026-02-06 15:34:34.102501
 [INFO] Git add at 2026-02-06 15:34:34.106502
+[INFO] Git commit at 2026-02-06 15:34:34.320734
+[INFO] Git push at 2026-02-06 15:34:34.654264
+[ERROR] Git failed at 2026-02-06 15:34:35.002752: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
+[ERROR] stdout: 
+[ERROR] stderr: fatal: unable to access 'https://github.com/usps-dataeng/versionone-dashboard.git/': Could not resolve proxy: proxy.usps.gov
+
+[INFO] Git push completed at 2026-02-06 15:34:35.003752
+[DEBUG] Script reached at 2026-02-06 15:40:44.166786
+[INFO] Starting Playwright at 2026-02-06 15:40:44.167786
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 18:00:06.446456
+[INFO] Starting Playwright at 2026-02-06 18:00:06.447456
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 18:31:50.287625
+[INFO] Starting Playwright at 2026-02-06 18:31:50.288580
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 18:32:47.934062
+[INFO] Starting Playwright at 2026-02-06 18:32:47.935060
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 18:40:43.606995
+[INFO] Starting Playwright at 2026-02-06 18:40:43.608503
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 21:00:06.970697
+[INFO] Starting Playwright at 2026-02-06 21:00:06.972698
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 21:31:49.721619
+[INFO] Starting Playwright at 2026-02-06 21:31:49.722613
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 21:32:47.290680
+[INFO] Starting Playwright at 2026-02-06 21:32:47.290680
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-06 21:40:43.563179
+[INFO] Starting Playwright at 2026-02-06 21:40:43.565276
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 00:00:06.616397
+[INFO] Starting Playwright at 2026-02-07 00:00:06.617398
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 00:31:50.445028
+[INFO] Starting Playwright at 2026-02-07 00:31:50.446028
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 00:32:47.701610
+[INFO] Starting Playwright at 2026-02-07 00:32:47.702610
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 00:40:43.943865
+[INFO] Starting Playwright at 2026-02-07 00:40:43.943865
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 03:00:06.424220
+[INFO] Starting Playwright at 2026-02-07 03:00:06.424220
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 03:31:49.658551
+[INFO] Starting Playwright at 2026-02-07 03:31:49.660505
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 03:32:47.537050
+[INFO] Starting Playwright at 2026-02-07 03:32:47.538047
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 03:40:43.624730
+[INFO] Starting Playwright at 2026-02-07 03:40:43.627246
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 06:00:06.308032
+[INFO] Starting Playwright at 2026-02-07 06:00:06.309035
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 06:31:49.531160
+[INFO] Starting Playwright at 2026-02-07 06:31:49.532163
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 06:32:48.357202
+[INFO] Starting Playwright at 2026-02-07 06:32:48.358196
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 06:40:44.206518
+[INFO] Starting Playwright at 2026-02-07 06:40:44.212513
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 09:00:06.835332
+[INFO] Starting Playwright at 2026-02-07 09:00:06.836333
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 09:31:50.076724
+[INFO] Starting Playwright at 2026-02-07 09:31:50.077733
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 09:32:47.450001
+[INFO] Starting Playwright at 2026-02-07 09:32:47.451510
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 09:40:44.215950
+[INFO] Starting Playwright at 2026-02-07 09:40:44.216947
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 12:00:06.446774
+[INFO] Starting Playwright at 2026-02-07 12:00:06.448772
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 12:31:49.985615
+[INFO] Starting Playwright at 2026-02-07 12:31:49.986616
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 12:32:47.639781
+[INFO] Starting Playwright at 2026-02-07 12:32:47.640738
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 12:40:43.825614
+[INFO] Starting Playwright at 2026-02-07 12:40:43.826613
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 15:00:06.251738
+[INFO] Starting Playwright at 2026-02-07 15:00:06.253931
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 15:31:50.141725
+[INFO] Starting Playwright at 2026-02-07 15:31:50.142742
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 15:32:47.553072
+[INFO] Starting Playwright at 2026-02-07 15:32:47.554067
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 15:40:43.731010
+[INFO] Starting Playwright at 2026-02-07 15:40:43.732002
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 18:00:06.515472
+[INFO] Starting Playwright at 2026-02-07 18:00:06.518436
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 18:31:49.974658
+[INFO] Starting Playwright at 2026-02-07 18:31:49.976161
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 18:32:47.521884
+[INFO] Starting Playwright at 2026-02-07 18:32:47.522883
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 18:40:43.806208
+[INFO] Starting Playwright at 2026-02-07 18:40:43.807219
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 21:00:06.816996
+[INFO] Starting Playwright at 2026-02-07 21:00:06.818995
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 21:31:50.019126
+[INFO] Starting Playwright at 2026-02-07 21:31:50.020125
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 21:32:47.690774
+[INFO] Starting Playwright at 2026-02-07 21:32:47.691506
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-07 21:40:44.338476
+[INFO] Starting Playwright at 2026-02-07 21:40:44.340491
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 00:00:07.739733
+[INFO] Starting Playwright at 2026-02-08 00:00:07.741728
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 00:31:49.744221
+[INFO] Starting Playwright at 2026-02-08 00:31:49.745216
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 00:32:47.583161
+[INFO] Starting Playwright at 2026-02-08 00:32:47.584167
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 00:40:43.837707
+[INFO] Starting Playwright at 2026-02-08 00:40:43.838700
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 03:00:06.845178
+[INFO] Starting Playwright at 2026-02-08 03:00:06.847348
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 03:31:50.241060
+[INFO] Starting Playwright at 2026-02-08 03:31:50.242059
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 03:32:47.542215
+[INFO] Starting Playwright at 2026-02-08 03:32:47.542215
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 03:40:43.842626
+[INFO] Starting Playwright at 2026-02-08 03:40:43.845632
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 06:00:06.575638
+[INFO] Starting Playwright at 2026-02-08 06:00:06.576640
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 06:31:49.754948
+[INFO] Starting Playwright at 2026-02-08 06:31:49.754948
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 06:32:47.507099
+[INFO] Starting Playwright at 2026-02-08 06:32:47.509123
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 06:40:43.746365
+[INFO] Starting Playwright at 2026-02-08 06:40:43.747311
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 09:00:07.746005
+[INFO] Starting Playwright at 2026-02-08 09:00:07.748561
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 09:31:50.287769
+[INFO] Starting Playwright at 2026-02-08 09:31:50.288771
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 09:32:47.940573
+[INFO] Starting Playwright at 2026-02-08 09:32:47.941573
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 09:40:44.133142
+[INFO] Starting Playwright at 2026-02-08 09:40:44.134156
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 12:00:06.955171
+[INFO] Starting Playwright at 2026-02-08 12:00:06.957072
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 12:31:49.906710
+[INFO] Starting Playwright at 2026-02-08 12:31:49.908602
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 12:32:47.769575
+[INFO] Starting Playwright at 2026-02-08 12:32:47.770576
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 12:40:43.465887
+[INFO] Starting Playwright at 2026-02-08 12:40:43.465887
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 15:00:06.783615
+[INFO] Starting Playwright at 2026-02-08 15:00:06.784629
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 15:31:50.626583
+[INFO] Starting Playwright at 2026-02-08 15:31:50.627600
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 15:32:48.047285
+[INFO] Starting Playwright at 2026-02-08 15:32:48.048284
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 15:40:43.569689
+[INFO] Starting Playwright at 2026-02-08 15:40:43.570693
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 18:00:06.106754
+[INFO] Starting Playwright at 2026-02-08 18:00:06.107758
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 18:31:49.559637
+[INFO] Starting Playwright at 2026-02-08 18:31:49.561639
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 18:32:46.983942
+[INFO] Starting Playwright at 2026-02-08 18:32:46.984943
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 18:40:43.357735
+[INFO] Starting Playwright at 2026-02-08 18:40:43.358718
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 21:00:06.579978
+[INFO] Starting Playwright at 2026-02-08 21:00:06.582425
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 21:31:49.804775
+[INFO] Starting Playwright at 2026-02-08 21:31:49.806776
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 21:32:46.836278
+[INFO] Starting Playwright at 2026-02-08 21:32:46.837225
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-08 21:40:43.376626
+[INFO] Starting Playwright at 2026-02-08 21:40:43.377624
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 00:00:05.738031
+[INFO] Starting Playwright at 2026-02-09 00:00:05.739030
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 00:31:49.550598
+[INFO] Starting Playwright at 2026-02-09 00:31:49.552598
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 00:32:47.028904
+[INFO] Starting Playwright at 2026-02-09 00:32:47.029899
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 00:40:42.757801
+[INFO] Starting Playwright at 2026-02-09 00:40:42.757801
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 03:00:05.879481
+[INFO] Starting Playwright at 2026-02-09 03:00:05.881490
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 03:31:49.409150
+[INFO] Starting Playwright at 2026-02-09 03:31:49.411152
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 03:32:46.946719
+[INFO] Starting Playwright at 2026-02-09 03:32:46.948286
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 03:40:42.918896
+[INFO] Starting Playwright at 2026-02-09 03:40:42.919898
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 06:00:05.562371
+[INFO] Starting Playwright at 2026-02-09 06:00:05.564349
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 06:31:49.232163
+[INFO] Starting Playwright at 2026-02-09 06:31:49.234684
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 06:32:46.831548
+[INFO] Starting Playwright at 2026-02-09 06:32:46.833062
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 06:40:42.857364
+[INFO] Starting Playwright at 2026-02-09 06:40:42.858365
+[ERROR] Workflow failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage
+Call log:
+  - navigating to "https://versionone.usps.gov/v1/Default.aspx?menu=TaskListPage", waiting until "load"
+
+[DEBUG] Script reached at 2026-02-09 09:00:09.100789
+[INFO] Starting Playwright at 2026-02-09 09:00:09.102785
+[INFO] Playwright completed at 2026-02-09 09:08:03.839533
+[INFO] Starting git push at 2026-02-09 09:08:03.848761
+[INFO] Git add at 2026-02-09 09:08:03.853793
